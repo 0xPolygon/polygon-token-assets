@@ -6,6 +6,10 @@ const list = {
     kai: {
         symbol: "Kai",
         icon: "KAI.svg"
+    },
+    atri: {
+        symbol: "Atri",
+        icon: "ATRI.svg"
     }
 }
 
