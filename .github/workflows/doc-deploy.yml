@@ -28,6 +28,9 @@ jobs:
          ref: docs
 
       # Runs a single command using the runners shell
+      - name: INSTALL
+        run: npm ci
+         
       - name: BUILD
         run: |
           cd docs
