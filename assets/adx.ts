@@ -1,1 +1,1 @@
-export default {"symbol":"Adx","icon":"icons/AGA.svg"}
+export default {"symbol":"Adx","icon":"icons/ADX.svg"}

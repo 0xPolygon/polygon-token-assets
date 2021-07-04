@@ -124,7 +124,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "Adx", "icon": "icons/AGA.svg" });
+/* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "Adx", "icon": "icons/ADX.svg" });
 
 
 /***/ }),
@@ -153,7 +153,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "list", function() { return list; });
-const list = { "matic": { "symbol": "Matic", "icon": "icons/MATIC.svg" }, "kai": { "symbol": "Kai", "icon": "icons/KAI.svg" }, "aave": { "symbol": "Aave", "icon": "icons/AAVE.svg" }, "ac": { "symbol": "Ac", "icon": "icons/AC.svg" }, "adx": { "symbol": "Adx", "icon": "icons/AGA.svg" }, "aga": { "symbol": "Aga", "icon": "icons/AGA.svg" }, "atri": { "symbol": "Atri", "icon": "icons/ATRI.svg" }, "bid": { "symbol": "Bid", "icon": "icons/BID.svg" }, "bs1": { "symbol": "Bs1", "icon": "icons/BS1.svg" }, "btc2x-fli": { "symbol": "BTC2x-FLI", "icon": "icons/BTC2x-FLI.svg" }, "bzn": { "symbol": "BZN", "icon": "icons/BZN.svg" } };
+const list = { "matic": { "symbol": "Matic", "icon": "icons/MATIC.svg" }, "kai": { "symbol": "Kai", "icon": "icons/KAI.svg" }, "aave": { "symbol": "Aave", "icon": "icons/AAVE.svg" }, "ac": { "symbol": "Ac", "icon": "icons/AC.svg" }, "adx": { "symbol": "Adx", "icon": "icons/ADX.svg" }, "aga": { "symbol": "Aga", "icon": "icons/AGA.svg" }, "atri": { "symbol": "Atri", "icon": "icons/ATRI.svg" }, "bid": { "symbol": "Bid", "icon": "icons/BID.svg" }, "bs1": { "symbol": "Bs1", "icon": "icons/BS1.svg" }, "btc2x-fli": { "symbol": "BTC2x-FLI", "icon": "icons/BTC2x-FLI.svg" }, "bzn": { "symbol": "BZN", "icon": "icons/BZN.svg" } };
 
 
 /***/ }),
