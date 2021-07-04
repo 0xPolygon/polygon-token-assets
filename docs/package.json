@@ -1,0 +1,51 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "install:lib": "node install_lib.js",
+    "dev": "npm run install:lib && webpack-dev-server --config webpack.config.js --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.0.10",
+    "copy-webpack-plugin": "^4.6.0",
+    "cross-env": "^5.2.0",
+    "css-loader": "^2.1.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.6.0",
+    "node-sass": "^4.12.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "ts-loader": "^5.3.3",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3",
+    "url-loader": "^1.1.2",
+    "vue": "^2.6.10",
+    "vue-class-component": "^6.3.2",
+    "vue-class-decorators": "^1.0.13",
+    "vue-context-menu": "^2.0.6",
+    "vue-hot-reload-api": "^2.3.1",
+    "vue-loader": "^15.6.2",
+    "vue-property-decorator": "^7.3.0",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.10",
+    "vue-template-es2015-compiler": "^1.8.2",
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.3.1",
+    "webpack-hot-middleware": "^2.24.3",
+    "webpack-merge": "^4.2.1"
+  },
+  "dependencies": {
+    "flexstyle": "^1.0.3"
+  }
+}

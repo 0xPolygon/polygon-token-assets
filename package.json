@@ -1,5 +1,6 @@
 {
   "name": "@maticnetwork/token-assets",
+  "packageName":"maticnetwork-token-assets",
   "version": "1.0.0",
   "description": "",
   "main": "dist/lib.commonjs2.js",
