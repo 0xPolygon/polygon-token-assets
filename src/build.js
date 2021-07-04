@@ -6,11 +6,13 @@ let allExport = ``;
 for (const tokenId in list) {
     const tokenInfo = list[tokenId];
     tokenInfo.icon = "icons/" + tokenInfo.icon;
-    allExport+=`export * from './${tokenId}';\n`
+    allExport += `export * from './${tokenId}';\n`
     writeFileSync(`build/${tokenId}.ts`, `export default ${JSON.stringify(tokenInfo)}`);
 }
 
-allExport +=`import { list } from "../src/list";
+writeFileSync(`build/all.ts`, "export const list = " + JSON.stringify(list));
+
+allExport += `import { list } from "./all";
 export default list;
 `
 writeFileSync(`build/index.ts`, allExport);

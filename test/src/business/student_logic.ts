@@ -1,14 +1,14 @@
 import * as $ from 'jquery';
 import tokens from '@maticnetwork/token-assets'
 
-const getImage = (icon,key) => {
+const getImage = (icon) => {
     try {
-        const iconPath = `file-loader?name=assets/${icon}!@maticnetwork/token-assets/icons/${icon}`
+        const iconPath = `file-loader?name=assets/${icon}!@maticnetwork/token-assets/${icon}`
         console.log(iconPath)
         // return require(iconPath);
         // return require("file-loader?name=assets/KAI.svg!@maticnetwork/token-assets/icons/KAI.svg")
         const path =`assets/${icon}`
-        return require(`file-loader?name=assets/[name].[ext]!@maticnetwork/token-assets/icons/${icon}`) as any
+        return require(`file-loader?name=assets/[name].[ext]!@maticnetwork/token-assets/${icon}`) as any
     } catch (error) {
         console.error(error);
         return {
@@ -18,7 +18,7 @@ const getImage = (icon,key) => {
 
 }
 for (var tokenId in tokens) {
-    tokens[tokenId].image = getImage(tokens[tokenId].icon, tokenId).default
+    tokens[tokenId].image = getImage(tokens[tokenId].icon).default
 }
 //initiate jsstore at the start of app
 
