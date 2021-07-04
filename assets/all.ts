@@ -1,0 +1,1 @@
+export const list = {"matic":{"symbol":"Matic","icon":"icons/MATIC.svg"},"kai":{"symbol":"Kai","icon":"icons/KAI.svg"},"atri":{"symbol":"Atri","icon":"icons/ATRI.svg"}}

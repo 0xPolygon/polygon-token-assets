@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "ESNext",
+    "lib": [
+      "dom",
+      "es2015",
+      "es5",
+      "es6",
+      "esnext",
+      "es2015.promise",
+      "es2015.iterable",
+      "dom.iterable"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "noImplicitAny": false,
+    "strict": true,
+    "suppressImplicitAnyIndexErrors": true,
+    // "paths": {
+    //   "~/*": ["../*"],
+    //   "@/*": ["../widget/*"]
+    // },
+    "declaration": true,
+    "outDir": "dist/ts"
+  },
+  "exclude": ["./node_modules", "test", "docs"],
+  "compileOnSave": false
+}
