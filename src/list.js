@@ -17,7 +17,7 @@ const list = {
     },
     adx: {
         symbol: "Adx",
-        icon: "AGA.svg"
+        icon: "ADX.svg"
     },
     aga: {
         symbol: "Aga",
