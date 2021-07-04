@@ -152,31 +152,31 @@ module.exports = {
             // chunkFilename: '[id].css',
         }),
     ],
-    // optimization: {
-    //     // runtimeChunk: 'single',
-    //     splitChunks: {
-    //         chunks: 'all',
-    //         maxInitialRequests: Infinity,
-    //         minSize: 10000,
-    //         maxSize: 100000,
-    //         cacheGroups: {
-    //             vendor: {
-    //                 test: /[\\/]node_modules[\\/]/,
-    //                 name(module) {
-    //                     // get the name. E.g. node_modules/packageName/not/this/part.js
-    //                     // or node_modules/packageName
-    //                     const packageName = module.context.match(/[\\/]node_modules[\\/](.*?)([\\/]|$)/)[1];
-    //                     // console.log('package', packageName);
-    //                     // npm package names are URL-safe, but some servers don't like @ symbols
-    //                     return `npm.${packageName.replace('@', '')}`;
-    //                 },
-    //             },
-    //         },
-    //     },
-    //     minimizer: [new TerserJSPlugin(), new OptimizeCSSAssetsPlugin({
-    //         cssProcessorPluginOptions: {
-    //             preset: ['default', { discardComments: { removeAll: true } }],
-    //         },
-    //     })],
-    // }
+    optimization: {
+        // runtimeChunk: 'single',
+        splitChunks: {
+            chunks: 'all',
+            maxInitialRequests: Infinity,
+            minSize: 100000,
+            maxSize: 3000000,
+            // cacheGroups: {
+            //     vendor: {
+            //         test: /[\\/]node_modules[\\/]/,
+            //         name(module) {
+            //             // get the name. E.g. node_modules/packageName/not/this/part.js
+            //             // or node_modules/packageName
+            //             const packageName = module.context.match(/[\\/]node_modules[\\/](.*?)([\\/]|$)/)[1];
+            //             // console.log('package', packageName);
+            //             // npm package names are URL-safe, but some servers don't like @ symbols
+            //             return `npm.${packageName.replace('@', '')}`;
+            //         },
+            //     },
+            // },
+        },
+        minimizer: [new TerserJSPlugin(), new OptimizeCSSAssetsPlugin({
+            cssProcessorPluginOptions: {
+                preset: ['default', { discardComments: { removeAll: true } }],
+            },
+        })],
+    }
 };
