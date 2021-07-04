@@ -23,17 +23,20 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-        with:
-         ref: docs
-         
+      
+      - uses: actions/checkout@main
+      
       - name: Merge master -> docs
         uses: devmasx/merge-branch@v1.3.1
         with:
           type: now
-          from_branch: master
+          from_branch: main
           target_branch: docs
           github_token: ${{ github.token }}
+        
+      - uses: actions/checkout@v2
+        with:
+         ref: docs
 
       # Runs a single command using the runners shell
       - name: INSTALL
