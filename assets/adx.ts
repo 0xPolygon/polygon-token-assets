@@ -1,0 +1,1 @@
+export default {"symbol":"Adx","icon":"icons/AGA.svg"}

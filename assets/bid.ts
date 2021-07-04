@@ -1,0 +1,1 @@
+export default {"symbol":"Bid","icon":"icons/BID.svg"}

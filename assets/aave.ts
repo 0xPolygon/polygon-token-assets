@@ -1,0 +1,1 @@
+export default {"symbol":"Aave","icon":"icons/AAVE.svg"}

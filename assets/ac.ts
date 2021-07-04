@@ -1,0 +1,1 @@
+export default {"symbol":"Ac","icon":"icons/AC.svg"}

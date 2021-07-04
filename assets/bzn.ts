@@ -1,0 +1,1 @@
+export default {"symbol":"BZN","icon":"icons/BZN.svg"}
