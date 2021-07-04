@@ -26,6 +26,14 @@ jobs:
       - uses: actions/checkout@v2
         with:
          ref: docs
+         
+      - name: Merge master -> docs
+        uses: devmasx/merge-branch@v1.3.1
+        with:
+          type: now
+          from_branch: master
+          target_branch: docs
+          github_token: ${{ github.token }}
 
       # Runs a single command using the runners shell
       - name: INSTALL
