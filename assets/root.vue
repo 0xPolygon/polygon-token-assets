@@ -1,7 +1,7 @@
-import { render, staticRenderFns } from "./root.vue?vue&type=template&id=7080990c&scoped=true&"
+import { render, staticRenderFns } from "./root.vue?vue&type=template&id=18b08c64&scoped=true&"
 import script from "./root.vue?vue&type=script&lang=js&"
 export * from "./root.vue?vue&type=script&lang=js&"
-import style0 from "./root.vue?vue&type=style&index=0&id=7080990c&scoped=true&lang=css&"
+import style0 from "./root.vue?vue&type=style&index=0&id=18b08c64&scoped=true&lang=css&"
 
 
 /* normalize component */
@@ -12,7 +12,7 @@ var component = normalizer(
   staticRenderFns,
   false,
   null,
-  "7080990c",
+  "18b08c64",
   null
   
 )
