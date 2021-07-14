@@ -35,7 +35,7 @@ const list = {
         symbol: "BS1",
         icon: 'bs1.svg'
     },
-    'btc2x-fli': {
+    'btc2xFli': {
         symbol: "BTC2x-FLI",
         icon: 'btc2x-fli.svg'
     },
@@ -51,7 +51,7 @@ const list = {
         symbol: "CUM",
         icon: 'cum.svg'
     },
-    'cvp-1': {
+    'cvp1': {
         symbol: "CVP-1",
         icon: 'cvp-1.svg'
     },
@@ -199,7 +199,7 @@ const list = {
         symbol: "NFTP",
         icon: 'nftp.svg'
     },
-    'nord-1': {
+    'nord1': {
         symbol: "NORD-1",
         icon: 'nord-1.svg'
     },
@@ -207,7 +207,7 @@ const list = {
         symbol: "NORD",
         icon: 'nord.svg'
     },
-    'omniunit': {
+    'omniUnit': {
         symbol: "OMNIUNIT",
         icon: 'omniunit.svg'
     },
@@ -303,7 +303,7 @@ const list = {
         symbol: "WAIF",
         icon: 'waif.svg'
     },
-    'wbtc - 1': {
+    'wbtc1': {
         symbol: "WBTC-1",
         icon: 'wbtc-1.svg'
     },
