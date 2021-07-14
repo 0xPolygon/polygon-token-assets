@@ -167,7 +167,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "list", function() { return list; });
-const list = { "٨": { "symbol": "٨", "icon": "icons/٨.svg" }, "0xmr": { "symbol": "0xMR", "icon": "icons/0xmr.svg" }, "aave": { "symbol": "AAVE", "icon": "icons/aave.svg" }, "ac": { "symbol": "AC", "icon": "icons/ac.svg" }, "adx": { "symbol": "ADX", "icon": "icons/adx.svg" }, "aga": { "symbol": "AGA", "icon": "icons/aga.svg" }, "atri": { "symbol": "ATRI", "icon": "icons/atri.svg" }, "bid": { "symbol": "BID", "icon": "icons/bid.svg" }, "bs1": { "symbol": "BS1", "icon": "icons/bs1.svg" }, "btc2x-fli": { "symbol": "BTC2x-FLI", "icon": "icons/btc2x-fli.svg" }, "bzn": { "symbol": "BZN", "icon": "icons/bzn.svg" }, "ctsi": { "symbol": "CTSI", "icon": "icons/ctsi.svg" }, "cum": { "symbol": "CUM", "icon": "icons/cum.svg" }, "cvp-1": { "symbol": "CVP-1", "icon": "icons/cvp-1.svg" }, "cvp": { "symbol": "CVP", "icon": "icons/cvp.svg" }, "dafi": { "symbol": "DAFI", "icon": "icons/dafi.svg" }, "dam": { "symbol": "DAM", "icon": "icons/dam.svg" }, "daofi": { "symbol": "DAOfi", "icon": "icons/daofi.svg" }, "dev": { "symbol": "DEV", "icon": "icons/dev.svg" }, "dht": { "symbol": "DHT", "icon": "icons/dht.svg" }, "dmt": { "symbol": "DMT", "icon": "icons/dmt.svg" }, "dpr": { "symbol": "DPR", "icon": "icons/dpr.svg" }, "dust": { "symbol": "DUST", "icon": "icons/dust.svg" }, "easy2": { "symbol": "EASY2", "icon": "icons/easy2.svg" }, "equad": { "symbol": "eQUAD", "icon": "icons/equad.svg" }, "ersdl": { "symbol": "eRSDL", "icon": "icons/ersdl.svg" }, "ez": { "symbol": "EZ", "icon": "icons/ez.svg" }, "fgh": { "symbol": "FGH", "icon": "icons/fgh.svg" }, "forth": { "symbol": "FORTH", "icon": "icons/forth.svg" }, "gcr": { "symbol": "GCR", "icon": "icons/gcr.svg" }, "glch": { "symbol": "GLCH", "icon": "icons/glch.svg" }, "grt": { "symbol": "GRT", "icon": "icons/grt.svg" }, "hxn": { "symbol": "HXN", "icon": "icons/hxn.svg" }, "ice": { "symbol": "ICE", "icon": "icons/ice.svg" }, "ifund": { "symbol": "iFUND", "icon": "icons/ifund.svg" }, "inxt": { "symbol": "INXT", "icon": "icons/inxt.svg" }, "kai": { "symbol": "KAI", "icon": "icons/kai.svg" }, "ktn": { "symbol": "KTN", "icon": "icons/ktn.svg" }, "lit": { "symbol": "LIT", "icon": "icons/lit.svg" }, "lpt": { "symbol": "LPT", "icon": "icons/lpt.svg" }, "luna": { "symbol": "LUNA", "icon": "icons/luna.svg" }, "mbc": { "symbol": "MBC", "icon": "icons/mbc.svg" }, "mega": { "symbol": "MEGA", "icon": "icons/mega.svg" }, "mlink": { "symbol": "mLINK", "icon": "icons/mlink.svg" }, "mne": { "symbol": "MNE", "icon": "icons/mne.svg" }, "mod": { "symbol": "MOD", "icon": "icons/mod.svg" }, "nanj": { "symbol": "NANJ", "icon": "icons/nanj.svg" }, "nbu": { "symbol": "NBU", "icon": "icons/nbu.svg" }, "ndx": { "symbol": "NDX", "icon": "icons/ndx.svg" }, "nftp": { "symbol": "NFTP", "icon": "icons/nftp.svg" }, "nord-1": { "symbol": "NORD-1", "icon": "icons/nord-1.svg" }, "nord": { "symbol": "NORD", "icon": "icons/nord.svg" }, "omniunit": { "symbol": "OMNIUNIT", "icon": "icons/omniunit.svg" }, "par": { "symbol": "PAR", "icon": "icons/par.svg" }, "pass": { "symbol": "PASS", "icon": "icons/pass.svg" }, "pro": { "symbol": "PRO", "icon": "icons/pro.svg" }, "quick": { "symbol": "QUICK", "icon": "icons/quick.svg" }, "ramp": { "symbol": "RAMP", "icon": "icons/ramp.svg" }, "ren": { "symbol": "REN", "icon": "icons/ren.svg" }, "rendoge": { "symbol": "renDOGE", "icon": "icons/rendoge.svg" }, "rfuel": { "symbol": "RFuel", "icon": "icons/rfuel.svg" }, "rlc": { "symbol": "RLC", "icon": "icons/rlc.svg" }, "route": { "symbol": "ROUTE", "icon": "icons/route.svg" }, "sake": { "symbol": "SAKE", "icon": "icons/sake.svg" }, "sand": { "symbol": "SAND", "icon": "icons/sand.svg" }, "seth2": { "symbol": "sETH2", "icon": "icons/seth2.svg" }, "soar": { "symbol": "SOAR", "icon": "icons/soar.svg" }, "song": { "symbol": "SONG", "icon": "icons/song.svg" }, "superbid": { "symbol": "SUPERBID", "icon": "icons/superbid.svg" }, "sx": { "symbol": "SX", "icon": "icons/sx.svg" }, "tel": { "symbol": "TEL", "icon": "icons/tel.svg" }, "torn": { "symbol": "TORN", "icon": "icons/torn.svg" }, "umbr": { "symbol": "UMBR", "icon": "icons/umbr.svg" }, "vidya": { "symbol": "VIDYA", "icon": "icons/vidya.svg" }, "vision": { "symbol": "VISION", "icon": "icons/vision.svg" }, "waif": { "symbol": "WAIF", "icon": "icons/waif.svg" }, "wbtc - 1": { "symbol": "WBTC-1", "icon": "icons/wbtc-1.svg" }, "wbtc": { "symbol": "WBTC", "icon": "icons/wbtc.svg" }, "wcelo": { "symbol": "wCELO", "icon": "icons/wcelo.svg" }, "weth": { "symbol": "WETH", "icon": "icons/weth.svg" }, "wnxm": { "symbol": "wNXM", "icon": "icons/wnxm.svg" }, "wrx": { "symbol": "WRX", "icon": "icons/wrx.svg" }, "wsta": { "symbol": "WSTA", "icon": "icons/wsta.svg" }, "yop": { "symbol": "YOP", "icon": "icons/yop.svg" } };
+const list = { "٨": { "symbol": "٨", "icon": "icons/٨.svg" }, "0xmr": { "symbol": "0xMR", "icon": "icons/0xmr.svg" }, "aave": { "symbol": "AAVE", "icon": "icons/aave.svg" }, "ac": { "symbol": "AC", "icon": "icons/ac.svg" }, "adx": { "symbol": "ADX", "icon": "icons/adx.svg" }, "aga": { "symbol": "AGA", "icon": "icons/aga.svg" }, "atri": { "symbol": "ATRI", "icon": "icons/atri.svg" }, "bid": { "symbol": "BID", "icon": "icons/bid.svg" }, "bs1": { "symbol": "BS1", "icon": "icons/bs1.svg" }, "btc2xFli": { "symbol": "BTC2x-FLI", "icon": "icons/btc2x-fli.svg" }, "bzn": { "symbol": "BZN", "icon": "icons/bzn.svg" }, "ctsi": { "symbol": "CTSI", "icon": "icons/ctsi.svg" }, "cum": { "symbol": "CUM", "icon": "icons/cum.svg" }, "cvp1": { "symbol": "CVP-1", "icon": "icons/cvp-1.svg" }, "cvp": { "symbol": "CVP", "icon": "icons/cvp.svg" }, "dafi": { "symbol": "DAFI", "icon": "icons/dafi.svg" }, "dam": { "symbol": "DAM", "icon": "icons/dam.svg" }, "daofi": { "symbol": "DAOfi", "icon": "icons/daofi.svg" }, "dev": { "symbol": "DEV", "icon": "icons/dev.svg" }, "dht": { "symbol": "DHT", "icon": "icons/dht.svg" }, "dmt": { "symbol": "DMT", "icon": "icons/dmt.svg" }, "dpr": { "symbol": "DPR", "icon": "icons/dpr.svg" }, "dust": { "symbol": "DUST", "icon": "icons/dust.svg" }, "easy2": { "symbol": "EASY2", "icon": "icons/easy2.svg" }, "equad": { "symbol": "eQUAD", "icon": "icons/equad.svg" }, "ersdl": { "symbol": "eRSDL", "icon": "icons/ersdl.svg" }, "ez": { "symbol": "EZ", "icon": "icons/ez.svg" }, "fgh": { "symbol": "FGH", "icon": "icons/fgh.svg" }, "forth": { "symbol": "FORTH", "icon": "icons/forth.svg" }, "gcr": { "symbol": "GCR", "icon": "icons/gcr.svg" }, "glch": { "symbol": "GLCH", "icon": "icons/glch.svg" }, "grt": { "symbol": "GRT", "icon": "icons/grt.svg" }, "hxn": { "symbol": "HXN", "icon": "icons/hxn.svg" }, "ice": { "symbol": "ICE", "icon": "icons/ice.svg" }, "ifund": { "symbol": "iFUND", "icon": "icons/ifund.svg" }, "inxt": { "symbol": "INXT", "icon": "icons/inxt.svg" }, "kai": { "symbol": "KAI", "icon": "icons/kai.svg" }, "ktn": { "symbol": "KTN", "icon": "icons/ktn.svg" }, "lit": { "symbol": "LIT", "icon": "icons/lit.svg" }, "lpt": { "symbol": "LPT", "icon": "icons/lpt.svg" }, "luna": { "symbol": "LUNA", "icon": "icons/luna.svg" }, "mbc": { "symbol": "MBC", "icon": "icons/mbc.svg" }, "mega": { "symbol": "MEGA", "icon": "icons/mega.svg" }, "mlink": { "symbol": "mLINK", "icon": "icons/mlink.svg" }, "mne": { "symbol": "MNE", "icon": "icons/mne.svg" }, "mod": { "symbol": "MOD", "icon": "icons/mod.svg" }, "nanj": { "symbol": "NANJ", "icon": "icons/nanj.svg" }, "nbu": { "symbol": "NBU", "icon": "icons/nbu.svg" }, "ndx": { "symbol": "NDX", "icon": "icons/ndx.svg" }, "nftp": { "symbol": "NFTP", "icon": "icons/nftp.svg" }, "nord1": { "symbol": "NORD-1", "icon": "icons/nord-1.svg" }, "nord": { "symbol": "NORD", "icon": "icons/nord.svg" }, "omniunit": { "symbol": "OMNIUNIT", "icon": "icons/omniunit.svg" }, "par": { "symbol": "PAR", "icon": "icons/par.svg" }, "pass": { "symbol": "PASS", "icon": "icons/pass.svg" }, "pro": { "symbol": "PRO", "icon": "icons/pro.svg" }, "quick": { "symbol": "QUICK", "icon": "icons/quick.svg" }, "ramp": { "symbol": "RAMP", "icon": "icons/ramp.svg" }, "ren": { "symbol": "REN", "icon": "icons/ren.svg" }, "rendoge": { "symbol": "renDOGE", "icon": "icons/rendoge.svg" }, "rfuel": { "symbol": "RFuel", "icon": "icons/rfuel.svg" }, "rlc": { "symbol": "RLC", "icon": "icons/rlc.svg" }, "route": { "symbol": "ROUTE", "icon": "icons/route.svg" }, "sake": { "symbol": "SAKE", "icon": "icons/sake.svg" }, "sand": { "symbol": "SAND", "icon": "icons/sand.svg" }, "seth2": { "symbol": "sETH2", "icon": "icons/seth2.svg" }, "soar": { "symbol": "SOAR", "icon": "icons/soar.svg" }, "song": { "symbol": "SONG", "icon": "icons/song.svg" }, "superbid": { "symbol": "SUPERBID", "icon": "icons/superbid.svg" }, "sx": { "symbol": "SX", "icon": "icons/sx.svg" }, "tel": { "symbol": "TEL", "icon": "icons/tel.svg" }, "torn": { "symbol": "TORN", "icon": "icons/torn.svg" }, "umbr": { "symbol": "UMBR", "icon": "icons/umbr.svg" }, "vidya": { "symbol": "VIDYA", "icon": "icons/vidya.svg" }, "vision": { "symbol": "VISION", "icon": "icons/vision.svg" }, "waif": { "symbol": "WAIF", "icon": "icons/waif.svg" }, "wbtc1": { "symbol": "WBTC-1", "icon": "icons/wbtc-1.svg" }, "wbtc": { "symbol": "WBTC", "icon": "icons/wbtc.svg" }, "wcelo": { "symbol": "wCELO", "icon": "icons/wcelo.svg" }, "weth": { "symbol": "WETH", "icon": "icons/weth.svg" }, "wnxm": { "symbol": "wNXM", "icon": "icons/wnxm.svg" }, "wrx": { "symbol": "WRX", "icon": "icons/wrx.svg" }, "wsta": { "symbol": "WSTA", "icon": "icons/wsta.svg" }, "yop": { "symbol": "YOP", "icon": "icons/yop.svg" } };
 
 
 /***/ }),
@@ -214,10 +214,10 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./build/btc2x-fli.ts":
-/*!****************************!*\
-  !*** ./build/btc2x-fli.ts ***!
-  \****************************/
+/***/ "./build/btc2xFli.ts":
+/*!***************************!*\
+  !*** ./build/btc2xFli.ts ***!
+  \***************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -270,20 +270,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./build/cvp-1.ts":
-/*!************************!*\
-  !*** ./build/cvp-1.ts ***!
-  \************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "CVP-1", "icon": "icons/cvp-1.svg" });
-
-
-/***/ }),
-
 /***/ "./build/cvp.ts":
 /*!**********************!*\
   !*** ./build/cvp.ts ***!
@@ -294,6 +280,20 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "CVP", "icon": "icons/cvp.svg" });
+
+
+/***/ }),
+
+/***/ "./build/cvp1.ts":
+/*!***********************!*\
+  !*** ./build/cvp1.ts ***!
+  \***********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "CVP-1", "icon": "icons/cvp-1.svg" });
 
 
 /***/ }),
@@ -596,11 +596,11 @@ __webpack_require__.r(__webpack_exports__);
 /* empty/unused harmony star reexport *//* harmony import */ var _atri__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./atri */ "./build/atri.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _bid__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./bid */ "./build/bid.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _bs1__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./bs1 */ "./build/bs1.ts");
-/* empty/unused harmony star reexport *//* harmony import */ var _btc2x_fli__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./btc2x-fli */ "./build/btc2x-fli.ts");
+/* empty/unused harmony star reexport *//* harmony import */ var _btc2xFli__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./btc2xFli */ "./build/btc2xFli.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _bzn__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./bzn */ "./build/bzn.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _ctsi__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./ctsi */ "./build/ctsi.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _cum__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./cum */ "./build/cum.ts");
-/* empty/unused harmony star reexport *//* harmony import */ var _cvp_1__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./cvp-1 */ "./build/cvp-1.ts");
+/* empty/unused harmony star reexport *//* harmony import */ var _cvp1__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./cvp1 */ "./build/cvp1.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _cvp__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./cvp */ "./build/cvp.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _dafi__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./dafi */ "./build/dafi.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _dam__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./dam */ "./build/dam.ts");
@@ -637,7 +637,7 @@ __webpack_require__.r(__webpack_exports__);
 /* empty/unused harmony star reexport *//* harmony import */ var _nbu__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./nbu */ "./build/nbu.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _ndx__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./ndx */ "./build/ndx.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _nftp__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./nftp */ "./build/nftp.ts");
-/* empty/unused harmony star reexport *//* harmony import */ var _nord_1__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./nord-1 */ "./build/nord-1.ts");
+/* empty/unused harmony star reexport *//* harmony import */ var _nord1__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./nord1 */ "./build/nord1.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _nord__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./nord */ "./build/nord.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _omniunit__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./omniunit */ "./build/omniunit.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _par__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! ./par */ "./build/par.ts");
@@ -663,7 +663,7 @@ __webpack_require__.r(__webpack_exports__);
 /* empty/unused harmony star reexport *//* harmony import */ var _vidya__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(/*! ./vidya */ "./build/vidya.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _vision__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(/*! ./vision */ "./build/vision.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _waif__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(/*! ./waif */ "./build/waif.ts");
-/* empty/unused harmony star reexport *//* harmony import */ var _wbtc_1__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! ./wbtc - 1 */ "./build/wbtc - 1.ts");
+/* empty/unused harmony star reexport *//* harmony import */ var _wbtc1__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! ./wbtc1 */ "./build/wbtc1.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _wbtc__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(/*! ./wbtc */ "./build/wbtc.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _wcelo__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(/*! ./wcelo */ "./build/wcelo.ts");
 /* empty/unused harmony star reexport *//* harmony import */ var _weth__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(/*! ./weth */ "./build/weth.ts");
@@ -972,20 +972,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./build/nord-1.ts":
-/*!*************************!*\
-  !*** ./build/nord-1.ts ***!
-  \*************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "NORD-1", "icon": "icons/nord-1.svg" });
-
-
-/***/ }),
-
 /***/ "./build/nord.ts":
 /*!***********************!*\
   !*** ./build/nord.ts ***!
@@ -996,6 +982,20 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "NORD", "icon": "icons/nord.svg" });
+
+
+/***/ }),
+
+/***/ "./build/nord1.ts":
+/*!************************!*\
+  !*** ./build/nord1.ts ***!
+  \************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "NORD-1", "icon": "icons/nord-1.svg" });
 
 
 /***/ }),
@@ -1336,20 +1336,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./build/wbtc - 1.ts":
-/*!***************************!*\
-  !*** ./build/wbtc - 1.ts ***!
-  \***************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "WBTC-1", "icon": "icons/wbtc-1.svg" });
-
-
-/***/ }),
-
 /***/ "./build/wbtc.ts":
 /*!***********************!*\
   !*** ./build/wbtc.ts ***!
@@ -1360,6 +1346,20 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "WBTC", "icon": "icons/wbtc.svg" });
+
+
+/***/ }),
+
+/***/ "./build/wbtc1.ts":
+/*!************************!*\
+  !*** ./build/wbtc1.ts ***!
+  \************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ({ "symbol": "WBTC-1", "icon": "icons/wbtc-1.svg" });
 
 
 /***/ }),

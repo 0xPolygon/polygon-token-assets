@@ -35,7 +35,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "btc2x-fli": {
+    btc2xFli: {
         symbol: string;
         icon: string;
     };
@@ -51,7 +51,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "cvp-1": {
+    cvp1: {
         symbol: string;
         icon: string;
     };
@@ -199,7 +199,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "nord-1": {
+    nord1: {
         symbol: string;
         icon: string;
     };
@@ -303,7 +303,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "wbtc - 1": {
+    wbtc1: {
         symbol: string;
         icon: string;
     };
