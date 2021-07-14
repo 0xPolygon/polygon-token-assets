@@ -1,7 +1,17 @@
 <template>
   <div class="root col content-center mt-20px">
-    <h1 class="text-primary">Polygon Token Assets</h1>
-    <div>
+    <div class="row">
+      <h1 class="text-primary">
+        Polygon Token Assets
+      </h1>
+    </div>
+    <div class="row content-v-center">
+      <div class="row content-v-center text-secondary mr-20px">
+        <h2>
+          {{ tokensLength }}
+          tokens
+        </h2>
+      </div>
       <input
         v-model="searchText"
         placeholder="Search token"
@@ -22,6 +32,11 @@ import tokens from '@maticnetwork/token-assets'
 import TokenItem from './token-item.vue'
 export default {
   components: { TokenItem },
+  computed: {
+    tokensLength() {
+      return Object.keys(this.tokens).length
+    },
+  },
   created() {
     this.tokens = tokens
   },
