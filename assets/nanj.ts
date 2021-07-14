@@ -1,0 +1,1 @@
+export default {"symbol":"NANJ","icon":"icons/nanj.svg"}

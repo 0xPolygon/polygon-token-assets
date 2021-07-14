@@ -1,0 +1,1 @@
+export default {"symbol":"WETH","icon":"icons/weth.svg"}

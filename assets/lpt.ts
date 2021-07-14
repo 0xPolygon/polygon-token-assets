@@ -1,0 +1,1 @@
+export default {"symbol":"LPT","icon":"icons/lpt.svg"}

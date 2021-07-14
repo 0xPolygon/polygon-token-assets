@@ -1,0 +1,1 @@
+export default {"symbol":"FGH","icon":"icons/fgh.svg"}

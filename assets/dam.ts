@@ -1,0 +1,1 @@
+export default {"symbol":"DAM","icon":"icons/dam.svg"}

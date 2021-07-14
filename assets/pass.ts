@@ -1,0 +1,1 @@
+export default {"symbol":"PASS","icon":"icons/pass.svg"}

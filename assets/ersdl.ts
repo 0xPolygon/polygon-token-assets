@@ -1,0 +1,1 @@
+export default {"symbol":"eRSDL","icon":"icons/ersdl.svg"}

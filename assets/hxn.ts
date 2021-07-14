@@ -1,0 +1,1 @@
+export default {"symbol":"HXN","icon":"icons/hxn.svg"}

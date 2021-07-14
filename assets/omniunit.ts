@@ -1,0 +1,1 @@
+export default {"symbol":"OMNIUNIT","icon":"icons/omniunit.svg"}

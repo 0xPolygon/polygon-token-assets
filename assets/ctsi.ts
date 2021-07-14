@@ -1,0 +1,1 @@
+export default {"symbol":"CTSI","icon":"icons/ctsi.svg"}

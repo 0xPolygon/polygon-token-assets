@@ -1,1 +1,1 @@
-export default {"symbol":"BTC2x-FLI","icon":"icons/BTC2x-FLI.svg"}
+export default {"symbol":"BTC2x-FLI","icon":"icons/btc2x-fli.svg"}

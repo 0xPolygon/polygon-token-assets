@@ -1,0 +1,1 @@
+export default {"symbol":"renDOGE","icon":"icons/rendoge.svg"}

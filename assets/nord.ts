@@ -1,0 +1,1 @@
+export default {"symbol":"NORD","icon":"icons/nord.svg"}

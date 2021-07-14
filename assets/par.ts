@@ -1,0 +1,1 @@
+export default {"symbol":"PAR","icon":"icons/par.svg"}

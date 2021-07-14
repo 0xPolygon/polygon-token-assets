@@ -1,0 +1,1 @@
+export default {"symbol":"CVP","icon":"icons/cvp.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"MOD","icon":"icons/mod.svg"}

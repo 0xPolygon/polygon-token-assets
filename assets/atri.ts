@@ -1,1 +1,1 @@
-export default {"symbol":"Atri","icon":"icons/ATRI.svg"}
+export default {"symbol":"ATRI","icon":"icons/atri.svg"}

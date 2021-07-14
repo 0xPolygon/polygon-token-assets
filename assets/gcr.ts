@@ -1,0 +1,1 @@
+export default {"symbol":"GCR","icon":"icons/gcr.svg"}

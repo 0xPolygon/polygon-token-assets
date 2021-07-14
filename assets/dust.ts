@@ -1,0 +1,1 @@
+export default {"symbol":"DUST","icon":"icons/dust.svg"}

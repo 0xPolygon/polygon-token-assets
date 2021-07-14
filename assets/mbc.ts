@@ -1,0 +1,1 @@
+export default {"symbol":"MBC","icon":"icons/mbc.svg"}

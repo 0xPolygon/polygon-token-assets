@@ -1,0 +1,1 @@
+export default {"symbol":"SUPERBID","icon":"icons/superbid.svg"}

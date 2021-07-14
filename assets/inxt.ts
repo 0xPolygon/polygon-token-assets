@@ -1,0 +1,1 @@
+export default {"symbol":"INXT","icon":"icons/inxt.svg"}

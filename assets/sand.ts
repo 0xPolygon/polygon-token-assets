@@ -1,0 +1,1 @@
+export default {"symbol":"SAND","icon":"icons/sand.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"QUICK","icon":"icons/quick.svg"}

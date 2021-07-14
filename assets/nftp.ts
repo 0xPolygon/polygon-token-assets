@@ -1,0 +1,1 @@
+export default {"symbol":"NFTP","icon":"icons/nftp.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"DAFI","icon":"icons/dafi.svg"}

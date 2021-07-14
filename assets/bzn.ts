@@ -1,1 +1,1 @@
-export default {"symbol":"BZN","icon":"icons/BZN.svg"}
+export default {"symbol":"BZN","icon":"icons/bzn.svg"}

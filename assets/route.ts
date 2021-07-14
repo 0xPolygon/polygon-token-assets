@@ -1,0 +1,1 @@
+export default {"symbol":"ROUTE","icon":"icons/route.svg"}

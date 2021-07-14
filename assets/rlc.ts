@@ -1,0 +1,1 @@
+export default {"symbol":"RLC","icon":"icons/rlc.svg"}

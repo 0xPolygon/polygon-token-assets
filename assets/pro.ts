@@ -1,0 +1,1 @@
+export default {"symbol":"PRO","icon":"icons/pro.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"KTN","icon":"icons/ktn.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"TORN","icon":"icons/torn.svg"}

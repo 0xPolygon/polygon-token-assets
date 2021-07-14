@@ -1,0 +1,1 @@
+export default {"symbol":"TEL","icon":"icons/tel.svg"}

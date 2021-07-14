@@ -1,0 +1,1 @@
+export default {"symbol":"VIDYA","icon":"icons/vidya.svg"}

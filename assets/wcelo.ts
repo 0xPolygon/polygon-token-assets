@@ -1,0 +1,1 @@
+export default {"symbol":"wCELO","icon":"icons/wcelo.svg"}

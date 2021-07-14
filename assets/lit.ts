@@ -1,0 +1,1 @@
+export default {"symbol":"LIT","icon":"icons/lit.svg"}

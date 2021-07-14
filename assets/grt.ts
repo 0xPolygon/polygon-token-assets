@@ -1,0 +1,1 @@
+export default {"symbol":"GRT","icon":"icons/grt.svg"}

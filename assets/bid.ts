@@ -1,1 +1,1 @@
-export default {"symbol":"Bid","icon":"icons/BID.svg"}
+export default {"symbol":"BID","icon":"icons/bid.svg"}

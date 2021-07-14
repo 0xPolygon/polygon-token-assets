@@ -1,0 +1,1 @@
+export default {"symbol":"MEGA","icon":"icons/mega.svg"}

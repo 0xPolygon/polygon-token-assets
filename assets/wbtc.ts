@@ -1,0 +1,1 @@
+export default {"symbol":"WBTC","icon":"icons/wbtc.svg"}

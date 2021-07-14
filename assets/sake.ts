@@ -1,0 +1,1 @@
+export default {"symbol":"SAKE","icon":"icons/sake.svg"}

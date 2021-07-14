@@ -1,1 +1,1 @@
-export default {"symbol":"Kai","icon":"icons/KAI.svg"}
+export default {"symbol":"KAI","icon":"icons/kai.svg"}

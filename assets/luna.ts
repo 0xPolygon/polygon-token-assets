@@ -1,0 +1,1 @@
+export default {"symbol":"LUNA","icon":"icons/luna.svg"}

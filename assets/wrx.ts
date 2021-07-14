@@ -1,0 +1,1 @@
+export default {"symbol":"WRX","icon":"icons/wrx.svg"}

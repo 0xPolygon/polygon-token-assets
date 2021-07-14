@@ -1,0 +1,1 @@
+export default {"symbol":"UMBR","icon":"icons/umbr.svg"}

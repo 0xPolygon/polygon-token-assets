@@ -1,0 +1,1 @@
+export default {"symbol":"YOP","icon":"icons/yop.svg"}

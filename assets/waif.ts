@@ -1,0 +1,1 @@
+export default {"symbol":"WAIF","icon":"icons/waif.svg"}

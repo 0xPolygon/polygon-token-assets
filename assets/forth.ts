@@ -1,0 +1,1 @@
+export default {"symbol":"FORTH","icon":"icons/forth.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"SOAR","icon":"icons/soar.svg"}

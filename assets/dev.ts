@@ -1,0 +1,1 @@
+export default {"symbol":"DEV","icon":"icons/dev.svg"}

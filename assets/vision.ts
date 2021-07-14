@@ -1,0 +1,1 @@
+export default {"symbol":"VISION","icon":"icons/vision.svg"}

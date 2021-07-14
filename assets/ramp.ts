@@ -1,0 +1,1 @@
+export default {"symbol":"RAMP","icon":"icons/ramp.svg"}

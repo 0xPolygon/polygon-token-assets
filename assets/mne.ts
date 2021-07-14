@@ -1,0 +1,1 @@
+export default {"symbol":"MNE","icon":"icons/mne.svg"}

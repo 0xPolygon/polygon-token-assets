@@ -1,0 +1,1 @@
+export default {"symbol":"٨","icon":"icons/٨.svg"}

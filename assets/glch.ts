@@ -1,0 +1,1 @@
+export default {"symbol":"GLCH","icon":"icons/glch.svg"}

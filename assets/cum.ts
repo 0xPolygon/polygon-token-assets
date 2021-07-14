@@ -1,0 +1,1 @@
+export default {"symbol":"CUM","icon":"icons/cum.svg"}

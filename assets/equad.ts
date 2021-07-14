@@ -1,0 +1,1 @@
+export default {"symbol":"eQUAD","icon":"icons/equad.svg"}
