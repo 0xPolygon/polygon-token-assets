@@ -1,0 +1,1 @@
+export default {"symbol":"KIN","icon":"icons/kin.svg"}

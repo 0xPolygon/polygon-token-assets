@@ -1,0 +1,1 @@
+export default {"symbol":"UFT","icon":"icons/uft.svg"}

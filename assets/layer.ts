@@ -1,0 +1,1 @@
+export default {"symbol":"LAYER","icon":"icons/layer.svg"}

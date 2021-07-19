@@ -1,0 +1,1 @@
+export default {"symbol":"CGG","icon":"icons/cgg.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"SUB","icon":"icons/sub.svg"}

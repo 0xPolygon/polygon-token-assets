@@ -1,0 +1,1 @@
+export default {"symbol":"TRX","icon":"icons/trx.svg"}

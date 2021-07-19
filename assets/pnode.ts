@@ -1,0 +1,1 @@
+export default {"symbol":"PNODE","icon":"icons/pnode.svg"}

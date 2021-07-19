@@ -1,0 +1,1 @@
+export default {"symbol":"AIOZ","icon":"icons/aioz.svg"}

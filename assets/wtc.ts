@@ -1,0 +1,1 @@
+export default {"symbol":"WTC","icon":"icons/wtc.svg"}

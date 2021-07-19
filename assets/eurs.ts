@@ -1,0 +1,1 @@
+export default {"symbol":"EURS","icon":"icons/eurs.svg"}

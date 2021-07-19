@@ -1,0 +1,1 @@
+export default {"symbol":"RBC","icon":"icons/rbc.svg"}

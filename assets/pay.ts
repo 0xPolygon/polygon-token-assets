@@ -1,0 +1,1 @@
+export default {"symbol":"PAY","icon":"icons/pay.svg"}

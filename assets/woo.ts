@@ -1,0 +1,1 @@
+export default {"symbol":"WOO","icon":"icons/woo.svg"}

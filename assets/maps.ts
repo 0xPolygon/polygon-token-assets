@@ -1,0 +1,1 @@
+export default {"symbol":"MAPS","icon":"icons/maps.svg"}

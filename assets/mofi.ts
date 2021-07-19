@@ -1,0 +1,1 @@
+export default {"symbol":"MOFI","icon":"icons/mofi.svg"}

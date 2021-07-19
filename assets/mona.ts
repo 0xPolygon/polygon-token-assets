@@ -1,0 +1,1 @@
+export default {"symbol":"MONA","icon":"icons/mona.svg"}

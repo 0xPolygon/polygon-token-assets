@@ -1,0 +1,1 @@
+export default {"symbol":"CC10","icon":"icons/cc10.svg"}

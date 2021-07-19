@@ -1,0 +1,1 @@
+export default {"symbol":"GLQ","icon":"icons/glq.svg"}

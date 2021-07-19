@@ -1,0 +1,1 @@
+export default {"symbol":"SHOPX","icon":"icons/shopx.svg"}

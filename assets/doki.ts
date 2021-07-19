@@ -1,0 +1,1 @@
+export default {"symbol":"DOKI","icon":"icons/doki.svg"}

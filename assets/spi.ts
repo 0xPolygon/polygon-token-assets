@@ -1,0 +1,1 @@
+export default {"symbol":"SPI","icon":"icons/spi.svg"}

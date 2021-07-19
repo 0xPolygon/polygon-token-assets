@@ -1,0 +1,1 @@
+export default {"symbol":"PAXG","icon":"icons/paxg.svg"}

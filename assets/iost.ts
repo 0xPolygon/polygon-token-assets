@@ -1,0 +1,1 @@
+export default {"symbol":"IOST","icon":"icons/iost.svg"}

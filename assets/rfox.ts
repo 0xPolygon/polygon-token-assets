@@ -1,0 +1,1 @@
+export default {"symbol":"RFOX","icon":"icons/rfox.svg"}

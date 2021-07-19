@@ -1,1 +1,1 @@
-export default {"symbol":"iFUND","icon":"icons/ifund.svg"}
+export default {"symbol":"IFUND","icon":"icons/ifund.svg"}

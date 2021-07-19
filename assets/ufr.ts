@@ -1,0 +1,1 @@
+export default {"symbol":"UFR","icon":"icons/ufr.svg"}

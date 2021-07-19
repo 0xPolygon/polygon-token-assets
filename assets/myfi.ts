@@ -1,0 +1,1 @@
+export default {"symbol":"MYFI","icon":"icons/myfi.svg"}

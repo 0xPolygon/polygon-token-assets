@@ -1,0 +1,1 @@
+export default {"symbol":"MAKER","icon":"icons/maker.svg"}

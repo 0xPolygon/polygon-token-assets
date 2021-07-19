@@ -1,0 +1,1 @@
+export default {"symbol":"BYN","icon":"icons/byn.svg"}

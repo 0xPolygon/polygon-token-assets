@@ -1,0 +1,1 @@
+export default {"symbol":"MRPH","icon":"icons/mrph.svg"}

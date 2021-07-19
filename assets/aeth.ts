@@ -1,0 +1,1 @@
+export default {"symbol":"AETH","icon":"icons/aeth.svg"}

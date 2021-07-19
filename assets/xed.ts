@@ -1,0 +1,1 @@
+export default {"symbol":"XED","icon":"icons/xed.svg"}

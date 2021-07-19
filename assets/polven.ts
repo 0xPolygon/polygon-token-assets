@@ -1,0 +1,1 @@
+export default {"symbol":"POLVEN","icon":"icons/polven.svg"}

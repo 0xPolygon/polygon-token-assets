@@ -1,1 +1,1 @@
-export default {"symbol":"sETH2","icon":"icons/seth2.svg"}
+export default {"symbol":"SETH2","icon":"icons/seth2.svg"}

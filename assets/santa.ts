@@ -1,0 +1,1 @@
+export default {"symbol":"SANTA","icon":"icons/santa.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"TRUEBIT","icon":"icons/truebit.svg"}

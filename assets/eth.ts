@@ -1,0 +1,1 @@
+export default {"symbol":"ETH","icon":"icons/eth.svg"}

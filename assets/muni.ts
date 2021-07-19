@@ -1,0 +1,1 @@
+export default {"symbol":"MUNI","icon":"icons/muni.svg"}

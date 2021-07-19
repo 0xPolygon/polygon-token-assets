@@ -1,0 +1,1 @@
+export default {"symbol":"DAO","icon":"icons/dao.svg"}

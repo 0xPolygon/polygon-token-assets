@@ -1,0 +1,1 @@
+export default {"symbol":"GMEE","icon":"icons/gmee.svg"}

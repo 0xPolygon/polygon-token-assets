@@ -1,0 +1,1 @@
+export default {"symbol":"BUSD","icon":"icons/busd.svg"}

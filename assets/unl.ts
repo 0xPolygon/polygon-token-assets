@@ -1,0 +1,1 @@
+export default {"symbol":"UNL","icon":"icons/unl.svg"}

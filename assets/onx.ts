@@ -1,0 +1,1 @@
+export default {"symbol":"ONX","icon":"icons/onx.svg"}

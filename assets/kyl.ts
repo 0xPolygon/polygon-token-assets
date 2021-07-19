@@ -1,0 +1,1 @@
+export default {"symbol":"KYL","icon":"icons/kyl.svg"}

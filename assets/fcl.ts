@@ -1,0 +1,1 @@
+export default {"symbol":"FCL","icon":"icons/fcl.svg"}

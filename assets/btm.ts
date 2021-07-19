@@ -1,0 +1,1 @@
+export default {"symbol":"BTM","icon":"icons/btm.svg"}

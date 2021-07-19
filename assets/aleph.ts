@@ -1,0 +1,1 @@
+export default {"symbol":"ALEPH","icon":"icons/aleph.svg"}

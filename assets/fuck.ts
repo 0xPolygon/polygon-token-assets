@@ -1,0 +1,1 @@
+export default {"symbol":"FUCK","icon":"icons/fuck.svg"}

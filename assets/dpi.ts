@@ -1,0 +1,1 @@
+export default {"symbol":"DPI","icon":"icons/dpi.svg"}

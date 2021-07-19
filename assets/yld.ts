@@ -1,0 +1,1 @@
+export default {"symbol":"YLD","icon":"icons/yld.svg"}

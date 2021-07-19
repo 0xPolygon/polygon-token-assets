@@ -1,0 +1,1 @@
+export default {"symbol":"DCN","icon":"icons/dcn.svg"}

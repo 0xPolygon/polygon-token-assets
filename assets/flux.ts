@@ -1,0 +1,1 @@
+export default {"symbol":"FLUX","icon":"icons/flux.svg"}

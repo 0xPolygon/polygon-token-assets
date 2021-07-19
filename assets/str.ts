@@ -1,0 +1,1 @@
+export default {"symbol":"STR","icon":"icons/str.svg"}

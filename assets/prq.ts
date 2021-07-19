@@ -1,0 +1,1 @@
+export default {"symbol":"PRQ","icon":"icons/prq.svg"}

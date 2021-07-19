@@ -1,0 +1,1 @@
+export default {"symbol":"ZEFU","icon":"icons/zefu.svg"}

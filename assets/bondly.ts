@@ -1,0 +1,1 @@
+export default {"symbol":"BONDLY","icon":"icons/bondly.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"RHOC","icon":"icons/rhoc.svg"}

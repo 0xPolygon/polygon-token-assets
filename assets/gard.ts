@@ -1,0 +1,1 @@
+export default {"symbol":"GARD","icon":"icons/gard.svg"}

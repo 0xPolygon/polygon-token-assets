@@ -1,0 +1,1 @@
+export default {"symbol":"REP","icon":"icons/rep.svg"}

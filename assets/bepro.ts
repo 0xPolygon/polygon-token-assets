@@ -1,0 +1,1 @@
+export default {"symbol":"BEPRO","icon":"icons/bepro.svg"}

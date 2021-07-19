@@ -1,0 +1,1 @@
+export default {"symbol":"SRAT","icon":"icons/srat.svg"}

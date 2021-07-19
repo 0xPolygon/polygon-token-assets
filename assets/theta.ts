@@ -1,0 +1,1 @@
+export default {"symbol":"THETA","icon":"icons/theta.svg"}

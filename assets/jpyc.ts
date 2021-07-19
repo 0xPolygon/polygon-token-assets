@@ -1,0 +1,1 @@
+export default {"symbol":"JPYC","icon":"icons/jpyc.svg"}

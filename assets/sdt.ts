@@ -1,0 +1,1 @@
+export default {"symbol":"SDT","icon":"icons/sdt.svg"}

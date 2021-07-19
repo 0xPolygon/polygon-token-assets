@@ -1,0 +1,1 @@
+export default {"symbol":"KP3R","icon":"icons/kp3r.svg"}

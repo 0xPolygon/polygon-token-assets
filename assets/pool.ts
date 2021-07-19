@@ -1,0 +1,1 @@
+export default {"symbol":"POOL","icon":"icons/pool.svg"}

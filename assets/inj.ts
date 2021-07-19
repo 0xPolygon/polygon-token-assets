@@ -1,0 +1,1 @@
+export default {"symbol":"INJ","icon":"icons/inj.svg"}

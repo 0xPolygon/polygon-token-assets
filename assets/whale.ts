@@ -1,0 +1,1 @@
+export default {"symbol":"WHALE","icon":"icons/whale.svg"}

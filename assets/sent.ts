@@ -1,0 +1,1 @@
+export default {"symbol":"SENT","icon":"icons/sent.svg"}

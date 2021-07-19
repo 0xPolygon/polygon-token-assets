@@ -1,0 +1,1 @@
+export default {"symbol":"LCX","icon":"icons/lcx.svg"}

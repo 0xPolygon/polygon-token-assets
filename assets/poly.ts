@@ -1,0 +1,1 @@
+export default {"symbol":"POLY","icon":"icons/poly.svg"}

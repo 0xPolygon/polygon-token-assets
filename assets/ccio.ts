@@ -1,0 +1,1 @@
+export default {"symbol":"CCIO","icon":"icons/ccio.svg"}

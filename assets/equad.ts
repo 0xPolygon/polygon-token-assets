@@ -1,1 +1,1 @@
-export default {"symbol":"eQUAD","icon":"icons/equad.svg"}
+export default {"symbol":"EQUAD","icon":"icons/equad.svg"}

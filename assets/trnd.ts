@@ -1,0 +1,1 @@
+export default {"symbol":"TRND","icon":"icons/trnd.svg"}

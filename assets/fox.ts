@@ -1,0 +1,1 @@
+export default {"symbol":"FOX","icon":"icons/fox.svg"}

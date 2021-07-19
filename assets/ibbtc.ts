@@ -1,0 +1,1 @@
+export default {"symbol":"IBBTC","icon":"icons/ibbtc.svg"}

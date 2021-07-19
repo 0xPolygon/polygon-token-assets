@@ -1,0 +1,1 @@
+export default {"symbol":"BIX","icon":"icons/bix.svg"}

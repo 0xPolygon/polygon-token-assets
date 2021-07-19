@@ -1,0 +1,1 @@
+export default {"symbol":"AWS","icon":"icons/aws.svg"}

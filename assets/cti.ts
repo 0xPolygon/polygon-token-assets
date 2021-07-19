@@ -1,0 +1,1 @@
+export default {"symbol":"CTI","icon":"icons/cti.svg"}

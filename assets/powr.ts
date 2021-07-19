@@ -1,0 +1,1 @@
+export default {"symbol":"POWR","icon":"icons/powr.svg"}

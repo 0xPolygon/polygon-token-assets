@@ -1,0 +1,1 @@
+export default {"symbol":"ADD","icon":"icons/add.svg"}

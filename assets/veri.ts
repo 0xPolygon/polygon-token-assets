@@ -1,0 +1,1 @@
+export default {"symbol":"VERI","icon":"icons/veri.svg"}

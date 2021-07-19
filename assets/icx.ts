@@ -1,0 +1,1 @@
+export default {"symbol":"ICX","icon":"icons/icx.svg"}

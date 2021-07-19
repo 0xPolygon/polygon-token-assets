@@ -1,0 +1,1 @@
+export default {"symbol":"AXI","icon":"icons/axi.svg"}

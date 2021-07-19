@@ -1,0 +1,1 @@
+export default {"symbol":"RCC","icon":"icons/rcc.svg"}

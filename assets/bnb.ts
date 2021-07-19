@@ -1,0 +1,1 @@
+export default {"symbol":"BNB","icon":"icons/bnb.svg"}

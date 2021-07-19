@@ -1,0 +1,1 @@
+export default {"symbol":"MCO","icon":"icons/mco.svg"}

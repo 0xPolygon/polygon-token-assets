@@ -1,0 +1,1 @@
+export default {"symbol":"HYDRO","icon":"icons/hydro.svg"}

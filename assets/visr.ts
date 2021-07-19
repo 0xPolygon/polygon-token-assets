@@ -1,0 +1,1 @@
+export default {"symbol":"VISR","icon":"icons/visr.svg"}

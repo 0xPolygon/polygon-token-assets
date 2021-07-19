@@ -1,0 +1,1 @@
+export default {"symbol":"STAK","icon":"icons/stak.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"HNY","icon":"icons/hny.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"QASH","icon":"icons/qash.svg"}

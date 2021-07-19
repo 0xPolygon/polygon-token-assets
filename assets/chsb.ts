@@ -1,0 +1,1 @@
+export default {"symbol":"CHSB","icon":"icons/chsb.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"ALCX","icon":"icons/alcx.svg"}

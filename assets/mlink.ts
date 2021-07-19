@@ -1,1 +1,1 @@
-export default {"symbol":"mLINK","icon":"icons/mlink.svg"}
+export default {"symbol":"MLINK","icon":"icons/mlink.svg"}

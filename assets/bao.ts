@@ -1,0 +1,1 @@
+export default {"symbol":"BAO","icon":"icons/bao.svg"}

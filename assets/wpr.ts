@@ -1,0 +1,1 @@
+export default {"symbol":"WPR","icon":"icons/wpr.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"KYB","icon":"icons/kyb.svg"}

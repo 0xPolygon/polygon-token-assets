@@ -1,0 +1,1 @@
+export default {"symbol":"USDC","icon":"icons/usdc.svg"}

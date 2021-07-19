@@ -1,0 +1,1 @@
+export default {"symbol":"GDAO","icon":"icons/gdao.svg"}

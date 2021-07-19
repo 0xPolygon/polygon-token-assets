@@ -1,0 +1,1 @@
+export default {"symbol":"YF-DAI","icon":"icons/yf-dai.svg"}

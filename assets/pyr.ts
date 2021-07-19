@@ -1,0 +1,1 @@
+export default {"symbol":"PYR","icon":"icons/pyr.svg"}

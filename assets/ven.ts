@@ -1,0 +1,1 @@
+export default {"symbol":"VEN","icon":"icons/ven.svg"}

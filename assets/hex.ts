@@ -1,0 +1,1 @@
+export default {"symbol":"HEX","icon":"icons/hex.svg"}

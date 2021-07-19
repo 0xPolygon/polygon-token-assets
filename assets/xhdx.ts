@@ -1,0 +1,1 @@
+export default {"symbol":"XHDX","icon":"icons/xhdx.svg"}

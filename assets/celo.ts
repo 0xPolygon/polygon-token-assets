@@ -1,0 +1,1 @@
+export default {"symbol":"CELO","icon":"icons/celo.svg"}

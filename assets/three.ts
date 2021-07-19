@@ -1,0 +1,1 @@
+export default {"symbol":"THREE","icon":"icons/three.svg"}

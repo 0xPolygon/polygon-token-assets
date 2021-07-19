@@ -1,1 +1,1 @@
-export default {"symbol":"DAOfi","icon":"icons/daofi.svg"}
+export default {"symbol":"DAOFI","icon":"icons/daofi.svg"}

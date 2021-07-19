@@ -1,0 +1,1 @@
+export default {"symbol":"SYNC","icon":"icons/sync.svg"}

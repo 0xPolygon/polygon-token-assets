@@ -1,0 +1,1 @@
+export default {"symbol":"DCG","icon":"icons/dcg.svg"}

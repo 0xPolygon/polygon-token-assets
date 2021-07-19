@@ -1,0 +1,1 @@
+export default {"symbol":"BTU","icon":"icons/btu.svg"}

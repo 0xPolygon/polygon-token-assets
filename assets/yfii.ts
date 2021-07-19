@@ -1,0 +1,1 @@
+export default {"symbol":"YFII","icon":"icons/yfii.svg"}

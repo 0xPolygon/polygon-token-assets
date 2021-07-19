@@ -1,0 +1,1 @@
+export default {"symbol":"PTERIA","icon":"icons/pteria.svg"}

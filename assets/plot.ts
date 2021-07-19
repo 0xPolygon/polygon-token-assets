@@ -1,0 +1,1 @@
+export default {"symbol":"PLOT","icon":"icons/plot.svg"}

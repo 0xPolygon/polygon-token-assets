@@ -1,0 +1,1 @@
+export default {"symbol":"ETHIX","icon":"icons/ethix.svg"}

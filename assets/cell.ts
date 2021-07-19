@@ -1,0 +1,1 @@
+export default {"symbol":"CELL","icon":"icons/cell.svg"}

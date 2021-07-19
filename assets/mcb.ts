@@ -1,0 +1,1 @@
+export default {"symbol":"MCB","icon":"icons/mcb.svg"}

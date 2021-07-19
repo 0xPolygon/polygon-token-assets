@@ -1,0 +1,1 @@
+export default {"symbol":"TUSD","icon":"icons/tusd.svg"}

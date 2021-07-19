@@ -1,0 +1,1 @@
+export default {"symbol":"ZIL","icon":"icons/zil.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"GET","icon":"icons/get.svg"}

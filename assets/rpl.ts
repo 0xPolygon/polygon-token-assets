@@ -1,0 +1,1 @@
+export default {"symbol":"RPL","icon":"icons/rpl.svg"}

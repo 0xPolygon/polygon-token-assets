@@ -1,0 +1,1 @@
+export default {"symbol":"SWAP","icon":"icons/swap.svg"}

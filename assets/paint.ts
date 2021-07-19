@@ -1,0 +1,1 @@
+export default {"symbol":"PAINT","icon":"icons/paint.svg"}

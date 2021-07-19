@@ -1,0 +1,1 @@
+export default {"symbol":"ROOM","icon":"icons/room.svg"}

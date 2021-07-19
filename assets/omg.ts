@@ -1,0 +1,1 @@
+export default {"symbol":"OMG","icon":"icons/omg.svg"}

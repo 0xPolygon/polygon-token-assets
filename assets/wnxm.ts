@@ -1,1 +1,1 @@
-export default {"symbol":"wNXM","icon":"icons/wnxm.svg"}
+export default {"symbol":"WNXM","icon":"icons/wnxm.svg"}

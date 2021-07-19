@@ -1,0 +1,1 @@
+export default {"symbol":"MOAR","icon":"icons/moar.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"KARMA","icon":"icons/karma.svg"}

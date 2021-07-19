@@ -1,0 +1,1 @@
+export default {"symbol":"PLU","icon":"icons/plu.svg"}

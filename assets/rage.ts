@@ -1,0 +1,1 @@
+export default {"symbol":"RAGE","icon":"icons/rage.svg"}

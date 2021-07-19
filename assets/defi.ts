@@ -1,0 +1,1 @@
+export default {"symbol":"DEFI","icon":"icons/defi.svg"}

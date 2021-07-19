@@ -1,0 +1,1 @@
+export default {"symbol":"BTZC","icon":"icons/btzc.svg"}

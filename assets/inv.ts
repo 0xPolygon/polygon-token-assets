@@ -1,0 +1,1 @@
+export default {"symbol":"INV","icon":"icons/inv.svg"}

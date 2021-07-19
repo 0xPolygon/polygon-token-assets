@@ -1,0 +1,1 @@
+export default {"symbol":"FTM","icon":"icons/ftm.svg"}

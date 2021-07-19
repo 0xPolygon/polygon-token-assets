@@ -1,0 +1,1 @@
+export default {"symbol":"BNTY","icon":"icons/bnty.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"USDK","icon":"icons/usdk.svg"}

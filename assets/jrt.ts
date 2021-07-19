@@ -1,0 +1,1 @@
+export default {"symbol":"JRT","icon":"icons/jrt.svg"}

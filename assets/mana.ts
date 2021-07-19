@@ -1,0 +1,1 @@
+export default {"symbol":"MANA","icon":"icons/mana.svg"}

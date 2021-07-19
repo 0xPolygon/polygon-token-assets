@@ -1,0 +1,1 @@
+export default {"symbol":"DFYN","icon":"icons/dfyn.svg"}

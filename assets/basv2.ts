@@ -1,0 +1,1 @@
+export default {"symbol":"BASV2","icon":"icons/basv2.svg"}

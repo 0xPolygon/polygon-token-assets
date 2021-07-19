@@ -1,0 +1,1 @@
+export default {"symbol":"MTV","icon":"icons/mtv.svg"}

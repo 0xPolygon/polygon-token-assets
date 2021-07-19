@@ -1,0 +1,1 @@
+export default {"symbol":"AION","icon":"icons/aion.svg"}

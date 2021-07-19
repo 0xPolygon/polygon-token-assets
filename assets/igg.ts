@@ -1,0 +1,1 @@
+export default {"symbol":"IGG","icon":"icons/igg.svg"}

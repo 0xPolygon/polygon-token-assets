@@ -1,0 +1,1 @@
+export default {"symbol":"OLTC","icon":"icons/oltc.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"ANKR","icon":"icons/ankr.svg"}

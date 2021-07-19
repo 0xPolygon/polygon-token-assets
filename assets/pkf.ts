@@ -1,0 +1,1 @@
+export default {"symbol":"PKF","icon":"icons/pkf.svg"}

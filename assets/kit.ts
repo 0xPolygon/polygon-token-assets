@@ -1,0 +1,1 @@
+export default {"symbol":"KIT","icon":"icons/kit.svg"}

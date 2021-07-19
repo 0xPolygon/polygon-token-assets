@@ -1,0 +1,1 @@
+export default {"symbol":"MVI","icon":"icons/mvi.svg"}

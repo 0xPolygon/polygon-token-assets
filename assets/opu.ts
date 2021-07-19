@@ -1,0 +1,1 @@
+export default {"symbol":"OPU","icon":"icons/opu.svg"}

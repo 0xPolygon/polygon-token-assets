@@ -1,0 +1,1 @@
+export default {"symbol":"NEX","icon":"icons/nex.svg"}

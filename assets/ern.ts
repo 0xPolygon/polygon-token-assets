@@ -1,0 +1,1 @@
+export default {"symbol":"ERN","icon":"icons/ern.svg"}

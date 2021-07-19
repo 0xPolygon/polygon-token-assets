@@ -1,0 +1,1 @@
+export default {"symbol":"HT","icon":"icons/ht.svg"}

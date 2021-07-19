@@ -1,0 +1,1 @@
+export default {"symbol":"EXRD","icon":"icons/exrd.svg"}

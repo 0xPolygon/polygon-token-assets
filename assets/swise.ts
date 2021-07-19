@@ -1,0 +1,1 @@
+export default {"symbol":"SWISE","icon":"icons/swise.svg"}

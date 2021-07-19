@@ -1,0 +1,1 @@
+export default {"symbol":"CHZ","icon":"icons/chz.svg"}

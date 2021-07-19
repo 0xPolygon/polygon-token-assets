@@ -1,0 +1,1 @@
+export default {"symbol":"XRGE","icon":"icons/xrge.svg"}

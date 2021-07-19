@@ -1,0 +1,1 @@
+export default {"symbol":"GNO","icon":"icons/gno.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"FORCE","icon":"icons/force.svg"}

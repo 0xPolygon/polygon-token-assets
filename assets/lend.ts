@@ -1,0 +1,1 @@
+export default {"symbol":"LEND","icon":"icons/lend.svg"}

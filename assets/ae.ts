@@ -1,0 +1,1 @@
+export default {"symbol":"AE","icon":"icons/ae.svg"}

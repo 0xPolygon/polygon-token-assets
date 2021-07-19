@@ -1,1 +1,1 @@
-export default {"symbol":"RFuel","icon":"icons/rfuel.svg"}
+export default {"symbol":"RFUEL","icon":"icons/rfuel.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"ISP","icon":"icons/isp.svg"}

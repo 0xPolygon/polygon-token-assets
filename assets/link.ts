@@ -1,0 +1,1 @@
+export default {"symbol":"LINK","icon":"icons/link.svg"}

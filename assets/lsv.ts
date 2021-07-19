@@ -1,0 +1,1 @@
+export default {"symbol":"LSV","icon":"icons/lsv.svg"}

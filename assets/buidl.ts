@@ -1,0 +1,1 @@
+export default {"symbol":"BUIDL","icon":"icons/buidl.svg"}

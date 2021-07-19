@@ -1,0 +1,1 @@
+export default {"symbol":"FTT","icon":"icons/ftt.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"ZUT","icon":"icons/zut.svg"}

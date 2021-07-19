@@ -1,0 +1,1 @@
+export default {"symbol":"TIDAL","icon":"icons/tidal.svg"}

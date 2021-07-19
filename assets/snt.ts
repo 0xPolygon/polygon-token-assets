@@ -1,0 +1,1 @@
+export default {"symbol":"SNT","icon":"icons/snt.svg"}

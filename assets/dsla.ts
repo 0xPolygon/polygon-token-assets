@@ -1,0 +1,1 @@
+export default {"symbol":"DSLA","icon":"icons/dsla.svg"}

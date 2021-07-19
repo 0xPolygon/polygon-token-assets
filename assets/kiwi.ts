@@ -1,0 +1,1 @@
+export default {"symbol":"KIWI","icon":"icons/kiwi.svg"}

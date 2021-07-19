@@ -1,0 +1,1 @@
+export default {"symbol":"PERP","icon":"icons/perp.svg"}

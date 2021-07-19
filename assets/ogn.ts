@@ -1,0 +1,1 @@
+export default {"symbol":"OGN","icon":"icons/ogn.svg"}

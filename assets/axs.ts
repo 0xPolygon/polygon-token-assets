@@ -1,0 +1,1 @@
+export default {"symbol":"AXS","icon":"icons/axs.svg"}

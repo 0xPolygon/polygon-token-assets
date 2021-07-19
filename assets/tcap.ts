@@ -1,0 +1,1 @@
+export default {"symbol":"TCAP","icon":"icons/tcap.svg"}

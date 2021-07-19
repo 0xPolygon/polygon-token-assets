@@ -1,0 +1,1 @@
+export default {"symbol":"POLS","icon":"icons/pols.svg"}

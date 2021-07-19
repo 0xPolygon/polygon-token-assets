@@ -1,0 +1,1 @@
+export default {"symbol":"STORM","icon":"icons/storm.svg"}

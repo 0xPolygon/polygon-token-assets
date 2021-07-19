@@ -1,0 +1,1 @@
+export default {"symbol":"TVK","icon":"icons/tvk.svg"}

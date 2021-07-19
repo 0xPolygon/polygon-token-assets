@@ -1,0 +1,1 @@
+export default {"symbol":"LOOM","icon":"icons/loom.svg"}

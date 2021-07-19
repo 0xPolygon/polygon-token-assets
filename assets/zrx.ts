@@ -1,0 +1,1 @@
+export default {"symbol":"ZRX","icon":"icons/zrx.svg"}

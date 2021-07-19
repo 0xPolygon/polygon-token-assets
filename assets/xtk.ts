@@ -1,0 +1,1 @@
+export default {"symbol":"XTK","icon":"icons/xtk.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"AKRO","icon":"icons/akro.svg"}

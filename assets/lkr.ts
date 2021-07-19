@@ -1,0 +1,1 @@
+export default {"symbol":"LKR","icon":"icons/lkr.svg"}

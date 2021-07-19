@@ -1,0 +1,1 @@
+export default {"symbol":"CMT","icon":"icons/cmt.svg"}

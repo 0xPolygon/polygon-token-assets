@@ -1,0 +1,1 @@
+export default {"symbol":"BOND","icon":"icons/bond.svg"}

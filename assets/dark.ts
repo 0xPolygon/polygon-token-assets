@@ -1,0 +1,1 @@
+export default {"symbol":"DARK","icon":"icons/dark.svg"}

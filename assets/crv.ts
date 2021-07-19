@@ -1,0 +1,1 @@
+export default {"symbol":"CRV","icon":"icons/crv.svg"}

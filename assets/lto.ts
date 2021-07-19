@@ -1,0 +1,1 @@
+export default {"symbol":"LTO","icon":"icons/lto.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"0xMR","icon":"icons/0xmr.svg"}
+export default {"symbol":"0XMR","icon":"icons/0xmr.svg"}

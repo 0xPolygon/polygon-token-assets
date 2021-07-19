@@ -1,0 +1,1 @@
+export default {"symbol":"NIOX","icon":"icons/niox.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"BRIBE","icon":"icons/bribe.svg"}

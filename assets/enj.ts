@@ -1,0 +1,1 @@
+export default {"symbol":"ENJ","icon":"icons/enj.svg"}

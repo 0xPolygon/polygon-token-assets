@@ -1,0 +1,1 @@
+export default {"symbol":"CLS","icon":"icons/cls.svg"}

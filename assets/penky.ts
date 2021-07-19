@@ -1,0 +1,1 @@
+export default {"symbol":"PENKY","icon":"icons/penky.svg"}

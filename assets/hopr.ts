@@ -1,0 +1,1 @@
+export default {"symbol":"HOPR","icon":"icons/hopr.svg"}

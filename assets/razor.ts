@@ -1,0 +1,1 @@
+export default {"symbol":"RAZOR","icon":"icons/razor.svg"}

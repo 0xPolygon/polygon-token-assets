@@ -1,0 +1,1 @@
+export default {"symbol":"NPXS","icon":"icons/npxs.svg"}

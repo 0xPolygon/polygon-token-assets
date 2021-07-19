@@ -1,0 +1,1 @@
+export default {"symbol":"XOR","icon":"icons/xor.svg"}

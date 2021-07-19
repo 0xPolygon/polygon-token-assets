@@ -1,0 +1,1 @@
+export default {"symbol":"FROGE","icon":"icons/froge.svg"}

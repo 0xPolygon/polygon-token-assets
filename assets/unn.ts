@@ -1,0 +1,1 @@
+export default {"symbol":"UNN","icon":"icons/unn.svg"}

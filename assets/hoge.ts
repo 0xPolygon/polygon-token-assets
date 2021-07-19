@@ -1,0 +1,1 @@
+export default {"symbol":"HOGE","icon":"icons/hoge.svg"}

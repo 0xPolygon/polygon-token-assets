@@ -1,0 +1,1 @@
+export default {"symbol":"NCR","icon":"icons/ncr.svg"}

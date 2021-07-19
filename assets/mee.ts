@@ -1,0 +1,1 @@
+export default {"symbol":"MEE","icon":"icons/mee.svg"}

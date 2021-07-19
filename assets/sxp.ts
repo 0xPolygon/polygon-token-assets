@@ -1,0 +1,1 @@
+export default {"symbol":"SXP","icon":"icons/sxp.svg"}

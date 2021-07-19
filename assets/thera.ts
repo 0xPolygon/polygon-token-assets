@@ -1,0 +1,1 @@
+export default {"symbol":"THERA","icon":"icons/thera.svg"}

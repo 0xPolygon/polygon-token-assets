@@ -1,0 +1,1 @@
+export default {"symbol":"KEEP","icon":"icons/keep.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"IDLE","icon":"icons/idle.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"PLAY","icon":"icons/play.svg"}

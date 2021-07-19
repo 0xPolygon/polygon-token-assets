@@ -1,0 +1,1 @@
+export default {"symbol":"SANSHU","icon":"icons/sanshu.svg"}

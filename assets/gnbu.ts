@@ -1,0 +1,1 @@
+export default {"symbol":"GNBU","icon":"icons/gnbu.svg"}

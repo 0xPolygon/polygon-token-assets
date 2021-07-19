@@ -1,0 +1,1 @@
+export default {"symbol":"ISLA","icon":"icons/isla.svg"}

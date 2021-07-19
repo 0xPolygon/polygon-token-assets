@@ -1,0 +1,1 @@
+export default {"symbol":"WAX","icon":"icons/wax.svg"}

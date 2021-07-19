@@ -1,0 +1,1 @@
+export default {"symbol":"TRDL","icon":"icons/trdl.svg"}

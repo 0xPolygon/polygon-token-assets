@@ -1,0 +1,1 @@
+export default {"symbol":"UMX","icon":"icons/umx.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"SHO","icon":"icons/sho.svg"}

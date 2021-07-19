@@ -1,0 +1,1 @@
+export default {"symbol":"KNC","icon":"icons/knc.svg"}

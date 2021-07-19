@@ -1,0 +1,1 @@
+export default {"symbol":"$ANRX","icon":"icons/$anrx.svg"}

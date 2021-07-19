@@ -1,0 +1,1 @@
+export default {"symbol":"CONV","icon":"icons/conv.svg"}

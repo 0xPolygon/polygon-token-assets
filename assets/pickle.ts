@@ -1,0 +1,1 @@
+export default {"symbol":"PICKLE","icon":"icons/pickle.svg"}

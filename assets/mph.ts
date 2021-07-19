@@ -1,0 +1,1 @@
+export default {"symbol":"MPH","icon":"icons/mph.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"IOTX","icon":"icons/iotx.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"ULT","icon":"icons/ult.svg"}

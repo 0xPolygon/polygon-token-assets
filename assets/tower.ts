@@ -1,0 +1,1 @@
+export default {"symbol":"TOWER","icon":"icons/tower.svg"}

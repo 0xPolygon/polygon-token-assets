@@ -1,0 +1,1 @@
+export default {"symbol":"BAND","icon":"icons/band.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"0XBTC","icon":"icons/0xbtc.svg"}

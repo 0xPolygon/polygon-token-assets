@@ -1,1 +1,1 @@
-export default {"symbol":"renDOGE","icon":"icons/rendoge.svg"}
+export default {"symbol":"RENDOGE","icon":"icons/rendoge.svg"}

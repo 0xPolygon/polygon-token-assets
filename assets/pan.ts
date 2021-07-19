@@ -1,0 +1,1 @@
+export default {"symbol":"PAN","icon":"icons/pan.svg"}

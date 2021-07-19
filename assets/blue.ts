@@ -1,0 +1,1 @@
+export default {"symbol":"BLUE","icon":"icons/blue.svg"}

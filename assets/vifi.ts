@@ -1,0 +1,1 @@
+export default {"symbol":"VIFI","icon":"icons/vifi.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"RNDR","icon":"icons/rndr.svg"}

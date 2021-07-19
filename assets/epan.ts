@@ -1,0 +1,1 @@
+export default {"symbol":"EPAN","icon":"icons/epan.svg"}

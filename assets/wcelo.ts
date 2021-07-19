@@ -1,1 +1,1 @@
-export default {"symbol":"wCELO","icon":"icons/wcelo.svg"}
+export default {"symbol":"WCELO","icon":"icons/wcelo.svg"}

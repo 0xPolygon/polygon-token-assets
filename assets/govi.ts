@@ -1,0 +1,1 @@
+export default {"symbol":"GOVI","icon":"icons/govi.svg"}

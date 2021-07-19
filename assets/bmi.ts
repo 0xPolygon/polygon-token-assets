@@ -1,0 +1,1 @@
+export default {"symbol":"BMI","icon":"icons/bmi.svg"}

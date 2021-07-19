@@ -1,0 +1,1 @@
+export default {"symbol":"PINAKION","icon":"icons/pinakion.svg"}

@@ -1,0 +1,1 @@
+export default {"symbol":"SAFEEARTH","icon":"icons/safeearth.svg"}

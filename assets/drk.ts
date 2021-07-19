@@ -1,0 +1,1 @@
+export default {"symbol":"DRK","icon":"icons/drk.svg"}

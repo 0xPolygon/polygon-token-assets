@@ -1,0 +1,1 @@
+export default {"symbol":"SENPAI","icon":"icons/senpai.svg"}

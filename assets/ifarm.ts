@@ -1,0 +1,1 @@
+export default {"symbol":"IFARM","icon":"icons/ifarm.svg"}

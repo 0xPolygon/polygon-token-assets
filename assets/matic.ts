@@ -1,0 +1,1 @@
+export default {"symbol":"MATIC","icon":"icons/matic.svg"}

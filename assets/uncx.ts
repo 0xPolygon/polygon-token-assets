@@ -1,0 +1,1 @@
+export default {"symbol":"UNCX","icon":"icons/uncx.svg"}

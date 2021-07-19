@@ -1,0 +1,1 @@
+export default {"symbol":"ELF","icon":"icons/elf.svg"}

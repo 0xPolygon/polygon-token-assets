@@ -1,0 +1,1 @@
+export default {"symbol":"MYST","icon":"icons/myst.svg"}

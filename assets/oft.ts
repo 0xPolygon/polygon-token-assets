@@ -1,0 +1,1 @@
+export default {"symbol":"OFT","icon":"icons/oft.svg"}

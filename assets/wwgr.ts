@@ -1,0 +1,1 @@
+export default {"symbol":"WWGR","icon":"icons/wwgr.svg"}
