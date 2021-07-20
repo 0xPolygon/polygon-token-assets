@@ -787,10 +787,6 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    kyb: {
-        symbol: string;
-        icon: string;
-    };
     kyl: {
         symbol: string;
         icon: string;

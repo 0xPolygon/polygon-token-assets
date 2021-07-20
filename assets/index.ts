@@ -195,7 +195,6 @@ export * from './koin-1';
 export * from './koin';
 export * from './kp3r';
 export * from './ktn';
-export * from './kyb';
 export * from './kyl';
 export * from './ladz';
 export * from './layer';
