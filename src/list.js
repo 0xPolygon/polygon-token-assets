@@ -787,10 +787,6 @@ const list = {
         symbol:"KTN", 
         icon: 'ktn.svg' 
         },
-'kyb': {
-        symbol:"KYB", 
-        icon: 'kyb.svg' 
-        },
 'kyl': {
         symbol:"KYL", 
         icon: 'kyl.svg' 
