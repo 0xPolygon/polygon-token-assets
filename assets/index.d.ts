@@ -241,7 +241,6 @@ export * from './musdc';
 export * from './mvi';
 export * from './myfi';
 export * from './myst';
-export * from './name';
 export * from './nanj';
 export * from './nas';
 export * from './nbu';

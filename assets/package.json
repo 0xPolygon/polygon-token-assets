@@ -2,7 +2,7 @@
   "_from": "file:../maticnetwork-token-assets-1.0.0.tgz",
   "_id": "@maticnetwork/token-assets@1.0.0",
   "_inBundle": false,
-  "_integrity": "sha512-qwFpk7w1767iQU+YVKROsz31oGWgOqfuGBQxi7iWrOJwjGEDTssI3Y5eUxicL7ZbR1SOa+J9XC+22E/j69Iclg==",
+  "_integrity": "sha512-SrxU81N6VbruEOp0j3T5eivaM+UgKRIooChdYSqQoRuhyc26OaSIBSk8XDKHflHfDlFWzFe5jqGcSdt+zHrcmQ==",
   "_location": "/@maticnetwork/token-assets",
   "_phantomChildren": {},
   "_requested": {
@@ -17,7 +17,7 @@
     "#USER"
   ],
   "_resolved": "/home/runner/work/polygon-token-assets/polygon-token-assets/maticnetwork-token-assets-1.0.0.tgz",
-  "_shasum": "d9776dec0cf43af50256dea10490022aa4300313",
+  "_shasum": "bd8621e64ca5c6e112613cbabfb5c2692e826284",
   "_spec": "../maticnetwork-token-assets-1.0.0.tgz",
   "_where": "/home/runner/work/polygon-token-assets/polygon-token-assets/docs",
   "author": "",

@@ -971,10 +971,6 @@ const list = {
         symbol:"MYST", 
         icon: 'myst.svg' 
         },
-'name': {
-        symbol:"NAME", 
-        icon: 'name.text' 
-        },
 'nanj': {
         symbol:"NANJ", 
         icon: 'nanj.svg' 

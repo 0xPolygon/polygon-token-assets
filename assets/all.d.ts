@@ -971,10 +971,6 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    name: {
-        symbol: string;
-        icon: string;
-    };
     nanj: {
         symbol: string;
         icon: string;
