@@ -1723,6 +1723,19 @@ const list = {
         symbol:"٨", 
         icon: '٨.svg' 
         },
+'inst': {
+        symbol:"INST", 
+        icon: 'inst.svg' 
+        },
+
+'kncl': {
+        symbol:"KNCL", 
+        icon: 'kncl.svg' 
+        },
+'peri': {
+        symbol:"PERI", 
+        icon: 'peri.svg' 
+        },
 }
 
 exports.list = list;

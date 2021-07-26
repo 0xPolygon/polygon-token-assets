@@ -1,0 +1,1 @@
+export default {"symbol":"KNCL","icon":"icons/kncl.svg"}

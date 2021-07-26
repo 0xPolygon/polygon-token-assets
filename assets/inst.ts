@@ -1,0 +1,1 @@
+export default {"symbol":"INST","icon":"icons/inst.svg"}

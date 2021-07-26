@@ -1,0 +1,1 @@
+export default {"symbol":"PERI","icon":"icons/peri.svg"}

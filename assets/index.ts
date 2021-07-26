@@ -429,5 +429,8 @@ export * from './zpr';
 export * from './zrx';
 export * from './zut';
 export * from './٨';
+export * from './inst';
+export * from './kncl';
+export * from './peri';
 import { list } from "./all";
 export default list;

@@ -1723,4 +1723,16 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
+    inst: {
+        symbol: string;
+        icon: string;
+    };
+    kncl: {
+        symbol: string;
+        icon: string;
+    };
+    peri: {
+        symbol: string;
+        icon: string;
+    };
 };
