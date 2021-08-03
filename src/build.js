@@ -7,7 +7,7 @@ for (const tokenId in list) {
     const tokenInfo = list[tokenId];
     tokenInfo.icon = "icons/" + tokenInfo.icon;
     allExport += `export * from './${tokenId}';\n`
-    writeFileSync(`build/${tokenId}.ts`, `export default ${JSON.stringify(tokenInfo)}`);
+    writeFileSync(`build/${tokenId}.ts`, `export const ${tokenId} = ${JSON.stringify(tokenInfo)}`);
 }
 
 writeFileSync(`build/all.ts`, "export const list = " + JSON.stringify(list));
