@@ -1,21 +1,21 @@
 export declare const list: {
-    "300": {
-        symbol: string;
-        icon: string;
-    };
-    "1337": {
-        symbol: string;
-        icon: string;
-    };
     $anrx: {
         symbol: string;
         icon: string;
     };
-    "0xbtc": {
+    zeroxbtc: {
         symbol: string;
         icon: string;
     };
-    "0xmr": {
+    zeroxmr: {
+        symbol: string;
+        icon: string;
+    };
+    one337: {
+        symbol: string;
+        icon: string;
+    };
+    three00: {
         symbol: string;
         icon: string;
     };
@@ -187,7 +187,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "bond-1": {
+    bond1: {
         symbol: string;
         icon: string;
     };
@@ -207,7 +207,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "btc2x-fli": {
+    btc2xFli: {
         symbol: string;
         icon: string;
     };
@@ -331,7 +331,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "cvp-1": {
+    cvp1: {
         symbol: string;
         icon: string;
     };
@@ -771,7 +771,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "koin-1": {
+    koin1: {
         symbol: string;
         icon: string;
     };
@@ -1007,7 +1007,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "nord-1": {
+    nord1: {
         symbol: string;
         icon: string;
     };
@@ -1383,7 +1383,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    super: {
+    superFarm: {
         symbol: string;
         icon: string;
     };
@@ -1591,7 +1591,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "wbtc-1": {
+    wbtc1: {
         symbol: string;
         icon: string;
     };
@@ -1675,7 +1675,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "yf-dai": {
+    yfDai: {
         symbol: string;
         icon: string;
     };
@@ -1719,7 +1719,7 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
-    "\u0668": {
+    dentaCoin: {
         symbol: string;
         icon: string;
     };

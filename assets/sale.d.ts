@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const sale: {
     symbol: string;
     icon: string;
 };
-export default _default;

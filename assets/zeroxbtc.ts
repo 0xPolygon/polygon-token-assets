@@ -1,0 +1,1 @@
+export const zeroxbtc = {"symbol":"0XBTC","icon":"icons/0xbtc.svg"}

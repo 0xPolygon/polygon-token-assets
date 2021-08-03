@@ -1,1 +1,1 @@
-export default {"symbol":"RARI","icon":"icons/rari.svg"}
+export const rari = {"symbol":"RARI","icon":"icons/rari.svg"}

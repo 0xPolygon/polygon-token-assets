@@ -1,1 +1,1 @@
-export default {"symbol":"PNODE","icon":"icons/pnode.svg"}
+export const pnode = {"symbol":"PNODE","icon":"icons/pnode.svg"}

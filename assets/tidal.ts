@@ -1,1 +1,1 @@
-export default {"symbol":"TIDAL","icon":"icons/tidal.svg"}
+export const tidal = {"symbol":"TIDAL","icon":"icons/tidal.svg"}

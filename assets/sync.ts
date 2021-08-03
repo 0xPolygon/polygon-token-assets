@@ -1,1 +1,1 @@
-export default {"symbol":"SYNC","icon":"icons/sync.svg"}
+export const sync = {"symbol":"SYNC","icon":"icons/sync.svg"}

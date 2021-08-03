@@ -1,1 +1,1 @@
-export default {"symbol":"ATRI","icon":"icons/atri.svg"}
+export const atri = {"symbol":"ATRI","icon":"icons/atri.svg"}

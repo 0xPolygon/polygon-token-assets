@@ -1,1 +1,1 @@
-export default {"symbol":"FTT","icon":"icons/ftt.svg"}
+export const ftt = {"symbol":"FTT","icon":"icons/ftt.svg"}

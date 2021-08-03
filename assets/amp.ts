@@ -1,1 +1,1 @@
-export default {"symbol":"AMP","icon":"icons/amp.svg"}
+export const amp = {"symbol":"AMP","icon":"icons/amp.svg"}

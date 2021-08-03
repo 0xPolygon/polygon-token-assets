@@ -1,1 +1,1 @@
-export default {"symbol":"ISP","icon":"icons/isp.svg"}
+export const isp = {"symbol":"ISP","icon":"icons/isp.svg"}

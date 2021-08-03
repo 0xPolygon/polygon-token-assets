@@ -1,1 +1,1 @@
-export default {"symbol":"SPI","icon":"icons/spi.svg"}
+export const spi = {"symbol":"SPI","icon":"icons/spi.svg"}

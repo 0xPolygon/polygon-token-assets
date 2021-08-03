@@ -1,1 +1,1 @@
-export default {"symbol":"DRK","icon":"icons/drk.svg"}
+export const drk = {"symbol":"DRK","icon":"icons/drk.svg"}

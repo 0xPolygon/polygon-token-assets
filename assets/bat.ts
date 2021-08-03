@@ -1,1 +1,1 @@
-export default {"symbol":"BAT","icon":"icons/bat.svg"}
+export const bat = {"symbol":"BAT","icon":"icons/bat.svg"}

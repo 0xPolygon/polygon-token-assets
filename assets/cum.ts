@@ -1,1 +1,1 @@
-export default {"symbol":"CUM","icon":"icons/cum.svg"}
+export const cum = {"symbol":"CUM","icon":"icons/cum.svg"}

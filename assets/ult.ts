@@ -1,1 +1,1 @@
-export default {"symbol":"ULT","icon":"icons/ult.svg"}
+export const ult = {"symbol":"ULT","icon":"icons/ult.svg"}

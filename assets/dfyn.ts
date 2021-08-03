@@ -1,1 +1,1 @@
-export default {"symbol":"DFYN","icon":"icons/dfyn.svg"}
+export const dfyn = {"symbol":"DFYN","icon":"icons/dfyn.svg"}

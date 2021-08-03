@@ -1,1 +1,1 @@
-export default {"symbol":"MATIC","icon":"icons/matic.svg"}
+export const matic = {"symbol":"MATIC","icon":"icons/matic.svg"}

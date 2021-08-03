@@ -1,1 +1,1 @@
-export default {"symbol":"LAYER","icon":"icons/layer.svg"}
+export const layer = {"symbol":"LAYER","icon":"icons/layer.svg"}

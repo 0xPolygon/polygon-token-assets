@@ -1,1 +1,0 @@
-export default {"symbol":"KOIN-1","icon":"icons/koin-1.svg"}

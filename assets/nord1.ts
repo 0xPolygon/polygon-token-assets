@@ -1,0 +1,1 @@
+export const nord1 = {"symbol":"NORD-1","icon":"icons/nord-1.svg"}

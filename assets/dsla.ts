@@ -1,1 +1,1 @@
-export default {"symbol":"DSLA","icon":"icons/dsla.svg"}
+export const dsla = {"symbol":"DSLA","icon":"icons/dsla.svg"}

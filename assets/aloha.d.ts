@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const aloha: {
     symbol: string;
     icon: string;
 };
-export default _default;

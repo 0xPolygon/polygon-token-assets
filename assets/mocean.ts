@@ -1,1 +1,1 @@
-export default {"symbol":"MOCEAN","icon":"icons/mocean.svg"}
+export const mocean = {"symbol":"MOCEAN","icon":"icons/mocean.svg"}

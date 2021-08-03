@@ -1,1 +1,1 @@
-export default {"symbol":"VIFI","icon":"icons/vifi.svg"}
+export const vifi = {"symbol":"VIFI","icon":"icons/vifi.svg"}

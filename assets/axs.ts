@@ -1,1 +1,1 @@
-export default {"symbol":"AXS","icon":"icons/axs.svg"}
+export const axs = {"symbol":"AXS","icon":"icons/axs.svg"}

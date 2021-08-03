@@ -1,1 +1,1 @@
-export default {"symbol":"SENPAI","icon":"icons/senpai.svg"}
+export const senpai = {"symbol":"SENPAI","icon":"icons/senpai.svg"}

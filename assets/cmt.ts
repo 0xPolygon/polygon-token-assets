@@ -1,1 +1,1 @@
-export default {"symbol":"CMT","icon":"icons/cmt.svg"}
+export const cmt = {"symbol":"CMT","icon":"icons/cmt.svg"}

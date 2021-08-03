@@ -1,1 +1,1 @@
-export default {"symbol":"FLUX","icon":"icons/flux.svg"}
+export const flux = {"symbol":"FLUX","icon":"icons/flux.svg"}

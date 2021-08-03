@@ -1,1 +1,1 @@
-export default {"symbol":"DAO","icon":"icons/dao.svg"}
+export const dao = {"symbol":"DAO","icon":"icons/dao.svg"}

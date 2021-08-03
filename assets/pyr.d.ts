@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const pyr: {
     symbol: string;
     icon: string;
 };
-export default _default;

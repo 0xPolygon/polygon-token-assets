@@ -1,1 +1,1 @@
-export default {"symbol":"OLTC","icon":"icons/oltc.svg"}
+export const oltc = {"symbol":"OLTC","icon":"icons/oltc.svg"}

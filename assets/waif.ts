@@ -1,1 +1,1 @@
-export default {"symbol":"WAIF","icon":"icons/waif.svg"}
+export const waif = {"symbol":"WAIF","icon":"icons/waif.svg"}

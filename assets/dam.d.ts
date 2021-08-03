@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const dam: {
     symbol: string;
     icon: string;
 };
-export default _default;

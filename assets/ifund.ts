@@ -1,1 +1,1 @@
-export default {"symbol":"IFUND","icon":"icons/ifund.svg"}
+export const ifund = {"symbol":"IFUND","icon":"icons/ifund.svg"}

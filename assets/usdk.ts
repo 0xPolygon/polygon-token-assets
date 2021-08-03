@@ -1,1 +1,1 @@
-export default {"symbol":"USDK","icon":"icons/usdk.svg"}
+export const usdk = {"symbol":"USDK","icon":"icons/usdk.svg"}

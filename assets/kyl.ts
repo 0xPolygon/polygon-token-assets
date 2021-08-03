@@ -1,1 +1,1 @@
-export default {"symbol":"KYL","icon":"icons/kyl.svg"}
+export const kyl = {"symbol":"KYL","icon":"icons/kyl.svg"}

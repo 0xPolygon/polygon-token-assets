@@ -1,1 +1,1 @@
-export default {"symbol":"TRUEBIT","icon":"icons/truebit.svg"}
+export const truebit = {"symbol":"TRUEBIT","icon":"icons/truebit.svg"}

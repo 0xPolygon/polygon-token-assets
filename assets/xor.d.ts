@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const xor: {
     symbol: string;
     icon: string;
 };
-export default _default;

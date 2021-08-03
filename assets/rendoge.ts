@@ -1,1 +1,1 @@
-export default {"symbol":"RENDOGE","icon":"icons/rendoge.svg"}
+export const rendoge = {"symbol":"RENDOGE","icon":"icons/rendoge.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"DPI","icon":"icons/dpi.svg"}
+export const dpi = {"symbol":"DPI","icon":"icons/dpi.svg"}

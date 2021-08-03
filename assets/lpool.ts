@@ -1,1 +1,1 @@
-export default {"symbol":"LPOOL","icon":"icons/lpool.svg"}
+export const lpool = {"symbol":"LPOOL","icon":"icons/lpool.svg"}

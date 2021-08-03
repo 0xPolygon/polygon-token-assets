@@ -1,1 +1,1 @@
-export default {"symbol":"PMON","icon":"icons/pmon.svg"}
+export const pmon = {"symbol":"PMON","icon":"icons/pmon.svg"}

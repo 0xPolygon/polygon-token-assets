@@ -1,1 +1,1 @@
-export default {"symbol":"GNO","icon":"icons/gno.svg"}
+export const gno = {"symbol":"GNO","icon":"icons/gno.svg"}

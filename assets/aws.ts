@@ -1,1 +1,1 @@
-export default {"symbol":"AWS","icon":"icons/aws.svg"}
+export const aws = {"symbol":"AWS","icon":"icons/aws.svg"}

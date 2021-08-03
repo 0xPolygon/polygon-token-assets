@@ -1,1 +1,1 @@
-export default {"symbol":"FORCE","icon":"icons/force.svg"}
+export const force = {"symbol":"FORCE","icon":"icons/force.svg"}

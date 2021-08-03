@@ -1,1 +1,1 @@
-export default {"symbol":"CTI","icon":"icons/cti.svg"}
+export const cti = {"symbol":"CTI","icon":"icons/cti.svg"}

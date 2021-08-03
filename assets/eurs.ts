@@ -1,1 +1,1 @@
-export default {"symbol":"EURS","icon":"icons/eurs.svg"}
+export const eurs = {"symbol":"EURS","icon":"icons/eurs.svg"}

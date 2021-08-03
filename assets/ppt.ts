@@ -1,1 +1,1 @@
-export default {"symbol":"PPT","icon":"icons/ppt.svg"}
+export const ppt = {"symbol":"PPT","icon":"icons/ppt.svg"}

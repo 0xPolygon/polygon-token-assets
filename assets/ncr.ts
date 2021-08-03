@@ -1,1 +1,1 @@
-export default {"symbol":"NCR","icon":"icons/ncr.svg"}
+export const ncr = {"symbol":"NCR","icon":"icons/ncr.svg"}

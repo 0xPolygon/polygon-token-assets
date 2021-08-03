@@ -1,1 +1,1 @@
-export default {"symbol":"GEO","icon":"icons/geo.svg"}
+export const geo = {"symbol":"GEO","icon":"icons/geo.svg"}

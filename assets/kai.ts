@@ -1,1 +1,1 @@
-export default {"symbol":"KAI","icon":"icons/kai.svg"}
+export const kai = {"symbol":"KAI","icon":"icons/kai.svg"}

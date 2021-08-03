@@ -1,1 +1,1 @@
-export default {"symbol":"MOD","icon":"icons/mod.svg"}
+export const mod = {"symbol":"MOD","icon":"icons/mod.svg"}

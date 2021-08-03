@@ -1,1 +1,1 @@
-export default {"symbol":"TXL","icon":"icons/txl.svg"}
+export const txl = {"symbol":"TXL","icon":"icons/txl.svg"}

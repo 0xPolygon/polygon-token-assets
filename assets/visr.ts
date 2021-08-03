@@ -1,1 +1,1 @@
-export default {"symbol":"VISR","icon":"icons/visr.svg"}
+export const visr = {"symbol":"VISR","icon":"icons/visr.svg"}

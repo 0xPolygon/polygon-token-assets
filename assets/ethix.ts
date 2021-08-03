@@ -1,1 +1,1 @@
-export default {"symbol":"ETHIX","icon":"icons/ethix.svg"}
+export const ethix = {"symbol":"ETHIX","icon":"icons/ethix.svg"}

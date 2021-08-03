@@ -1,1 +1,1 @@
-export default {"symbol":"LTO","icon":"icons/lto.svg"}
+export const lto = {"symbol":"LTO","icon":"icons/lto.svg"}

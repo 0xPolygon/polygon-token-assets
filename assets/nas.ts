@@ -1,1 +1,1 @@
-export default {"symbol":"NAS","icon":"icons/nas.svg"}
+export const nas = {"symbol":"NAS","icon":"icons/nas.svg"}

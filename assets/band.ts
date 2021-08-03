@@ -1,1 +1,1 @@
-export default {"symbol":"BAND","icon":"icons/band.svg"}
+export const band = {"symbol":"BAND","icon":"icons/band.svg"}

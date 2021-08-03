@@ -1,1 +1,1 @@
-export default {"symbol":"SAFEEARTH","icon":"icons/safeearth.svg"}
+export const safeearth = {"symbol":"SAFEEARTH","icon":"icons/safeearth.svg"}

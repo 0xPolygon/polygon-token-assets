@@ -1,1 +1,1 @@
-export default {"symbol":"NFTP","icon":"icons/nftp.svg"}
+export const nftp = {"symbol":"NFTP","icon":"icons/nftp.svg"}

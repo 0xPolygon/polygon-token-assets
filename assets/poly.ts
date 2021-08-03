@@ -1,1 +1,1 @@
-export default {"symbol":"POLY","icon":"icons/poly.svg"}
+export const poly = {"symbol":"POLY","icon":"icons/poly.svg"}

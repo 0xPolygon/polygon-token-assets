@@ -1,1 +1,1 @@
-export default {"symbol":"GOVI","icon":"icons/govi.svg"}
+export const govi = {"symbol":"GOVI","icon":"icons/govi.svg"}

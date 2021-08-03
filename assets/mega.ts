@@ -1,1 +1,1 @@
-export default {"symbol":"MEGA","icon":"icons/mega.svg"}
+export const mega = {"symbol":"MEGA","icon":"icons/mega.svg"}

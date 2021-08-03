@@ -1,1 +1,1 @@
-export default {"symbol":"ETHOS","icon":"icons/ethos.svg"}
+export const ethos = {"symbol":"ETHOS","icon":"icons/ethos.svg"}

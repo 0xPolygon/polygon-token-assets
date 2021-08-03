@@ -1,1 +1,1 @@
-export default {"symbol":"FORTH","icon":"icons/forth.svg"}
+export const forth = {"symbol":"FORTH","icon":"icons/forth.svg"}

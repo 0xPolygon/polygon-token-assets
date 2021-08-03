@@ -1,1 +1,1 @@
-export default {"symbol":"CELL","icon":"icons/cell.svg"}
+export const cell = {"symbol":"CELL","icon":"icons/cell.svg"}

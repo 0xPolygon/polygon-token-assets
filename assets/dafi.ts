@@ -1,1 +1,1 @@
-export default {"symbol":"DAFI","icon":"icons/dafi.svg"}
+export const dafi = {"symbol":"DAFI","icon":"icons/dafi.svg"}

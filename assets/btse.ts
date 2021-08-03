@@ -1,1 +1,1 @@
-export default {"symbol":"BTSE","icon":"icons/btse.svg"}
+export const btse = {"symbol":"BTSE","icon":"icons/btse.svg"}

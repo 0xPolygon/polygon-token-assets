@@ -1,1 +1,1 @@
-export default {"symbol":"WAX","icon":"icons/wax.svg"}
+export const wax = {"symbol":"WAX","icon":"icons/wax.svg"}

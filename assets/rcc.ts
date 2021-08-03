@@ -1,1 +1,1 @@
-export default {"symbol":"RCC","icon":"icons/rcc.svg"}
+export const rcc = {"symbol":"RCC","icon":"icons/rcc.svg"}

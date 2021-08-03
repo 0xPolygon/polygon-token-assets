@@ -1,1 +1,1 @@
-export default {"symbol":"MPOND","icon":"icons/mpond.svg"}
+export const mpond = {"symbol":"MPOND","icon":"icons/mpond.svg"}

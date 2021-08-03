@@ -1,1 +1,1 @@
-export default {"symbol":"ZEFU","icon":"icons/zefu.svg"}
+export const zefu = {"symbol":"ZEFU","icon":"icons/zefu.svg"}

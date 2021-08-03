@@ -1,1 +1,1 @@
-export default {"symbol":"HOGE","icon":"icons/hoge.svg"}
+export const hoge = {"symbol":"HOGE","icon":"icons/hoge.svg"}

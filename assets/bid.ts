@@ -1,1 +1,1 @@
-export default {"symbol":"BID","icon":"icons/bid.svg"}
+export const bid = {"symbol":"BID","icon":"icons/bid.svg"}

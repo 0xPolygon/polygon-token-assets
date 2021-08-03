@@ -1,1 +1,1 @@
-export default {"symbol":"BTU","icon":"icons/btu.svg"}
+export const btu = {"symbol":"BTU","icon":"icons/btu.svg"}

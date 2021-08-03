@@ -1,1 +1,1 @@
-export default {"symbol":"HYDRO","icon":"icons/hydro.svg"}
+export const hydro = {"symbol":"HYDRO","icon":"icons/hydro.svg"}

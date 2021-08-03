@@ -1,1 +1,1 @@
-export default {"symbol":"ZIL","icon":"icons/zil.svg"}
+export const zil = {"symbol":"ZIL","icon":"icons/zil.svg"}

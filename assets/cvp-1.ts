@@ -1,1 +1,0 @@
-export default {"symbol":"CVP-1","icon":"icons/cvp-1.svg"}

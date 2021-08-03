@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const drc: {
     symbol: string;
     icon: string;
 };
-export default _default;

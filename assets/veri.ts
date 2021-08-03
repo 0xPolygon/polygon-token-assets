@@ -1,1 +1,1 @@
-export default {"symbol":"VERI","icon":"icons/veri.svg"}
+export const veri = {"symbol":"VERI","icon":"icons/veri.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"ROUTE","icon":"icons/route.svg"}
+export const route = {"symbol":"ROUTE","icon":"icons/route.svg"}

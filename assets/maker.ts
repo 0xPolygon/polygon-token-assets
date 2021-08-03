@@ -1,1 +1,1 @@
-export default {"symbol":"MAKER","icon":"icons/maker.svg"}
+export const maker = {"symbol":"MAKER","icon":"icons/maker.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"NOIA","icon":"icons/noia.svg"}
+export const noia = {"symbol":"NOIA","icon":"icons/noia.svg"}

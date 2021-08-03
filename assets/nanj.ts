@@ -1,1 +1,1 @@
-export default {"symbol":"NANJ","icon":"icons/nanj.svg"}
+export const nanj = {"symbol":"NANJ","icon":"icons/nanj.svg"}

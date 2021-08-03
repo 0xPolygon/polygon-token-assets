@@ -1,1 +1,1 @@
-export default {"symbol":"QUICK","icon":"icons/quick.svg"}
+export const quick = {"symbol":"QUICK","icon":"icons/quick.svg"}

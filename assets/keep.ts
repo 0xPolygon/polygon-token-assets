@@ -1,1 +1,1 @@
-export default {"symbol":"KEEP","icon":"icons/keep.svg"}
+export const keep = {"symbol":"KEEP","icon":"icons/keep.svg"}

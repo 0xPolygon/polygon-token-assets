@@ -1,1 +1,1 @@
-export default {"symbol":"CGG","icon":"icons/cgg.svg"}
+export const cgg = {"symbol":"CGG","icon":"icons/cgg.svg"}

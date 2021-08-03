@@ -1,1 +1,1 @@
-export default {"symbol":"XOR","icon":"icons/xor.svg"}
+export const xor = {"symbol":"XOR","icon":"icons/xor.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"KNCL","icon":"icons/kncl.svg"}
+export const kncl = {"symbol":"KNCL","icon":"icons/kncl.svg"}

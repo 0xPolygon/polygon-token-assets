@@ -1,1 +1,1 @@
-export default {"symbol":"BMI","icon":"icons/bmi.svg"}
+export const bmi = {"symbol":"BMI","icon":"icons/bmi.svg"}

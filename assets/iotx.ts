@@ -1,1 +1,1 @@
-export default {"symbol":"IOTX","icon":"icons/iotx.svg"}
+export const iotx = {"symbol":"IOTX","icon":"icons/iotx.svg"}

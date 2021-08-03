@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const pteria: {
     symbol: string;
     icon: string;
 };
-export default _default;

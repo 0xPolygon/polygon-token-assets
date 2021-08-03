@@ -1,1 +1,1 @@
-export default {"symbol":"WNXM","icon":"icons/wnxm.svg"}
+export const wnxm = {"symbol":"WNXM","icon":"icons/wnxm.svg"}

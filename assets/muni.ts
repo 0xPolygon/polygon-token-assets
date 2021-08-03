@@ -1,1 +1,1 @@
-export default {"symbol":"MUNI","icon":"icons/muni.svg"}
+export const muni = {"symbol":"MUNI","icon":"icons/muni.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"GNBU","icon":"icons/gnbu.svg"}
+export const gnbu = {"symbol":"GNBU","icon":"icons/gnbu.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"KTN","icon":"icons/ktn.svg"}
+export const ktn = {"symbol":"KTN","icon":"icons/ktn.svg"}

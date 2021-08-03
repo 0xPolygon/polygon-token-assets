@@ -1,1 +1,1 @@
-export default {"symbol":"COR","icon":"icons/cor.svg"}
+export const cor = {"symbol":"COR","icon":"icons/cor.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"BONDLY","icon":"icons/bondly.svg"}
+export const bondly = {"symbol":"BONDLY","icon":"icons/bondly.svg"}

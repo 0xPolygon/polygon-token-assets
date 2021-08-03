@@ -1,1 +1,1 @@
-export default {"symbol":"STAK","icon":"icons/stak.svg"}
+export const stak = {"symbol":"STAK","icon":"icons/stak.svg"}

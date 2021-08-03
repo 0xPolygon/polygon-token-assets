@@ -1,1 +1,1 @@
-export default {"symbol":"RAZOR","icon":"icons/razor.svg"}
+export const razor = {"symbol":"RAZOR","icon":"icons/razor.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"KIT","icon":"icons/kit.svg"}
+export const kit = {"symbol":"KIT","icon":"icons/kit.svg"}

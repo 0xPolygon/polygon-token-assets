@@ -1,1 +1,1 @@
-export default {"symbol":"OPU","icon":"icons/opu.svg"}
+export const opu = {"symbol":"OPU","icon":"icons/opu.svg"}

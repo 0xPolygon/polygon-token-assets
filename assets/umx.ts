@@ -1,1 +1,1 @@
-export default {"symbol":"UMX","icon":"icons/umx.svg"}
+export const umx = {"symbol":"UMX","icon":"icons/umx.svg"}

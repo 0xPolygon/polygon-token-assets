@@ -1,1 +1,1 @@
-export default {"symbol":"PLU","icon":"icons/plu.svg"}
+export const plu = {"symbol":"PLU","icon":"icons/plu.svg"}

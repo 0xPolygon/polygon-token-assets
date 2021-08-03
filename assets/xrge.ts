@@ -1,1 +1,1 @@
-export default {"symbol":"XRGE","icon":"icons/xrge.svg"}
+export const xrge = {"symbol":"XRGE","icon":"icons/xrge.svg"}

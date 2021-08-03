@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const enj: {
     symbol: string;
     icon: string;
 };
-export default _default;

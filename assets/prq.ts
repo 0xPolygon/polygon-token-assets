@@ -1,1 +1,1 @@
-export default {"symbol":"PRQ","icon":"icons/prq.svg"}
+export const prq = {"symbol":"PRQ","icon":"icons/prq.svg"}

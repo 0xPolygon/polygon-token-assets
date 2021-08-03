@@ -1,1 +1,1 @@
-export default {"symbol":"MVI","icon":"icons/mvi.svg"}
+export const mvi = {"symbol":"MVI","icon":"icons/mvi.svg"}

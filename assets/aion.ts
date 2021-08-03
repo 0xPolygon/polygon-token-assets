@@ -1,1 +1,1 @@
-export default {"symbol":"AION","icon":"icons/aion.svg"}
+export const aion = {"symbol":"AION","icon":"icons/aion.svg"}

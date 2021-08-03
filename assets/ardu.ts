@@ -1,1 +1,1 @@
-export default {"symbol":"ARDU","icon":"icons/ardu.svg"}
+export const ardu = {"symbol":"ARDU","icon":"icons/ardu.svg"}

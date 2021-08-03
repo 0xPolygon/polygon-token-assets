@@ -1,1 +1,1 @@
-export default {"symbol":"LRC","icon":"icons/lrc.svg"}
+export const lrc = {"symbol":"LRC","icon":"icons/lrc.svg"}

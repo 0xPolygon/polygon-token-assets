@@ -1,1 +1,1 @@
-export default {"symbol":"PPBLZ","icon":"icons/ppblz.svg"}
+export const ppblz = {"symbol":"PPBLZ","icon":"icons/ppblz.svg"}

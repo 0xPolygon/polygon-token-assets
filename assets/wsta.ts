@@ -1,1 +1,1 @@
-export default {"symbol":"WSTA","icon":"icons/wsta.svg"}
+export const wsta = {"symbol":"WSTA","icon":"icons/wsta.svg"}

@@ -1,1 +1,1 @@
-export default {"symbol":"RBC","icon":"icons/rbc.svg"}
+export const rbc = {"symbol":"RBC","icon":"icons/rbc.svg"}

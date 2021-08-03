@@ -1,1 +1,1 @@
-export default {"symbol":"ALEPH","icon":"icons/aleph.svg"}
+export const aleph = {"symbol":"ALEPH","icon":"icons/aleph.svg"}

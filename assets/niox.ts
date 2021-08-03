@@ -1,1 +1,1 @@
-export default {"symbol":"NIOX","icon":"icons/niox.svg"}
+export const niox = {"symbol":"NIOX","icon":"icons/niox.svg"}

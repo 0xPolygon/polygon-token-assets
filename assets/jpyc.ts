@@ -1,1 +1,1 @@
-export default {"symbol":"JPYC","icon":"icons/jpyc.svg"}
+export const jpyc = {"symbol":"JPYC","icon":"icons/jpyc.svg"}

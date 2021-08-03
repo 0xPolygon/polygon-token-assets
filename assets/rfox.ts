@@ -1,1 +1,1 @@
-export default {"symbol":"RFOX","icon":"icons/rfox.svg"}
+export const rfox = {"symbol":"RFOX","icon":"icons/rfox.svg"}

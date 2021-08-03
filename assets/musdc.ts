@@ -1,1 +1,1 @@
-export default {"symbol":"MUSDC","icon":"icons/musdc.svg"}
+export const musdc = {"symbol":"MUSDC","icon":"icons/musdc.svg"}

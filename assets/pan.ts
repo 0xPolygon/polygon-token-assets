@@ -1,1 +1,1 @@
-export default {"symbol":"PAN","icon":"icons/pan.svg"}
+export const pan = {"symbol":"PAN","icon":"icons/pan.svg"}

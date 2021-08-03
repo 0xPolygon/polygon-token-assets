@@ -1,1 +1,1 @@
-export default {"symbol":"MPH","icon":"icons/mph.svg"}
+export const mph = {"symbol":"MPH","icon":"icons/mph.svg"}

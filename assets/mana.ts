@@ -1,1 +1,1 @@
-export default {"symbol":"MANA","icon":"icons/mana.svg"}
+export const mana = {"symbol":"MANA","icon":"icons/mana.svg"}

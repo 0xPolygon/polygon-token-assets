@@ -1,1 +1,1 @@
-export default {"symbol":"UDOKI","icon":"icons/udoki.svg"}
+export const udoki = {"symbol":"UDOKI","icon":"icons/udoki.svg"}

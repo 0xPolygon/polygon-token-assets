@@ -1,1 +1,1 @@
-export default {"symbol":"PYR","icon":"icons/pyr.svg"}
+export const pyr = {"symbol":"PYR","icon":"icons/pyr.svg"}

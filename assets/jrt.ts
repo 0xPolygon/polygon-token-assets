@@ -1,1 +1,1 @@
-export default {"symbol":"JRT","icon":"icons/jrt.svg"}
+export const jrt = {"symbol":"JRT","icon":"icons/jrt.svg"}

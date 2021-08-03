@@ -1,1 +1,1 @@
-export default {"symbol":"TRND","icon":"icons/trnd.svg"}
+export const trnd = {"symbol":"TRND","icon":"icons/trnd.svg"}

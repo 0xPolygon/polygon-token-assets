@@ -1,1 +1,1 @@
-export default {"symbol":"TCAP","icon":"icons/tcap.svg"}
+export const tcap = {"symbol":"TCAP","icon":"icons/tcap.svg"}

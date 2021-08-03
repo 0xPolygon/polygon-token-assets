@@ -1,1 +1,1 @@
-export default {"symbol":"USDT","icon":"icons/usdt.svg"}
+export const usdt = {"symbol":"USDT","icon":"icons/usdt.svg"}

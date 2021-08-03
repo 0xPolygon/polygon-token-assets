@@ -1,1 +1,1 @@
-export default {"symbol":"LPL","icon":"icons/lpl.svg"}
+export const lpl = {"symbol":"LPL","icon":"icons/lpl.svg"}

@@ -1,0 +1,1 @@
+export const superFarm = {"symbol":"SUPER","icon":"icons/super.svg"}

@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const rep: {
     symbol: string;
     icon: string;
 };
-export default _default;

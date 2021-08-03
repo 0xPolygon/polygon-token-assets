@@ -1,1 +1,1 @@
-export default {"symbol":"THETA","icon":"icons/theta.svg"}
+export const theta = {"symbol":"THETA","icon":"icons/theta.svg"}

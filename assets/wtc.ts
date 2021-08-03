@@ -1,1 +1,1 @@
-export default {"symbol":"WTC","icon":"icons/wtc.svg"}
+export const wtc = {"symbol":"WTC","icon":"icons/wtc.svg"}

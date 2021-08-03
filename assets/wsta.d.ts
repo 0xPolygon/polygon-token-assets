@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const wsta: {
     symbol: string;
     icon: string;
 };
-export default _default;

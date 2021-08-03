@@ -1,1 +1,1 @@
-export default {"symbol":"PERI","icon":"icons/peri.svg"}
+export const peri = {"symbol":"PERI","icon":"icons/peri.svg"}

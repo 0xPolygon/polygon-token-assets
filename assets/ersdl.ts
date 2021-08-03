@@ -1,1 +1,1 @@
-export default {"symbol":"ERSDL","icon":"icons/ersdl.svg"}
+export const ersdl = {"symbol":"ERSDL","icon":"icons/ersdl.svg"}

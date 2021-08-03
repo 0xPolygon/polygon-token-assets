@@ -1,1 +1,1 @@
-export default {"symbol":"WRX","icon":"icons/wrx.svg"}
+export const wrx = {"symbol":"WRX","icon":"icons/wrx.svg"}

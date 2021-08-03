@@ -1,1 +1,1 @@
-export default {"symbol":"YFI","icon":"icons/yfi.svg"}
+export const yfi = {"symbol":"YFI","icon":"icons/yfi.svg"}

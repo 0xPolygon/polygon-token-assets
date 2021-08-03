@@ -1,1 +1,1 @@
-export default {"symbol":"XTK","icon":"icons/xtk.svg"}
+export const xtk = {"symbol":"XTK","icon":"icons/xtk.svg"}

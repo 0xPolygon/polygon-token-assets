@@ -1,1 +1,1 @@
-export default {"symbol":"EPAN","icon":"icons/epan.svg"}
+export const epan = {"symbol":"EPAN","icon":"icons/epan.svg"}

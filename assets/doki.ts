@@ -1,1 +1,1 @@
-export default {"symbol":"DOKI","icon":"icons/doki.svg"}
+export const doki = {"symbol":"DOKI","icon":"icons/doki.svg"}

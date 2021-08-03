@@ -1,5 +1,4 @@
-declare const _default: {
+export declare const defi: {
     symbol: string;
     icon: string;
 };
-export default _default;
