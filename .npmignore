@@ -1,3 +1,7 @@
 node_modules
+.github
+src
 test
-*.tgz
+webpack
+tsconfig.json
+*.config.js
