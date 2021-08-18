@@ -8,7 +8,7 @@ const getImage = (icon) => {
         // return require(iconPath);
         // return require("file-loader?name=assets/KAI.svg!@maticnetwork/token-assets/icons/KAI.svg")
         const path =`assets/${icon}`
-        return require(`file-loader?name=assets/[name].[ext]!@maticnetwork/token-assets/${icon}`) as any
+        return require(`file-loader?name=assets/[name].[ext]!@maticnetwork/token-assets/icons/${icon}`) as any
     } catch (error) {
         console.error(error);
         return {

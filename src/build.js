@@ -5,7 +5,7 @@ ensureDirSync("build");
 let allExport = ``;
 for (const tokenId in list) {
     const tokenInfo = list[tokenId];
-    tokenInfo.icon = "icons/" + tokenInfo.icon;
+    tokenInfo.icon = tokenInfo.icon;
     allExport += `export * from './${tokenId}';\n`
     writeFileSync(`build/${tokenId}.ts`, `export const ${tokenId} = ${JSON.stringify(tokenInfo)}`);
 }
