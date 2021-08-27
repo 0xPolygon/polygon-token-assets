@@ -5,12 +5,12 @@ import tokens from '@maticnetwork/token-assets'
 
 const getImage = (icon) => {
     try {
-        const iconPath = `file-loader?name=assets/${icon}!@maticnetwork/token-assets/${icon}`
-        console.log(iconPath)
+        // const iconPath = `file-loader?name=assets/${icon}!@maticnetwork/token-assets/${icon}`
+        // console.log(iconPath)
         // return require(iconPath);
         // return require("file-loader?name=assets/KAI.svg!@maticnetwork/token-assets/icons/KAI.svg")
-        const path =`assets/${icon}`
-        return require(`file-loader?name=assets/[name].[ext]!@maticnetwork/token-assets/${icon}`) as any
+        // const path =`assets/${icon}`
+        return require(`file-loader?name=assets/[name].[ext]!@maticnetwork/token-assets/icons/${icon}`) as any
     } catch (error) {
         console.error(error);
         return {
