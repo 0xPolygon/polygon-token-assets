@@ -1,1 +1,0 @@
-export const daofi = {"symbol":"DAOFI","icon":"icons/daofi.svg"}

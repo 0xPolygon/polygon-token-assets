@@ -1,1 +1,0 @@
-export const zil = {"symbol":"ZIL","icon":"icons/zil.svg"}

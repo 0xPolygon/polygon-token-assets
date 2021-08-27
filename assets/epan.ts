@@ -1,1 +1,0 @@
-export const epan = {"symbol":"EPAN","icon":"icons/epan.svg"}

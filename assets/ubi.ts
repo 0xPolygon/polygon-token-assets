@@ -1,1 +1,0 @@
-export const ubi = {"symbol":"UBI","icon":"icons/ubi.svg"}

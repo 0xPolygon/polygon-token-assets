@@ -1,1 +1,0 @@
-export const kp3r = {"symbol":"KP3R","icon":"icons/kp3r.svg"}

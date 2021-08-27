@@ -1,1 +1,0 @@
-export const prq = {"symbol":"PRQ","icon":"icons/prq.svg"}

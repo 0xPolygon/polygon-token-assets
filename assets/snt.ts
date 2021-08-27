@@ -1,1 +1,0 @@
-export const snt = {"symbol":"SNT","icon":"icons/snt.svg"}

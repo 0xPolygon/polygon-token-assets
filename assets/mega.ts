@@ -1,1 +1,0 @@
-export const mega = {"symbol":"MEGA","icon":"icons/mega.svg"}

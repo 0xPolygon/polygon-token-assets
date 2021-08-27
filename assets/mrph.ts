@@ -1,1 +1,0 @@
-export const mrph = {"symbol":"MRPH","icon":"icons/mrph.svg"}

@@ -1,1 +1,0 @@
-export const mlink = {"symbol":"MLINK","icon":"icons/mlink.svg"}

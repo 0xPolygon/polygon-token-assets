@@ -1,1 +1,0 @@
-export const igg = {"symbol":"IGG","icon":"icons/igg.svg"}

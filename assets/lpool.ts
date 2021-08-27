@@ -1,1 +1,0 @@
-export const lpool = {"symbol":"LPOOL","icon":"icons/lpool.svg"}

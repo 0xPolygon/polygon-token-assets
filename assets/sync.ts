@@ -1,1 +1,0 @@
-export const sync = {"symbol":"SYNC","icon":"icons/sync.svg"}

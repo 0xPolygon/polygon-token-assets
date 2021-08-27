@@ -1,1 +1,0 @@
-export const eurs = {"symbol":"EURS","icon":"icons/eurs.svg"}

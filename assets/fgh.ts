@@ -1,1 +1,0 @@
-export const fgh = {"symbol":"FGH","icon":"icons/fgh.svg"}

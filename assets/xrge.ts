@@ -1,1 +1,0 @@
-export const xrge = {"symbol":"XRGE","icon":"icons/xrge.svg"}

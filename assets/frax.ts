@@ -1,1 +1,0 @@
-export const frax = {"symbol":"FRAX","icon":"icons/frax.svg"}

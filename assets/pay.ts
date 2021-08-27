@@ -1,1 +1,0 @@
-export const pay = {"symbol":"PAY","icon":"icons/pay.svg"}

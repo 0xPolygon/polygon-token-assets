@@ -1,1 +1,0 @@
-export const nas = {"symbol":"NAS","icon":"icons/nas.svg"}

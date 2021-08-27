@@ -1,1 +1,0 @@
-export const cgg = {"symbol":"CGG","icon":"icons/cgg.svg"}

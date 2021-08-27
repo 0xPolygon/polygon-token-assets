@@ -1,1 +1,0 @@
-export const ven = {"symbol":"VEN","icon":"icons/ven.svg"}

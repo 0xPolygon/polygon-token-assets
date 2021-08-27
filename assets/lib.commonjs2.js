@@ -97,7 +97,7 @@ module.exports =
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "$anrx", function() { return $anrx; });
-const $anrx = { "symbol": "$ANRX", "icon": "icons/$anrx.svg" };
+const $anrx = { "symbol": "$ANRX", "icon": "$anrx.svg" };
 
 
 /***/ }),
@@ -112,7 +112,7 @@ const $anrx = { "symbol": "$ANRX", "icon": "icons/$anrx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "aave", function() { return aave; });
-const aave = { "symbol": "AAVE", "icon": "icons/aave.svg" };
+const aave = { "symbol": "AAVE", "icon": "aave.svg" };
 
 
 /***/ }),
@@ -127,7 +127,7 @@ const aave = { "symbol": "AAVE", "icon": "icons/aave.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ac", function() { return ac; });
-const ac = { "symbol": "AC", "icon": "icons/ac.svg" };
+const ac = { "symbol": "AC", "icon": "ac.svg" };
 
 
 /***/ }),
@@ -142,7 +142,7 @@ const ac = { "symbol": "AC", "icon": "icons/ac.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "acbtc", function() { return acbtc; });
-const acbtc = { "symbol": "ACBTC", "icon": "icons/acbtc.svg" };
+const acbtc = { "symbol": "ACBTC", "icon": "acbtc.svg" };
 
 
 /***/ }),
@@ -157,7 +157,7 @@ const acbtc = { "symbol": "ACBTC", "icon": "icons/acbtc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "add", function() { return add; });
-const add = { "symbol": "ADD", "icon": "icons/add.svg" };
+const add = { "symbol": "ADD", "icon": "add.svg" };
 
 
 /***/ }),
@@ -172,7 +172,7 @@ const add = { "symbol": "ADD", "icon": "icons/add.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "adx", function() { return adx; });
-const adx = { "symbol": "ADX", "icon": "icons/adx.svg" };
+const adx = { "symbol": "ADX", "icon": "adx.svg" };
 
 
 /***/ }),
@@ -187,7 +187,7 @@ const adx = { "symbol": "ADX", "icon": "icons/adx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ae", function() { return ae; });
-const ae = { "symbol": "AE", "icon": "icons/ae.svg" };
+const ae = { "symbol": "AE", "icon": "ae.svg" };
 
 
 /***/ }),
@@ -202,7 +202,7 @@ const ae = { "symbol": "AE", "icon": "icons/ae.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "aeth", function() { return aeth; });
-const aeth = { "symbol": "AETH", "icon": "icons/aeth.svg" };
+const aeth = { "symbol": "AETH", "icon": "aeth.svg" };
 
 
 /***/ }),
@@ -217,7 +217,7 @@ const aeth = { "symbol": "AETH", "icon": "icons/aeth.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "aga", function() { return aga; });
-const aga = { "symbol": "AGA", "icon": "icons/aga.svg" };
+const aga = { "symbol": "AGA", "icon": "aga.svg" };
 
 
 /***/ }),
@@ -232,7 +232,7 @@ const aga = { "symbol": "AGA", "icon": "icons/aga.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "aion", function() { return aion; });
-const aion = { "symbol": "AION", "icon": "icons/aion.svg" };
+const aion = { "symbol": "AION", "icon": "aion.svg" };
 
 
 /***/ }),
@@ -247,7 +247,7 @@ const aion = { "symbol": "AION", "icon": "icons/aion.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "aioz", function() { return aioz; });
-const aioz = { "symbol": "AIOZ", "icon": "icons/aioz.svg" };
+const aioz = { "symbol": "AIOZ", "icon": "aioz.svg" };
 
 
 /***/ }),
@@ -262,7 +262,7 @@ const aioz = { "symbol": "AIOZ", "icon": "icons/aioz.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "akro", function() { return akro; });
-const akro = { "symbol": "AKRO", "icon": "icons/akro.svg" };
+const akro = { "symbol": "AKRO", "icon": "akro.svg" };
 
 
 /***/ }),
@@ -277,7 +277,7 @@ const akro = { "symbol": "AKRO", "icon": "icons/akro.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "akt", function() { return akt; });
-const akt = { "symbol": "AKT", "icon": "icons/akt.svg" };
+const akt = { "symbol": "AKT", "icon": "akt.svg" };
 
 
 /***/ }),
@@ -292,7 +292,7 @@ const akt = { "symbol": "AKT", "icon": "icons/akt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "alcx", function() { return alcx; });
-const alcx = { "symbol": "ALCX", "icon": "icons/alcx.svg" };
+const alcx = { "symbol": "ALCX", "icon": "alcx.svg" };
 
 
 /***/ }),
@@ -307,7 +307,7 @@ const alcx = { "symbol": "ALCX", "icon": "icons/alcx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "aleph", function() { return aleph; });
-const aleph = { "symbol": "ALEPH", "icon": "icons/aleph.svg" };
+const aleph = { "symbol": "ALEPH", "icon": "aleph.svg" };
 
 
 /***/ }),
@@ -322,7 +322,7 @@ const aleph = { "symbol": "ALEPH", "icon": "icons/aleph.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "list", function() { return list; });
-const list = { "$anrx": { "symbol": "$ANRX", "icon": "icons/$anrx.svg" }, "zeroxbtc": { "symbol": "0XBTC", "icon": "icons/0xbtc.svg" }, "zeroxmr": { "symbol": "0XMR", "icon": "icons/0xmr.svg" }, "one337": { "symbol": "1337", "icon": "icons/1337.svg" }, "three00": { "symbol": "300", "icon": "icons/300.svg" }, "aave": { "symbol": "AAVE", "icon": "icons/aave.svg" }, "ac": { "symbol": "AC", "icon": "icons/ac.svg" }, "acbtc": { "symbol": "ACBTC", "icon": "icons/acbtc.svg" }, "add": { "symbol": "ADD", "icon": "icons/add.svg" }, "adx": { "symbol": "ADX", "icon": "icons/adx.svg" }, "ae": { "symbol": "AE", "icon": "icons/ae.svg" }, "aeth": { "symbol": "AETH", "icon": "icons/aeth.svg" }, "aga": { "symbol": "AGA", "icon": "icons/aga.svg" }, "aion": { "symbol": "AION", "icon": "icons/aion.svg" }, "aioz": { "symbol": "AIOZ", "icon": "icons/aioz.svg" }, "akro": { "symbol": "AKRO", "icon": "icons/akro.svg" }, "akt": { "symbol": "AKT", "icon": "icons/akt.svg" }, "alcx": { "symbol": "ALCX", "icon": "icons/alcx.svg" }, "aleph": { "symbol": "ALEPH", "icon": "icons/aleph.svg" }, "aloha": { "symbol": "ALOHA", "icon": "icons/aloha.svg" }, "amp": { "symbol": "AMP", "icon": "icons/amp.svg" }, "ankr": { "symbol": "ANKR", "icon": "icons/ankr.svg" }, "ardu": { "symbol": "ARDU", "icon": "icons/ardu.svg" }, "armor": { "symbol": "ARMOR", "icon": "icons/armor.svg" }, "atri": { "symbol": "ATRI", "icon": "icons/atri.svg" }, "audio": { "symbol": "AUDIO", "icon": "icons/audio.svg" }, "aws": { "symbol": "AWS", "icon": "icons/aws.svg" }, "axi": { "symbol": "AXI", "icon": "icons/axi.svg" }, "axs": { "symbol": "AXS", "icon": "icons/axs.svg" }, "bab": { "symbol": "BAB", "icon": "icons/bab.svg" }, "badger": { "symbol": "BADGER", "icon": "icons/badger.svg" }, "bal": { "symbol": "BAL", "icon": "icons/bal.svg" }, "band": { "symbol": "BAND", "icon": "icons/band.svg" }, "bao": { "symbol": "BAO", "icon": "icons/bao.svg" }, "basv2": { "symbol": "BASV2", "icon": "icons/basv2.svg" }, "bat": { "symbol": "BAT", "icon": "icons/bat.svg" }, "bcm": { "symbol": "BCM", "icon": "icons/bcm.svg" }, "bepro": { "symbol": "BEPRO", "icon": "icons/bepro.svg" }, "bfly": { "symbol": "BFLY", "icon": "icons/bfly.svg" }, "bid": { "symbol": "BID", "icon": "icons/bid.svg" }, "bix": { "symbol": "BIX", "icon": "icons/bix.svg" }, "bles": { "symbol": "BLES", "icon": "icons/bles.svg" }, "blue": { "symbol": "BLUE", "icon": "icons/blue.svg" }, "bmi": { "symbol": "BMI", "icon": "icons/bmi.svg" }, "bnb": { "symbol": "BNB", "icon": "icons/bnb.svg" }, "bnt": { "symbol": "BNT", "icon": "icons/bnt.svg" }, "bnty": { "symbol": "BNTY", "icon": "icons/bnty.svg" }, "bond1": { "symbol": "BOND-1", "icon": "icons/bond-1.svg" }, "bond": { "symbol": "BOND", "icon": "icons/bond.svg" }, "bondly": { "symbol": "BONDLY", "icon": "icons/bondly.svg" }, "bribe": { "symbol": "BRIBE", "icon": "icons/bribe.svg" }, "bs1": { "symbol": "BS1", "icon": "icons/bs1.svg" }, "btc2xFli": { "symbol": "BTC2X-FLI", "icon": "icons/btc2x-fli.svg" }, "btm": { "symbol": "BTM", "icon": "icons/btm.svg" }, "btse": { "symbol": "BTSE", "icon": "icons/btse.svg" }, "btu": { "symbol": "BTU", "icon": "icons/btu.svg" }, "btzc": { "symbol": "BTZC", "icon": "icons/btzc.svg" }, "buidl": { "symbol": "BUIDL", "icon": "icons/buidl.svg" }, "busd": { "symbol": "BUSD", "icon": "icons/busd.svg" }, "byn": { "symbol": "BYN", "icon": "icons/byn.svg" }, "bzn": { "symbol": "BZN", "icon": "icons/bzn.svg" }, "card": { "symbol": "CARD", "icon": "icons/card.svg" }, "cards": { "symbol": "CARDS", "icon": "icons/cards.svg" }, "cc10": { "symbol": "CC10", "icon": "icons/cc10.svg" }, "ccio": { "symbol": "CCIO", "icon": "icons/ccio.svg" }, "cel": { "symbol": "CEL", "icon": "icons/cel.svg" }, "cell": { "symbol": "CELL", "icon": "icons/cell.svg" }, "celo": { "symbol": "CELO", "icon": "icons/celo.svg" }, "cfi": { "symbol": "CFI", "icon": "icons/cfi.svg" }, "cgg": { "symbol": "CGG", "icon": "icons/cgg.svg" }, "chsb": { "symbol": "CHSB", "icon": "icons/chsb.svg" }, "chz": { "symbol": "CHZ", "icon": "icons/chz.svg" }, "cls": { "symbol": "CLS", "icon": "icons/cls.svg" }, "cmt": { "symbol": "CMT", "icon": "icons/cmt.svg" }, "coin": { "symbol": "COIN", "icon": "icons/coin.svg" }, "comp": { "symbol": "COMP", "icon": "icons/comp.svg" }, "conv": { "symbol": "CONV", "icon": "icons/conv.svg" }, "cor": { "symbol": "COR", "icon": "icons/cor.svg" }, "crv": { "symbol": "CRV", "icon": "icons/crv.svg" }, "cti": { "symbol": "CTI", "icon": "icons/cti.svg" }, "ctsi": { "symbol": "CTSI", "icon": "icons/ctsi.svg" }, "ctxc": { "symbol": "CTXC", "icon": "icons/ctxc.svg" }, "cum": { "symbol": "CUM", "icon": "icons/cum.svg" }, "cvp1": { "symbol": "CVP-1", "icon": "icons/cvp-1.svg" }, "cvp": { "symbol": "CVP", "icon": "icons/cvp.svg" }, "dafi": { "symbol": "DAFI", "icon": "icons/dafi.svg" }, "dai": { "symbol": "DAI", "icon": "icons/dai.svg" }, "dam": { "symbol": "DAM", "icon": "icons/dam.svg" }, "dao": { "symbol": "DAO", "icon": "icons/dao.svg" }, "daofi": { "symbol": "DAOFI", "icon": "icons/daofi.svg" }, "dark": { "symbol": "DARK", "icon": "icons/dark.svg" }, "dcg": { "symbol": "DCG", "icon": "icons/dcg.svg" }, "dcn": { "symbol": "DCN", "icon": "icons/dcn.svg" }, "dec": { "symbol": "DEC", "icon": "icons/dec.svg" }, "defi": { "symbol": "DEFI", "icon": "icons/defi.svg" }, "defi5": { "symbol": "DEFI5", "icon": "icons/defi5.svg" }, "degen": { "symbol": "DEGEN", "icon": "icons/degen.svg" }, "dep": { "symbol": "DEP", "icon": "icons/dep.svg" }, "dev": { "symbol": "DEV", "icon": "icons/dev.svg" }, "dex": { "symbol": "DEX", "icon": "icons/dex.svg" }, "dfyn": { "symbol": "DFYN", "icon": "icons/dfyn.svg" }, "dg": { "symbol": "DG", "icon": "icons/dg.svg" }, "dht": { "symbol": "DHT", "icon": "icons/dht.svg" }, "digg": { "symbol": "DIGG", "icon": "icons/digg.svg" }, "dmt": { "symbol": "DMT", "icon": "icons/dmt.svg" }, "doki": { "symbol": "DOKI", "icon": "icons/doki.svg" }, "don": { "symbol": "DON", "icon": "icons/don.svg" }, "dov": { "symbol": "DOV", "icon": "icons/dov.svg" }, "dpi": { "symbol": "DPI", "icon": "icons/dpi.svg" }, "dpr": { "symbol": "DPR", "icon": "icons/dpr.svg" }, "drc": { "symbol": "DRC", "icon": "icons/drc.svg" }, "drk": { "symbol": "DRK", "icon": "icons/drk.svg" }, "dsla": { "symbol": "DSLA", "icon": "icons/dsla.svg" }, "dust": { "symbol": "DUST", "icon": "icons/dust.svg" }, "easy2": { "symbol": "EASY2", "icon": "icons/easy2.svg" }, "eld": { "symbol": "ELD", "icon": "icons/eld.svg" }, "elf": { "symbol": "ELF", "icon": "icons/elf.svg" }, "eng": { "symbol": "ENG", "icon": "icons/eng.svg" }, "enj": { "symbol": "ENJ", "icon": "icons/enj.svg" }, "epan": { "symbol": "EPAN", "icon": "icons/epan.svg" }, "equad": { "symbol": "EQUAD", "icon": "icons/equad.svg" }, "ern": { "symbol": "ERN", "icon": "icons/ern.svg" }, "ersdl": { "symbol": "ERSDL", "icon": "icons/ersdl.svg" }, "eth": { "symbol": "ETH", "icon": "icons/eth.svg" }, "etha": { "symbol": "ETHA", "icon": "icons/etha.svg" }, "ethix": { "symbol": "ETHIX", "icon": "icons/ethix.svg" }, "ethos": { "symbol": "ETHOS", "icon": "icons/ethos.svg" }, "eurs": { "symbol": "EURS", "icon": "icons/eurs.svg" }, "ewtb": { "symbol": "EWTB", "icon": "icons/ewtb.svg" }, "exrd": { "symbol": "EXRD", "icon": "icons/exrd.svg" }, "ez": { "symbol": "EZ", "icon": "icons/ez.svg" }, "fcl": { "symbol": "FCL", "icon": "icons/fcl.svg" }, "fgh": { "symbol": "FGH", "icon": "icons/fgh.svg" }, "flux": { "symbol": "FLUX", "icon": "icons/flux.svg" }, "force": { "symbol": "FORCE", "icon": "icons/force.svg" }, "forth": { "symbol": "FORTH", "icon": "icons/forth.svg" }, "fox": { "symbol": "FOX", "icon": "icons/fox.svg" }, "frax": { "symbol": "FRAX", "icon": "icons/frax.svg" }, "froge": { "symbol": "FROGE", "icon": "icons/froge.svg" }, "front": { "symbol": "FRONT", "icon": "icons/front.svg" }, "ftm": { "symbol": "FTM", "icon": "icons/ftm.svg" }, "ftt": { "symbol": "FTT", "icon": "icons/ftt.svg" }, "fuck": { "symbol": "FUCK", "icon": "icons/fuck.svg" }, "fun": { "symbol": "FUN", "icon": "icons/fun.svg" }, "fxs": { "symbol": "FXS", "icon": "icons/fxs.svg" }, "gard": { "symbol": "GARD", "icon": "icons/gard.svg" }, "gcr": { "symbol": "GCR", "icon": "icons/gcr.svg" }, "gdao": { "symbol": "GDAO", "icon": "icons/gdao.svg" }, "geo": { "symbol": "GEO", "icon": "icons/geo.svg" }, "get": { "symbol": "GET", "icon": "icons/get.svg" }, "glch": { "symbol": "GLCH", "icon": "icons/glch.svg" }, "glq": { "symbol": "GLQ", "icon": "icons/glq.svg" }, "gmee": { "symbol": "GMEE", "icon": "icons/gmee.svg" }, "gnbu": { "symbol": "GNBU", "icon": "icons/gnbu.svg" }, "gno": { "symbol": "GNO", "icon": "icons/gno.svg" }, "gnt": { "symbol": "GNT", "icon": "icons/gnt.svg" }, "govi": { "symbol": "GOVI", "icon": "icons/govi.svg" }, "grt": { "symbol": "GRT", "icon": "icons/grt.svg" }, "gto": { "symbol": "GTO", "icon": "icons/gto.svg" }, "gusd": { "symbol": "GUSD", "icon": "icons/gusd.svg" }, "hakka": { "symbol": "HAKKA", "icon": "icons/hakka.svg" }, "hex": { "symbol": "HEX", "icon": "icons/hex.svg" }, "hny": { "symbol": "HNY", "icon": "icons/hny.svg" }, "hoge": { "symbol": "HOGE", "icon": "icons/hoge.svg" }, "hopr": { "symbol": "HOPR", "icon": "icons/hopr.svg" }, "hot": { "symbol": "HOT", "icon": "icons/hot.svg" }, "ht": { "symbol": "HT", "icon": "icons/ht.svg" }, "hxn": { "symbol": "HXN", "icon": "icons/hxn.svg" }, "hydro": { "symbol": "HYDRO", "icon": "icons/hydro.svg" }, "ibbtc": { "symbol": "IBBTC", "icon": "icons/ibbtc.svg" }, "ice": { "symbol": "ICE", "icon": "icons/ice.svg" }, "icx": { "symbol": "ICX", "icon": "icons/icx.svg" }, "idle": { "symbol": "IDLE", "icon": "icons/idle.svg" }, "ifarm": { "symbol": "IFARM", "icon": "icons/ifarm.svg" }, "ifund": { "symbol": "IFUND", "icon": "icons/ifund.svg" }, "igg": { "symbol": "IGG", "icon": "icons/igg.svg" }, "inj": { "symbol": "INJ", "icon": "icons/inj.svg" }, "inv": { "symbol": "INV", "icon": "icons/inv.svg" }, "inxt": { "symbol": "INXT", "icon": "icons/inxt.svg" }, "iost": { "symbol": "IOST", "icon": "icons/iost.svg" }, "iotx": { "symbol": "IOTX", "icon": "icons/iotx.svg" }, "iq": { "symbol": "IQ", "icon": "icons/iq.svg" }, "isla": { "symbol": "ISLA", "icon": "icons/isla.svg" }, "isp": { "symbol": "ISP", "icon": "icons/isp.svg" }, "jpyc": { "symbol": "JPYC", "icon": "icons/jpyc.svg" }, "jrt": { "symbol": "JRT", "icon": "icons/jrt.svg" }, "kai": { "symbol": "KAI", "icon": "icons/kai.svg" }, "karma": { "symbol": "KARMA", "icon": "icons/karma.svg" }, "keep": { "symbol": "KEEP", "icon": "icons/keep.svg" }, "kin": { "symbol": "KIN", "icon": "icons/kin.svg" }, "kit": { "symbol": "KIT", "icon": "icons/kit.svg" }, "kiwi": { "symbol": "KIWI", "icon": "icons/kiwi.svg" }, "knc": { "symbol": "KNC", "icon": "icons/knc.svg" }, "koin1": { "symbol": "KOIN-1", "icon": "icons/koin-1.svg" }, "koin": { "symbol": "KOIN", "icon": "icons/koin.svg" }, "kp3r": { "symbol": "KP3R", "icon": "icons/kp3r.svg" }, "ktn": { "symbol": "KTN", "icon": "icons/ktn.svg" }, "kyl": { "symbol": "KYL", "icon": "icons/kyl.svg" }, "ladz": { "symbol": "LADZ", "icon": "icons/ladz.svg" }, "layer": { "symbol": "LAYER", "icon": "icons/layer.svg" }, "lcx": { "symbol": "LCX", "icon": "icons/lcx.svg" }, "lend": { "symbol": "LEND", "icon": "icons/lend.svg" }, "leo": { "symbol": "LEO", "icon": "icons/leo.svg" }, "link": { "symbol": "LINK", "icon": "icons/link.svg" }, "lit": { "symbol": "LIT", "icon": "icons/lit.svg" }, "lkr": { "symbol": "LKR", "icon": "icons/lkr.svg" }, "loom": { "symbol": "LOOM", "icon": "icons/loom.svg" }, "lpl": { "symbol": "LPL", "icon": "icons/lpl.svg" }, "lpool": { "symbol": "LPOOL", "icon": "icons/lpool.svg" }, "lpt": { "symbol": "LPT", "icon": "icons/lpt.svg" }, "lrc": { "symbol": "LRC", "icon": "icons/lrc.svg" }, "lsv": { "symbol": "LSV", "icon": "icons/lsv.svg" }, "lto": { "symbol": "LTO", "icon": "icons/lto.svg" }, "luna": { "symbol": "LUNA", "icon": "icons/luna.svg" }, "maker": { "symbol": "MAKER", "icon": "icons/maker.svg" }, "mana": { "symbol": "MANA", "icon": "icons/mana.svg" }, "maps": { "symbol": "MAPS", "icon": "icons/maps.svg" }, "matic": { "symbol": "MATIC", "icon": "icons/matic.svg" }, "mbc": { "symbol": "MBC", "icon": "icons/mbc.svg" }, "mbonk": { "symbol": "MBONK", "icon": "icons/mbonk.svg" }, "mcb": { "symbol": "MCB", "icon": "icons/mcb.svg" }, "mco": { "symbol": "MCO", "icon": "icons/mco.svg" }, "mee": { "symbol": "MEE", "icon": "icons/mee.svg" }, "mega": { "symbol": "MEGA", "icon": "icons/mega.svg" }, "meme": { "symbol": "MEME", "icon": "icons/meme.svg" }, "mlink": { "symbol": "MLINK", "icon": "icons/mlink.svg" }, "mne": { "symbol": "MNE", "icon": "icons/mne.svg" }, "moar": { "symbol": "MOAR", "icon": "icons/moar.svg" }, "mocean": { "symbol": "MOCEAN", "icon": "icons/mocean.svg" }, "mod": { "symbol": "MOD", "icon": "icons/mod.svg" }, "mofi": { "symbol": "MOFI", "icon": "icons/mofi.svg" }, "mona": { "symbol": "MONA", "icon": "icons/mona.svg" }, "mph": { "symbol": "MPH", "icon": "icons/mph.svg" }, "mpond": { "symbol": "MPOND", "icon": "icons/mpond.svg" }, "mrph": { "symbol": "MRPH", "icon": "icons/mrph.svg" }, "mtsla": { "symbol": "MTSLA", "icon": "icons/mtsla.svg" }, "mtv": { "symbol": "MTV", "icon": "icons/mtv.svg" }, "muni": { "symbol": "MUNI", "icon": "icons/muni.svg" }, "musdc": { "symbol": "MUSDC", "icon": "icons/musdc.svg" }, "mvi": { "symbol": "MVI", "icon": "icons/mvi.svg" }, "myfi": { "symbol": "MYFI", "icon": "icons/myfi.svg" }, "myst": { "symbol": "MYST", "icon": "icons/myst.svg" }, "nanj": { "symbol": "NANJ", "icon": "icons/nanj.svg" }, "nas": { "symbol": "NAS", "icon": "icons/nas.svg" }, "nbu": { "symbol": "NBU", "icon": "icons/nbu.svg" }, "ncr": { "symbol": "NCR", "icon": "icons/ncr.svg" }, "ndx": { "symbol": "NDX", "icon": "icons/ndx.svg" }, "nex": { "symbol": "NEX", "icon": "icons/nex.svg" }, "nftp": { "symbol": "NFTP", "icon": "icons/nftp.svg" }, "nftx": { "symbol": "NFTX", "icon": "icons/nftx.svg" }, "niox": { "symbol": "NIOX", "icon": "icons/niox.svg" }, "noia": { "symbol": "NOIA", "icon": "icons/noia.svg" }, "nord1": { "symbol": "NORD-1", "icon": "icons/nord-1.svg" }, "nord": { "symbol": "NORD", "icon": "icons/nord.svg" }, "npx": { "symbol": "NPX", "icon": "icons/npx.svg" }, "npxs": { "symbol": "NPXS", "icon": "icons/npxs.svg" }, "nug": { "symbol": "NUG", "icon": "icons/nug.svg" }, "nuls": { "symbol": "NULS", "icon": "icons/nuls.svg" }, "oft": { "symbol": "OFT", "icon": "icons/oft.svg" }, "ogn": { "symbol": "OGN", "icon": "icons/ogn.svg" }, "oltc": { "symbol": "OLTC", "icon": "icons/oltc.svg" }, "om": { "symbol": "OM", "icon": "icons/om.svg" }, "omg": { "symbol": "OMG", "icon": "icons/omg.svg" }, "omniunit": { "symbol": "OMNIUNIT", "icon": "icons/omniunit.svg" }, "onx": { "symbol": "ONX", "icon": "icons/onx.svg" }, "opium": { "symbol": "OPIUM", "icon": "icons/opium.svg" }, "opu": { "symbol": "OPU", "icon": "icons/opu.svg" }, "orbs": { "symbol": "ORBS", "icon": "icons/orbs.svg" }, "paint": { "symbol": "PAINT", "icon": "icons/paint.svg" }, "pan": { "symbol": "PAN", "icon": "icons/pan.svg" }, "par": { "symbol": "PAR", "icon": "icons/par.svg" }, "pass": { "symbol": "PASS", "icon": "icons/pass.svg" }, "paxg": { "symbol": "PAXG", "icon": "icons/paxg.svg" }, "pay": { "symbol": "PAY", "icon": "icons/pay.svg" }, "penky": { "symbol": "PENKY", "icon": "icons/penky.svg" }, "perp": { "symbol": "PERP", "icon": "icons/perp.svg" }, "pickle": { "symbol": "PICKLE", "icon": "icons/pickle.svg" }, "pinakion": { "symbol": "PINAKION", "icon": "icons/pinakion.svg" }, "pkf": { "symbol": "PKF", "icon": "icons/pkf.svg" }, "play": { "symbol": "PLAY", "icon": "icons/play.svg" }, "plot": { "symbol": "PLOT", "icon": "icons/plot.svg" }, "plu": { "symbol": "PLU", "icon": "icons/plu.svg" }, "pmon": { "symbol": "PMON", "icon": "icons/pmon.svg" }, "pnode": { "symbol": "PNODE", "icon": "icons/pnode.svg" }, "pols": { "symbol": "POLS", "icon": "icons/pols.svg" }, "polven": { "symbol": "POLVEN", "icon": "icons/polven.svg" }, "poly": { "symbol": "POLY", "icon": "icons/poly.svg" }, "pool": { "symbol": "POOL", "icon": "icons/pool.svg" }, "pop": { "symbol": "POP", "icon": "icons/pop.svg" }, "power": { "symbol": "POWER", "icon": "icons/power.svg" }, "powr": { "symbol": "POWR", "icon": "icons/powr.svg" }, "ppblz": { "symbol": "PPBLZ", "icon": "icons/ppblz.svg" }, "ppt": { "symbol": "PPT", "icon": "icons/ppt.svg" }, "pro": { "symbol": "PRO", "icon": "icons/pro.svg" }, "prq": { "symbol": "PRQ", "icon": "icons/prq.svg" }, "pteria": { "symbol": "PTERIA", "icon": "icons/pteria.svg" }, "pyr": { "symbol": "PYR", "icon": "icons/pyr.svg" }, "qash": { "symbol": "QASH", "icon": "icons/qash.svg" }, "quick": { "symbol": "QUICK", "icon": "icons/quick.svg" }, "rage": { "symbol": "RAGE", "icon": "icons/rage.svg" }, "ramp": { "symbol": "RAMP", "icon": "icons/ramp.svg" }, "rari": { "symbol": "RARI", "icon": "icons/rari.svg" }, "razor": { "symbol": "RAZOR", "icon": "icons/razor.svg" }, "rbc": { "symbol": "RBC", "icon": "icons/rbc.svg" }, "rcc": { "symbol": "RCC", "icon": "icons/rcc.svg" }, "ren": { "symbol": "REN", "icon": "icons/ren.svg" }, "rendoge": { "symbol": "RENDOGE", "icon": "icons/rendoge.svg" }, "rep": { "symbol": "REP", "icon": "icons/rep.svg" }, "rfox": { "symbol": "RFOX", "icon": "icons/rfox.svg" }, "rfuel": { "symbol": "RFUEL", "icon": "icons/rfuel.svg" }, "rhoc": { "symbol": "RHOC", "icon": "icons/rhoc.svg" }, "rlc": { "symbol": "RLC", "icon": "icons/rlc.svg" }, "rndr": { "symbol": "RNDR", "icon": "icons/rndr.svg" }, "rocks": { "symbol": "ROCKS", "icon": "icons/rocks.svg" }, "room": { "symbol": "ROOM", "icon": "icons/room.svg" }, "route": { "symbol": "ROUTE", "icon": "icons/route.svg" }, "rpl": { "symbol": "RPL", "icon": "icons/rpl.svg" }, "rtk": { "symbol": "RTK", "icon": "icons/rtk.svg" }, "safeearth": { "symbol": "SAFEEARTH", "icon": "icons/safeearth.svg" }, "sake": { "symbol": "SAKE", "icon": "icons/sake.svg" }, "sale": { "symbol": "SALE", "icon": "icons/sale.svg" }, "sand": { "symbol": "SAND", "icon": "icons/sand.svg" }, "sanshu": { "symbol": "SANSHU", "icon": "icons/sanshu.svg" }, "santa": { "symbol": "SANTA", "icon": "icons/santa.svg" }, "sdt": { "symbol": "SDT", "icon": "icons/sdt.svg" }, "senpai": { "symbol": "SENPAI", "icon": "icons/senpai.svg" }, "sent": { "symbol": "SENT", "icon": "icons/sent.svg" }, "seth2": { "symbol": "SETH2", "icon": "icons/seth2.svg" }, "sgt": { "symbol": "SGT", "icon": "icons/sgt.svg" }, "shib": { "symbol": "SHIB", "icon": "icons/shib.svg" }, "shibco": { "symbol": "SHIBCO", "icon": "icons/shibco.svg" }, "sho": { "symbol": "SHO", "icon": "icons/sho.svg" }, "shopx": { "symbol": "SHOPX", "icon": "icons/shopx.svg" }, "snow": { "symbol": "SNOW", "icon": "icons/snow.svg" }, "snt": { "symbol": "SNT", "icon": "icons/snt.svg" }, "snx": { "symbol": "SNX", "icon": "icons/snx.svg" }, "soar": { "symbol": "SOAR", "icon": "icons/soar.svg" }, "song": { "symbol": "SONG", "icon": "icons/song.svg" }, "spi": { "symbol": "SPI", "icon": "icons/spi.svg" }, "spn": { "symbol": "SPN", "icon": "icons/spn.svg" }, "srat": { "symbol": "SRAT", "icon": "icons/srat.svg" }, "stak": { "symbol": "STAK", "icon": "icons/stak.svg" }, "stars": { "symbol": "STARS", "icon": "icons/stars.svg" }, "storm": { "symbol": "STORM", "icon": "icons/storm.svg" }, "str": { "symbol": "STR", "icon": "icons/str.svg" }, "sub": { "symbol": "SUB", "icon": "icons/sub.svg" }, "superFarm": { "symbol": "SUPER", "icon": "icons/super.svg" }, "superbid": { "symbol": "SUPERBID", "icon": "icons/superbid.svg" }, "sushi": { "symbol": "SUSHI", "icon": "icons/sushi.svg" }, "swap": { "symbol": "SWAP", "icon": "icons/swap.svg" }, "swise": { "symbol": "SWISE", "icon": "icons/swise.svg" }, "sx": { "symbol": "SX", "icon": "icons/sx.svg" }, "sxp": { "symbol": "SXP", "icon": "icons/sxp.svg" }, "sync": { "symbol": "SYNC", "icon": "icons/sync.svg" }, "tap": { "symbol": "TAP", "icon": "icons/tap.svg" }, "tbtc": { "symbol": "TBTC", "icon": "icons/tbtc.svg" }, "tcap": { "symbol": "TCAP", "icon": "icons/tcap.svg" }, "tel": { "symbol": "TEL", "icon": "icons/tel.svg" }, "thera": { "symbol": "THERA", "icon": "icons/thera.svg" }, "theta": { "symbol": "THETA", "icon": "icons/theta.svg" }, "three": { "symbol": "THREE", "icon": "icons/three.svg" }, "tidal": { "symbol": "TIDAL", "icon": "icons/tidal.svg" }, "torn": { "symbol": "TORN", "icon": "icons/torn.svg" }, "tower": { "symbol": "TOWER", "icon": "icons/tower.svg" }, "trb": { "symbol": "TRB", "icon": "icons/trb.svg" }, "trdl": { "symbol": "TRDL", "icon": "icons/trdl.svg" }, "trnd": { "symbol": "TRND", "icon": "icons/trnd.svg" }, "truebit": { "symbol": "TRUEBIT", "icon": "icons/truebit.svg" }, "trx": { "symbol": "TRX", "icon": "icons/trx.svg" }, "tusd": { "symbol": "TUSD", "icon": "icons/tusd.svg" }, "tvk": { "symbol": "TVK", "icon": "icons/tvk.svg" }, "txl": { "symbol": "TXL", "icon": "icons/txl.svg" }, "ubi": { "symbol": "UBI", "icon": "icons/ubi.svg" }, "ubt": { "symbol": "UBT", "icon": "icons/ubt.svg" }, "udoki": { "symbol": "UDOKI", "icon": "icons/udoki.svg" }, "ufr": { "symbol": "UFR", "icon": "icons/ufr.svg" }, "uft": { "symbol": "UFT", "icon": "icons/uft.svg" }, "ult": { "symbol": "ULT", "icon": "icons/ult.svg" }, "umbr": { "symbol": "UMBR", "icon": "icons/umbr.svg" }, "umx": { "symbol": "UMX", "icon": "icons/umx.svg" }, "uncx": { "symbol": "UNCX", "icon": "icons/uncx.svg" }, "uni": { "symbol": "UNI", "icon": "icons/uni.svg" }, "unl": { "symbol": "UNL", "icon": "icons/unl.svg" }, "unn": { "symbol": "UNN", "icon": "icons/unn.svg" }, "usdc": { "symbol": "USDC", "icon": "icons/usdc.svg" }, "usdk": { "symbol": "USDK", "icon": "icons/usdk.svg" }, "usdn": { "symbol": "USDN", "icon": "icons/usdn.svg" }, "usdt": { "symbol": "USDT", "icon": "icons/usdt.svg" }, "vee": { "symbol": "VEE", "icon": "icons/vee.svg" }, "ven": { "symbol": "VEN", "icon": "icons/ven.svg" }, "veri": { "symbol": "VERI", "icon": "icons/veri.svg" }, "vidya": { "symbol": "VIDYA", "icon": "icons/vidya.svg" }, "vifi": { "symbol": "VIFI", "icon": "icons/vifi.svg" }, "vision": { "symbol": "VISION", "icon": "icons/vision.svg" }, "visr": { "symbol": "VISR", "icon": "icons/visr.svg" }, "vox": { "symbol": "VOX", "icon": "icons/vox.svg" }, "waif": { "symbol": "WAIF", "icon": "icons/waif.svg" }, "wax": { "symbol": "WAX", "icon": "icons/wax.svg" }, "wbtc1": { "symbol": "WBTC-1", "icon": "icons/wbtc-1.svg" }, "wbtc": { "symbol": "WBTC", "icon": "icons/wbtc.svg" }, "wcelo": { "symbol": "WCELO", "icon": "icons/wcelo.svg" }, "weth": { "symbol": "WETH", "icon": "icons/weth.svg" }, "wg0": { "symbol": "WG0", "icon": "icons/wg0.svg" }, "whale": { "symbol": "WHALE", "icon": "icons/whale.svg" }, "wise": { "symbol": "WISE", "icon": "icons/wise.svg" }, "wnxm": { "symbol": "WNXM", "icon": "icons/wnxm.svg" }, "woo": { "symbol": "WOO", "icon": "icons/woo.svg" }, "woofy": { "symbol": "WOOFY", "icon": "icons/woofy.svg" }, "wpr": { "symbol": "WPR", "icon": "icons/wpr.svg" }, "wrx": { "symbol": "WRX", "icon": "icons/wrx.svg" }, "wsta": { "symbol": "WSTA", "icon": "icons/wsta.svg" }, "wtc": { "symbol": "WTC", "icon": "icons/wtc.svg" }, "wwgr": { "symbol": "WWGR", "icon": "icons/wwgr.svg" }, "xed": { "symbol": "XED", "icon": "icons/xed.svg" }, "xhdx": { "symbol": "XHDX", "icon": "icons/xhdx.svg" }, "xor": { "symbol": "XOR", "icon": "icons/xor.svg" }, "xrge": { "symbol": "XRGE", "icon": "icons/xrge.svg" }, "xtk": { "symbol": "XTK", "icon": "icons/xtk.svg" }, "yeld": { "symbol": "YELD", "icon": "icons/yeld.svg" }, "yfDai": { "symbol": "YF-DAI", "icon": "icons/yf-dai.svg" }, "yfi": { "symbol": "YFI", "icon": "icons/yfi.svg" }, "yfii": { "symbol": "YFII", "icon": "icons/yfii.svg" }, "ygy": { "symbol": "YGY", "icon": "icons/ygy.svg" }, "yld": { "symbol": "YLD", "icon": "icons/yld.svg" }, "yop": { "symbol": "YOP", "icon": "icons/yop.svg" }, "zefu": { "symbol": "ZEFU", "icon": "icons/zefu.svg" }, "zil": { "symbol": "ZIL", "icon": "icons/zil.svg" }, "zpr": { "symbol": "ZPR", "icon": "icons/zpr.svg" }, "zrx": { "symbol": "ZRX", "icon": "icons/zrx.svg" }, "zut": { "symbol": "ZUT", "icon": "icons/zut.svg" }, "dentaCoin": { "symbol": "٨", "icon": "icons/٨.svg" }, "inst": { "symbol": "INST", "icon": "icons/inst.svg" }, "kncl": { "symbol": "KNCL", "icon": "icons/kncl.svg" }, "peri": { "symbol": "PERI", "icon": "icons/peri.svg" } };
+const list = { "$anrx": { "symbol": "$ANRX", "icon": "$anrx.svg" }, "zeroxbtc": { "symbol": "0XBTC", "icon": "0xbtc.svg" }, "zeroxmr": { "symbol": "0XMR", "icon": "0xmr.svg" }, "one337": { "symbol": "1337", "icon": "1337.svg" }, "three00": { "symbol": "300", "icon": "300.svg" }, "aave": { "symbol": "AAVE", "icon": "aave.svg" }, "ac": { "symbol": "AC", "icon": "ac.svg" }, "acbtc": { "symbol": "ACBTC", "icon": "acbtc.svg" }, "add": { "symbol": "ADD", "icon": "add.svg" }, "adx": { "symbol": "ADX", "icon": "adx.svg" }, "ae": { "symbol": "AE", "icon": "ae.svg" }, "aeth": { "symbol": "AETH", "icon": "aeth.svg" }, "aga": { "symbol": "AGA", "icon": "aga.svg" }, "aion": { "symbol": "AION", "icon": "aion.svg" }, "aioz": { "symbol": "AIOZ", "icon": "aioz.svg" }, "akro": { "symbol": "AKRO", "icon": "akro.svg" }, "akt": { "symbol": "AKT", "icon": "akt.svg" }, "alcx": { "symbol": "ALCX", "icon": "alcx.svg" }, "aleph": { "symbol": "ALEPH", "icon": "aleph.svg" }, "aloha": { "symbol": "ALOHA", "icon": "aloha.svg" }, "amp": { "symbol": "AMP", "icon": "amp.svg" }, "ankr": { "symbol": "ANKR", "icon": "ankr.svg" }, "ardu": { "symbol": "ARDU", "icon": "ardu.svg" }, "armor": { "symbol": "ARMOR", "icon": "armor.svg" }, "atri": { "symbol": "ATRI", "icon": "atri.svg" }, "audio": { "symbol": "AUDIO", "icon": "audio.svg" }, "aws": { "symbol": "AWS", "icon": "aws.svg" }, "axi": { "symbol": "AXI", "icon": "axi.svg" }, "axs": { "symbol": "AXS", "icon": "axs.svg" }, "bab": { "symbol": "BAB", "icon": "bab.svg" }, "badger": { "symbol": "BADGER", "icon": "badger.svg" }, "bal": { "symbol": "BAL", "icon": "bal.svg" }, "band": { "symbol": "BAND", "icon": "band.svg" }, "bao": { "symbol": "BAO", "icon": "bao.svg" }, "basv2": { "symbol": "BASV2", "icon": "basv2.svg" }, "bat": { "symbol": "BAT", "icon": "bat.svg" }, "bcm": { "symbol": "BCM", "icon": "bcm.svg" }, "bepro": { "symbol": "BEPRO", "icon": "bepro.svg" }, "bfly": { "symbol": "BFLY", "icon": "bfly.svg" }, "bid": { "symbol": "BID", "icon": "bid.svg" }, "bix": { "symbol": "BIX", "icon": "bix.svg" }, "bles": { "symbol": "BLES", "icon": "bles.svg" }, "blue": { "symbol": "BLUE", "icon": "blue.svg" }, "bmi": { "symbol": "BMI", "icon": "bmi.svg" }, "bnb": { "symbol": "BNB", "icon": "bnb.svg" }, "bnt": { "symbol": "BNT", "icon": "bnt.svg" }, "bnty": { "symbol": "BNTY", "icon": "bnty.svg" }, "bond1": { "symbol": "BOND-1", "icon": "bond-1.svg" }, "bond": { "symbol": "BOND", "icon": "bond.svg" }, "bondly": { "symbol": "BONDLY", "icon": "bondly.svg" }, "bribe": { "symbol": "BRIBE", "icon": "bribe.svg" }, "bs1": { "symbol": "BS1", "icon": "bs1.svg" }, "btc2xFli": { "symbol": "BTC2X-FLI", "icon": "btc2x-fli.svg" }, "btm": { "symbol": "BTM", "icon": "btm.svg" }, "btse": { "symbol": "BTSE", "icon": "btse.svg" }, "btu": { "symbol": "BTU", "icon": "btu.svg" }, "btzc": { "symbol": "BTZC", "icon": "btzc.svg" }, "buidl": { "symbol": "BUIDL", "icon": "buidl.svg" }, "busd": { "symbol": "BUSD", "icon": "busd.svg" }, "byn": { "symbol": "BYN", "icon": "byn.svg" }, "bzn": { "symbol": "BZN", "icon": "bzn.svg" }, "card": { "symbol": "CARD", "icon": "card.svg" }, "cards": { "symbol": "CARDS", "icon": "cards.svg" }, "cc10": { "symbol": "CC10", "icon": "cc10.svg" }, "ccio": { "symbol": "CCIO", "icon": "ccio.svg" }, "cel": { "symbol": "CEL", "icon": "cel.svg" }, "cell": { "symbol": "CELL", "icon": "cell.svg" }, "celo": { "symbol": "CELO", "icon": "celo.svg" }, "cfi": { "symbol": "CFI", "icon": "cfi.svg" }, "cgg": { "symbol": "CGG", "icon": "cgg.svg" }, "chsb": { "symbol": "CHSB", "icon": "chsb.svg" }, "chz": { "symbol": "CHZ", "icon": "chz.svg" }, "cls": { "symbol": "CLS", "icon": "cls.svg" }, "cmt": { "symbol": "CMT", "icon": "cmt.svg" }, "coin": { "symbol": "COIN", "icon": "coin.svg" }, "comp": { "symbol": "COMP", "icon": "comp.svg" }, "conv": { "symbol": "CONV", "icon": "conv.svg" }, "cor": { "symbol": "COR", "icon": "cor.svg" }, "crv": { "symbol": "CRV", "icon": "crv.svg" }, "cti": { "symbol": "CTI", "icon": "cti.svg" }, "ctsi": { "symbol": "CTSI", "icon": "ctsi.svg" }, "ctxc": { "symbol": "CTXC", "icon": "ctxc.svg" }, "cum": { "symbol": "CUM", "icon": "cum.svg" }, "cvp1": { "symbol": "CVP-1", "icon": "cvp-1.svg" }, "cvp": { "symbol": "CVP", "icon": "cvp.svg" }, "dafi": { "symbol": "DAFI", "icon": "dafi.svg" }, "dai": { "symbol": "DAI", "icon": "dai.svg" }, "dam": { "symbol": "DAM", "icon": "dam.svg" }, "dao": { "symbol": "DAO", "icon": "dao.svg" }, "daofi": { "symbol": "DAOFI", "icon": "daofi.svg" }, "dark": { "symbol": "DARK", "icon": "dark.svg" }, "dcg": { "symbol": "DCG", "icon": "dcg.svg" }, "dcn": { "symbol": "DCN", "icon": "dcn.svg" }, "dec": { "symbol": "DEC", "icon": "dec.svg" }, "defi": { "symbol": "DEFI", "icon": "defi.svg" }, "defi5": { "symbol": "DEFI5", "icon": "defi5.svg" }, "degen": { "symbol": "DEGEN", "icon": "degen.svg" }, "dep": { "symbol": "DEP", "icon": "dep.svg" }, "dev": { "symbol": "DEV", "icon": "dev.svg" }, "dex": { "symbol": "DEX", "icon": "dex.svg" }, "dfyn": { "symbol": "DFYN", "icon": "dfyn.svg" }, "dg": { "symbol": "DG", "icon": "dg.svg" }, "dht": { "symbol": "DHT", "icon": "dht.svg" }, "digg": { "symbol": "DIGG", "icon": "digg.svg" }, "dmt": { "symbol": "DMT", "icon": "dmt.svg" }, "doki": { "symbol": "DOKI", "icon": "doki.svg" }, "don": { "symbol": "DON", "icon": "don.svg" }, "dov": { "symbol": "DOV", "icon": "dov.svg" }, "dpi": { "symbol": "DPI", "icon": "dpi.svg" }, "dpr": { "symbol": "DPR", "icon": "dpr.svg" }, "drc": { "symbol": "DRC", "icon": "drc.svg" }, "drk": { "symbol": "DRK", "icon": "drk.svg" }, "dsla": { "symbol": "DSLA", "icon": "dsla.svg" }, "dust": { "symbol": "DUST", "icon": "dust.svg" }, "easy2": { "symbol": "EASY2", "icon": "easy2.svg" }, "eld": { "symbol": "ELD", "icon": "eld.svg" }, "elf": { "symbol": "ELF", "icon": "elf.svg" }, "eng": { "symbol": "ENG", "icon": "eng.svg" }, "enj": { "symbol": "ENJ", "icon": "enj.svg" }, "epan": { "symbol": "EPAN", "icon": "epan.svg" }, "equad": { "symbol": "EQUAD", "icon": "equad.svg" }, "ern": { "symbol": "ERN", "icon": "ern.svg" }, "ersdl": { "symbol": "ERSDL", "icon": "ersdl.svg" }, "eth": { "symbol": "ETH", "icon": "eth.svg" }, "etha": { "symbol": "ETHA", "icon": "etha.svg" }, "ethix": { "symbol": "ETHIX", "icon": "ethix.svg" }, "ethos": { "symbol": "ETHOS", "icon": "ethos.svg" }, "eurs": { "symbol": "EURS", "icon": "eurs.svg" }, "ewtb": { "symbol": "EWTB", "icon": "ewtb.svg" }, "exrd": { "symbol": "EXRD", "icon": "exrd.svg" }, "ez": { "symbol": "EZ", "icon": "ez.svg" }, "fcl": { "symbol": "FCL", "icon": "fcl.svg" }, "fgh": { "symbol": "FGH", "icon": "fgh.svg" }, "flux": { "symbol": "FLUX", "icon": "flux.svg" }, "force": { "symbol": "FORCE", "icon": "force.svg" }, "forth": { "symbol": "FORTH", "icon": "forth.svg" }, "fox": { "symbol": "FOX", "icon": "fox.svg" }, "frax": { "symbol": "FRAX", "icon": "frax.svg" }, "froge": { "symbol": "FROGE", "icon": "froge.svg" }, "front": { "symbol": "FRONT", "icon": "front.svg" }, "ftm": { "symbol": "FTM", "icon": "ftm.svg" }, "ftt": { "symbol": "FTT", "icon": "ftt.svg" }, "fuck": { "symbol": "FUCK", "icon": "fuck.svg" }, "fun": { "symbol": "FUN", "icon": "fun.svg" }, "fxs": { "symbol": "FXS", "icon": "fxs.svg" }, "gard": { "symbol": "GARD", "icon": "gard.svg" }, "gcr": { "symbol": "GCR", "icon": "gcr.svg" }, "gdao": { "symbol": "GDAO", "icon": "gdao.svg" }, "geo": { "symbol": "GEO", "icon": "geo.svg" }, "get": { "symbol": "GET", "icon": "get.svg" }, "glch": { "symbol": "GLCH", "icon": "glch.svg" }, "glq": { "symbol": "GLQ", "icon": "glq.svg" }, "gmee": { "symbol": "GMEE", "icon": "gmee.svg" }, "gnbu": { "symbol": "GNBU", "icon": "gnbu.svg" }, "gno": { "symbol": "GNO", "icon": "gno.svg" }, "gnt": { "symbol": "GNT", "icon": "gnt.svg" }, "govi": { "symbol": "GOVI", "icon": "govi.svg" }, "grt": { "symbol": "GRT", "icon": "grt.svg" }, "gto": { "symbol": "GTO", "icon": "gto.svg" }, "gusd": { "symbol": "GUSD", "icon": "gusd.svg" }, "hakka": { "symbol": "HAKKA", "icon": "hakka.svg" }, "hex": { "symbol": "HEX", "icon": "hex.svg" }, "hny": { "symbol": "HNY", "icon": "hny.svg" }, "hoge": { "symbol": "HOGE", "icon": "hoge.svg" }, "hopr": { "symbol": "HOPR", "icon": "hopr.svg" }, "hot": { "symbol": "HOT", "icon": "hot.svg" }, "ht": { "symbol": "HT", "icon": "ht.svg" }, "hxn": { "symbol": "HXN", "icon": "hxn.svg" }, "hydro": { "symbol": "HYDRO", "icon": "hydro.svg" }, "ibbtc": { "symbol": "IBBTC", "icon": "ibbtc.svg" }, "ice": { "symbol": "ICE", "icon": "ice.svg" }, "icx": { "symbol": "ICX", "icon": "icx.svg" }, "idle": { "symbol": "IDLE", "icon": "idle.svg" }, "ifarm": { "symbol": "IFARM", "icon": "ifarm.svg" }, "ifund": { "symbol": "IFUND", "icon": "ifund.svg" }, "igg": { "symbol": "IGG", "icon": "igg.svg" }, "inj": { "symbol": "INJ", "icon": "inj.svg" }, "inv": { "symbol": "INV", "icon": "inv.svg" }, "inxt": { "symbol": "INXT", "icon": "inxt.svg" }, "iost": { "symbol": "IOST", "icon": "iost.svg" }, "iotx": { "symbol": "IOTX", "icon": "iotx.svg" }, "iq": { "symbol": "IQ", "icon": "iq.svg" }, "isla": { "symbol": "ISLA", "icon": "isla.svg" }, "isp": { "symbol": "ISP", "icon": "isp.svg" }, "jpyc": { "symbol": "JPYC", "icon": "jpyc.svg" }, "jrt": { "symbol": "JRT", "icon": "jrt.svg" }, "kai": { "symbol": "KAI", "icon": "kai.svg" }, "karma": { "symbol": "KARMA", "icon": "karma.svg" }, "keep": { "symbol": "KEEP", "icon": "keep.svg" }, "kin": { "symbol": "KIN", "icon": "kin.svg" }, "kit": { "symbol": "KIT", "icon": "kit.svg" }, "kiwi": { "symbol": "KIWI", "icon": "kiwi.svg" }, "knc": { "symbol": "KNC", "icon": "knc.svg" }, "koin1": { "symbol": "KOIN-1", "icon": "koin-1.svg" }, "koin": { "symbol": "KOIN", "icon": "koin.svg" }, "kp3r": { "symbol": "KP3R", "icon": "kp3r.svg" }, "ktn": { "symbol": "KTN", "icon": "ktn.svg" }, "kyl": { "symbol": "KYL", "icon": "kyl.svg" }, "ladz": { "symbol": "LADZ", "icon": "ladz.svg" }, "layer": { "symbol": "LAYER", "icon": "layer.svg" }, "lcx": { "symbol": "LCX", "icon": "lcx.svg" }, "lend": { "symbol": "LEND", "icon": "lend.svg" }, "leo": { "symbol": "LEO", "icon": "leo.svg" }, "link": { "symbol": "LINK", "icon": "link.svg" }, "lit": { "symbol": "LIT", "icon": "lit.svg" }, "lkr": { "symbol": "LKR", "icon": "lkr.svg" }, "loom": { "symbol": "LOOM", "icon": "loom.svg" }, "lpl": { "symbol": "LPL", "icon": "lpl.svg" }, "lpool": { "symbol": "LPOOL", "icon": "lpool.svg" }, "lpt": { "symbol": "LPT", "icon": "lpt.svg" }, "lrc": { "symbol": "LRC", "icon": "lrc.svg" }, "lsv": { "symbol": "LSV", "icon": "lsv.svg" }, "lto": { "symbol": "LTO", "icon": "lto.svg" }, "luna": { "symbol": "LUNA", "icon": "luna.svg" }, "maker": { "symbol": "MAKER", "icon": "maker.svg" }, "mana": { "symbol": "MANA", "icon": "mana.svg" }, "maps": { "symbol": "MAPS", "icon": "maps.svg" }, "matic": { "symbol": "MATIC", "icon": "matic.svg" }, "mbc": { "symbol": "MBC", "icon": "mbc.svg" }, "mbonk": { "symbol": "MBONK", "icon": "mbonk.svg" }, "mcb": { "symbol": "MCB", "icon": "mcb.svg" }, "mco": { "symbol": "MCO", "icon": "mco.svg" }, "mee": { "symbol": "MEE", "icon": "mee.svg" }, "mega": { "symbol": "MEGA", "icon": "mega.svg" }, "meme": { "symbol": "MEME", "icon": "meme.svg" }, "mlink": { "symbol": "MLINK", "icon": "mlink.svg" }, "mne": { "symbol": "MNE", "icon": "mne.svg" }, "moar": { "symbol": "MOAR", "icon": "moar.svg" }, "mocean": { "symbol": "MOCEAN", "icon": "mocean.svg" }, "mod": { "symbol": "MOD", "icon": "mod.svg" }, "mofi": { "symbol": "MOFI", "icon": "mofi.svg" }, "mona": { "symbol": "MONA", "icon": "mona.svg" }, "mph": { "symbol": "MPH", "icon": "mph.svg" }, "mpond": { "symbol": "MPOND", "icon": "mpond.svg" }, "mrph": { "symbol": "MRPH", "icon": "mrph.svg" }, "mtsla": { "symbol": "MTSLA", "icon": "mtsla.svg" }, "mtv": { "symbol": "MTV", "icon": "mtv.svg" }, "muni": { "symbol": "MUNI", "icon": "muni.svg" }, "musdc": { "symbol": "MUSDC", "icon": "musdc.svg" }, "mvi": { "symbol": "MVI", "icon": "mvi.svg" }, "myfi": { "symbol": "MYFI", "icon": "myfi.svg" }, "myst": { "symbol": "MYST", "icon": "myst.svg" }, "nanj": { "symbol": "NANJ", "icon": "nanj.svg" }, "nas": { "symbol": "NAS", "icon": "nas.svg" }, "nbu": { "symbol": "NBU", "icon": "nbu.svg" }, "ncr": { "symbol": "NCR", "icon": "ncr.svg" }, "ndx": { "symbol": "NDX", "icon": "ndx.svg" }, "nex": { "symbol": "NEX", "icon": "nex.svg" }, "nftp": { "symbol": "NFTP", "icon": "nftp.svg" }, "nftx": { "symbol": "NFTX", "icon": "nftx.svg" }, "niox": { "symbol": "NIOX", "icon": "niox.svg" }, "noia": { "symbol": "NOIA", "icon": "noia.svg" }, "nord1": { "symbol": "NORD-1", "icon": "nord-1.svg" }, "nord": { "symbol": "NORD", "icon": "nord.svg" }, "npx": { "symbol": "NPX", "icon": "npx.svg" }, "npxs": { "symbol": "NPXS", "icon": "npxs.svg" }, "nug": { "symbol": "NUG", "icon": "nug.svg" }, "nuls": { "symbol": "NULS", "icon": "nuls.svg" }, "oft": { "symbol": "OFT", "icon": "oft.svg" }, "ogn": { "symbol": "OGN", "icon": "ogn.svg" }, "oltc": { "symbol": "OLTC", "icon": "oltc.svg" }, "om": { "symbol": "OM", "icon": "om.svg" }, "omg": { "symbol": "OMG", "icon": "omg.svg" }, "omniunit": { "symbol": "OMNIUNIT", "icon": "omniunit.svg" }, "onx": { "symbol": "ONX", "icon": "onx.svg" }, "opium": { "symbol": "OPIUM", "icon": "opium.svg" }, "opu": { "symbol": "OPU", "icon": "opu.svg" }, "orbs": { "symbol": "ORBS", "icon": "orbs.svg" }, "paint": { "symbol": "PAINT", "icon": "paint.svg" }, "pan": { "symbol": "PAN", "icon": "pan.svg" }, "par": { "symbol": "PAR", "icon": "par.svg" }, "pass": { "symbol": "PASS", "icon": "pass.svg" }, "paxg": { "symbol": "PAXG", "icon": "paxg.svg" }, "pay": { "symbol": "PAY", "icon": "pay.svg" }, "penky": { "symbol": "PENKY", "icon": "penky.svg" }, "perp": { "symbol": "PERP", "icon": "perp.svg" }, "pickle": { "symbol": "PICKLE", "icon": "pickle.svg" }, "pinakion": { "symbol": "PINAKION", "icon": "pinakion.svg" }, "pkf": { "symbol": "PKF", "icon": "pkf.svg" }, "play": { "symbol": "PLAY", "icon": "play.svg" }, "plot": { "symbol": "PLOT", "icon": "plot.svg" }, "plu": { "symbol": "PLU", "icon": "plu.svg" }, "pmon": { "symbol": "PMON", "icon": "pmon.svg" }, "pnode": { "symbol": "PNODE", "icon": "pnode.svg" }, "pols": { "symbol": "POLS", "icon": "pols.svg" }, "polven": { "symbol": "POLVEN", "icon": "polven.svg" }, "poly": { "symbol": "POLY", "icon": "poly.svg" }, "pool": { "symbol": "POOL", "icon": "pool.svg" }, "pop": { "symbol": "POP", "icon": "pop.svg" }, "power": { "symbol": "POWER", "icon": "power.svg" }, "powr": { "symbol": "POWR", "icon": "powr.svg" }, "ppblz": { "symbol": "PPBLZ", "icon": "ppblz.svg" }, "ppt": { "symbol": "PPT", "icon": "ppt.svg" }, "pro": { "symbol": "PRO", "icon": "pro.svg" }, "prq": { "symbol": "PRQ", "icon": "prq.svg" }, "pteria": { "symbol": "PTERIA", "icon": "pteria.svg" }, "pyr": { "symbol": "PYR", "icon": "pyr.svg" }, "qash": { "symbol": "QASH", "icon": "qash.svg" }, "quick": { "symbol": "QUICK", "icon": "quick.svg" }, "rage": { "symbol": "RAGE", "icon": "rage.svg" }, "ramp": { "symbol": "RAMP", "icon": "ramp.svg" }, "rari": { "symbol": "RARI", "icon": "rari.svg" }, "razor": { "symbol": "RAZOR", "icon": "razor.svg" }, "rbc": { "symbol": "RBC", "icon": "rbc.svg" }, "rcc": { "symbol": "RCC", "icon": "rcc.svg" }, "ren": { "symbol": "REN", "icon": "ren.svg" }, "rendoge": { "symbol": "RENDOGE", "icon": "rendoge.svg" }, "rep": { "symbol": "REP", "icon": "rep.svg" }, "rfox": { "symbol": "RFOX", "icon": "rfox.svg" }, "rfuel": { "symbol": "RFUEL", "icon": "rfuel.svg" }, "rhoc": { "symbol": "RHOC", "icon": "rhoc.svg" }, "rlc": { "symbol": "RLC", "icon": "rlc.svg" }, "rndr": { "symbol": "RNDR", "icon": "rndr.svg" }, "rocks": { "symbol": "ROCKS", "icon": "rocks.svg" }, "room": { "symbol": "ROOM", "icon": "room.svg" }, "route": { "symbol": "ROUTE", "icon": "route.svg" }, "rpl": { "symbol": "RPL", "icon": "rpl.svg" }, "rtk": { "symbol": "RTK", "icon": "rtk.svg" }, "safeearth": { "symbol": "SAFEEARTH", "icon": "safeearth.svg" }, "sake": { "symbol": "SAKE", "icon": "sake.svg" }, "sale": { "symbol": "SALE", "icon": "sale.svg" }, "sand": { "symbol": "SAND", "icon": "sand.svg" }, "sanshu": { "symbol": "SANSHU", "icon": "sanshu.svg" }, "santa": { "symbol": "SANTA", "icon": "santa.svg" }, "sdt": { "symbol": "SDT", "icon": "sdt.svg" }, "senpai": { "symbol": "SENPAI", "icon": "senpai.svg" }, "sent": { "symbol": "SENT", "icon": "sent.svg" }, "seth2": { "symbol": "SETH2", "icon": "seth2.svg" }, "sgt": { "symbol": "SGT", "icon": "sgt.svg" }, "shib": { "symbol": "SHIB", "icon": "shib.svg" }, "shibco": { "symbol": "SHIBCO", "icon": "shibco.svg" }, "sho": { "symbol": "SHO", "icon": "sho.svg" }, "shopx": { "symbol": "SHOPX", "icon": "shopx.svg" }, "snow": { "symbol": "SNOW", "icon": "snow.svg" }, "snt": { "symbol": "SNT", "icon": "snt.svg" }, "snx": { "symbol": "SNX", "icon": "snx.svg" }, "soar": { "symbol": "SOAR", "icon": "soar.svg" }, "song": { "symbol": "SONG", "icon": "song.svg" }, "spi": { "symbol": "SPI", "icon": "spi.svg" }, "spn": { "symbol": "SPN", "icon": "spn.svg" }, "srat": { "symbol": "SRAT", "icon": "srat.svg" }, "stak": { "symbol": "STAK", "icon": "stak.svg" }, "stars": { "symbol": "STARS", "icon": "stars.svg" }, "storm": { "symbol": "STORM", "icon": "storm.svg" }, "str": { "symbol": "STR", "icon": "str.svg" }, "sub": { "symbol": "SUB", "icon": "sub.svg" }, "superFarm": { "symbol": "SUPER", "icon": "super.svg" }, "superbid": { "symbol": "SUPERBID", "icon": "superbid.svg" }, "sushi": { "symbol": "SUSHI", "icon": "sushi.svg" }, "swap": { "symbol": "SWAP", "icon": "swap.svg" }, "swise": { "symbol": "SWISE", "icon": "swise.svg" }, "sx": { "symbol": "SX", "icon": "sx.svg" }, "sxp": { "symbol": "SXP", "icon": "sxp.svg" }, "sync": { "symbol": "SYNC", "icon": "sync.svg" }, "tap": { "symbol": "TAP", "icon": "tap.svg" }, "tbtc": { "symbol": "TBTC", "icon": "tbtc.svg" }, "tcap": { "symbol": "TCAP", "icon": "tcap.svg" }, "tel": { "symbol": "TEL", "icon": "tel.svg" }, "thera": { "symbol": "THERA", "icon": "thera.svg" }, "theta": { "symbol": "THETA", "icon": "theta.svg" }, "three": { "symbol": "THREE", "icon": "three.svg" }, "tidal": { "symbol": "TIDAL", "icon": "tidal.svg" }, "torn": { "symbol": "TORN", "icon": "torn.svg" }, "tower": { "symbol": "TOWER", "icon": "tower.svg" }, "trb": { "symbol": "TRB", "icon": "trb.svg" }, "trdl": { "symbol": "TRDL", "icon": "trdl.svg" }, "trnd": { "symbol": "TRND", "icon": "trnd.svg" }, "truebit": { "symbol": "TRUEBIT", "icon": "truebit.svg" }, "trx": { "symbol": "TRX", "icon": "trx.svg" }, "tusd": { "symbol": "TUSD", "icon": "tusd.svg" }, "tvk": { "symbol": "TVK", "icon": "tvk.svg" }, "txl": { "symbol": "TXL", "icon": "txl.svg" }, "ubi": { "symbol": "UBI", "icon": "ubi.svg" }, "ubt": { "symbol": "UBT", "icon": "ubt.svg" }, "udoki": { "symbol": "UDOKI", "icon": "udoki.svg" }, "ufr": { "symbol": "UFR", "icon": "ufr.svg" }, "uft": { "symbol": "UFT", "icon": "uft.svg" }, "ult": { "symbol": "ULT", "icon": "ult.svg" }, "umbr": { "symbol": "UMBR", "icon": "umbr.svg" }, "umx": { "symbol": "UMX", "icon": "umx.svg" }, "uncx": { "symbol": "UNCX", "icon": "uncx.svg" }, "uni": { "symbol": "UNI", "icon": "uni.svg" }, "unl": { "symbol": "UNL", "icon": "unl.svg" }, "unn": { "symbol": "UNN", "icon": "unn.svg" }, "usdc": { "symbol": "USDC", "icon": "usdc.svg" }, "usdk": { "symbol": "USDK", "icon": "usdk.svg" }, "usdn": { "symbol": "USDN", "icon": "usdn.svg" }, "usdt": { "symbol": "USDT", "icon": "usdt.svg" }, "vee": { "symbol": "VEE", "icon": "vee.svg" }, "ven": { "symbol": "VEN", "icon": "ven.svg" }, "veri": { "symbol": "VERI", "icon": "veri.svg" }, "vidya": { "symbol": "VIDYA", "icon": "vidya.svg" }, "vifi": { "symbol": "VIFI", "icon": "vifi.svg" }, "vision": { "symbol": "VISION", "icon": "vision.svg" }, "visr": { "symbol": "VISR", "icon": "visr.svg" }, "vox": { "symbol": "VOX", "icon": "vox.svg" }, "waif": { "symbol": "WAIF", "icon": "waif.svg" }, "wax": { "symbol": "WAX", "icon": "wax.svg" }, "wbtc1": { "symbol": "WBTC-1", "icon": "wbtc-1.svg" }, "wbtc": { "symbol": "WBTC", "icon": "wbtc.svg" }, "wcelo": { "symbol": "WCELO", "icon": "wcelo.svg" }, "weth": { "symbol": "WETH", "icon": "weth.svg" }, "wg0": { "symbol": "WG0", "icon": "wg0.svg" }, "whale": { "symbol": "WHALE", "icon": "whale.svg" }, "wise": { "symbol": "WISE", "icon": "wise.svg" }, "wnxm": { "symbol": "WNXM", "icon": "wnxm.svg" }, "woo": { "symbol": "WOO", "icon": "woo.svg" }, "woofy": { "symbol": "WOOFY", "icon": "woofy.svg" }, "wpr": { "symbol": "WPR", "icon": "wpr.svg" }, "wrx": { "symbol": "WRX", "icon": "wrx.svg" }, "wsta": { "symbol": "WSTA", "icon": "wsta.svg" }, "wtc": { "symbol": "WTC", "icon": "wtc.svg" }, "wwgr": { "symbol": "WWGR", "icon": "wwgr.svg" }, "xed": { "symbol": "XED", "icon": "xed.svg" }, "xhdx": { "symbol": "XHDX", "icon": "xhdx.svg" }, "xor": { "symbol": "XOR", "icon": "xor.svg" }, "xrge": { "symbol": "XRGE", "icon": "xrge.svg" }, "xtk": { "symbol": "XTK", "icon": "xtk.svg" }, "yeld": { "symbol": "YELD", "icon": "yeld.svg" }, "yfDai": { "symbol": "YF-DAI", "icon": "yf-dai.svg" }, "yfi": { "symbol": "YFI", "icon": "yfi.svg" }, "yfii": { "symbol": "YFII", "icon": "yfii.svg" }, "ygy": { "symbol": "YGY", "icon": "ygy.svg" }, "yld": { "symbol": "YLD", "icon": "yld.svg" }, "yop": { "symbol": "YOP", "icon": "yop.svg" }, "zefu": { "symbol": "ZEFU", "icon": "zefu.svg" }, "zil": { "symbol": "ZIL", "icon": "zil.svg" }, "zpr": { "symbol": "ZPR", "icon": "zpr.svg" }, "zrx": { "symbol": "ZRX", "icon": "zrx.svg" }, "zut": { "symbol": "ZUT", "icon": "zut.svg" }, "dentaCoin": { "symbol": "٨", "icon": "٨.svg" }, "inst": { "symbol": "INST", "icon": "inst.svg" }, "kncl": { "symbol": "KNCL", "icon": "kncl.svg" }, "peri": { "symbol": "PERI", "icon": "peri.svg" }, "kton": { "symbol": "KTON", "icon": "kton.svg" }, "mooned": { "symbol": "MOONED", "icon": "mooned.svg" }, "ooe": { "symbol": "OOE", "icon": "ooe.svg" }, "ring": { "symbol": "RING", "icon": "ring.svg" }, "rvf": { "symbol": "RVF", "icon": "rvf.svg" }, "sca": { "symbol": "SCA", "icon": "sca.svg" }, "arth": { "symbol": "ARTH", "icon": "arth.svg" }, "arthx": { "symbol": "ARTHX", "icon": "arthx.svg" }, "maha": { "symbol": "MAHA", "icon": "maha.svg" }, "trade": { "symbol": "TRADE", "icon": "trade.svg" }, "umber": { "symbol": "UMBER", "icon": "umber.svg" } };
 
 
 /***/ }),
@@ -337,7 +337,7 @@ const list = { "$anrx": { "symbol": "$ANRX", "icon": "icons/$anrx.svg" }, "zerox
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "aloha", function() { return aloha; });
-const aloha = { "symbol": "ALOHA", "icon": "icons/aloha.svg" };
+const aloha = { "symbol": "ALOHA", "icon": "aloha.svg" };
 
 
 /***/ }),
@@ -352,7 +352,7 @@ const aloha = { "symbol": "ALOHA", "icon": "icons/aloha.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "amp", function() { return amp; });
-const amp = { "symbol": "AMP", "icon": "icons/amp.svg" };
+const amp = { "symbol": "AMP", "icon": "amp.svg" };
 
 
 /***/ }),
@@ -367,7 +367,7 @@ const amp = { "symbol": "AMP", "icon": "icons/amp.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ankr", function() { return ankr; });
-const ankr = { "symbol": "ANKR", "icon": "icons/ankr.svg" };
+const ankr = { "symbol": "ANKR", "icon": "ankr.svg" };
 
 
 /***/ }),
@@ -382,7 +382,7 @@ const ankr = { "symbol": "ANKR", "icon": "icons/ankr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ardu", function() { return ardu; });
-const ardu = { "symbol": "ARDU", "icon": "icons/ardu.svg" };
+const ardu = { "symbol": "ARDU", "icon": "ardu.svg" };
 
 
 /***/ }),
@@ -397,7 +397,37 @@ const ardu = { "symbol": "ARDU", "icon": "icons/ardu.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "armor", function() { return armor; });
-const armor = { "symbol": "ARMOR", "icon": "icons/armor.svg" };
+const armor = { "symbol": "ARMOR", "icon": "armor.svg" };
+
+
+/***/ }),
+
+/***/ "./build/arth.ts":
+/*!***********************!*\
+  !*** ./build/arth.ts ***!
+  \***********************/
+/*! exports provided: arth */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "arth", function() { return arth; });
+const arth = { "symbol": "ARTH", "icon": "arth.svg" };
+
+
+/***/ }),
+
+/***/ "./build/arthx.ts":
+/*!************************!*\
+  !*** ./build/arthx.ts ***!
+  \************************/
+/*! exports provided: arthx */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "arthx", function() { return arthx; });
+const arthx = { "symbol": "ARTHX", "icon": "arthx.svg" };
 
 
 /***/ }),
@@ -412,7 +442,7 @@ const armor = { "symbol": "ARMOR", "icon": "icons/armor.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "atri", function() { return atri; });
-const atri = { "symbol": "ATRI", "icon": "icons/atri.svg" };
+const atri = { "symbol": "ATRI", "icon": "atri.svg" };
 
 
 /***/ }),
@@ -427,7 +457,7 @@ const atri = { "symbol": "ATRI", "icon": "icons/atri.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "audio", function() { return audio; });
-const audio = { "symbol": "AUDIO", "icon": "icons/audio.svg" };
+const audio = { "symbol": "AUDIO", "icon": "audio.svg" };
 
 
 /***/ }),
@@ -442,7 +472,7 @@ const audio = { "symbol": "AUDIO", "icon": "icons/audio.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "aws", function() { return aws; });
-const aws = { "symbol": "AWS", "icon": "icons/aws.svg" };
+const aws = { "symbol": "AWS", "icon": "aws.svg" };
 
 
 /***/ }),
@@ -457,7 +487,7 @@ const aws = { "symbol": "AWS", "icon": "icons/aws.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "axi", function() { return axi; });
-const axi = { "symbol": "AXI", "icon": "icons/axi.svg" };
+const axi = { "symbol": "AXI", "icon": "axi.svg" };
 
 
 /***/ }),
@@ -472,7 +502,7 @@ const axi = { "symbol": "AXI", "icon": "icons/axi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "axs", function() { return axs; });
-const axs = { "symbol": "AXS", "icon": "icons/axs.svg" };
+const axs = { "symbol": "AXS", "icon": "axs.svg" };
 
 
 /***/ }),
@@ -487,7 +517,7 @@ const axs = { "symbol": "AXS", "icon": "icons/axs.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bab", function() { return bab; });
-const bab = { "symbol": "BAB", "icon": "icons/bab.svg" };
+const bab = { "symbol": "BAB", "icon": "bab.svg" };
 
 
 /***/ }),
@@ -502,7 +532,7 @@ const bab = { "symbol": "BAB", "icon": "icons/bab.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "badger", function() { return badger; });
-const badger = { "symbol": "BADGER", "icon": "icons/badger.svg" };
+const badger = { "symbol": "BADGER", "icon": "badger.svg" };
 
 
 /***/ }),
@@ -517,7 +547,7 @@ const badger = { "symbol": "BADGER", "icon": "icons/badger.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bal", function() { return bal; });
-const bal = { "symbol": "BAL", "icon": "icons/bal.svg" };
+const bal = { "symbol": "BAL", "icon": "bal.svg" };
 
 
 /***/ }),
@@ -532,7 +562,7 @@ const bal = { "symbol": "BAL", "icon": "icons/bal.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "band", function() { return band; });
-const band = { "symbol": "BAND", "icon": "icons/band.svg" };
+const band = { "symbol": "BAND", "icon": "band.svg" };
 
 
 /***/ }),
@@ -547,7 +577,7 @@ const band = { "symbol": "BAND", "icon": "icons/band.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bao", function() { return bao; });
-const bao = { "symbol": "BAO", "icon": "icons/bao.svg" };
+const bao = { "symbol": "BAO", "icon": "bao.svg" };
 
 
 /***/ }),
@@ -562,7 +592,7 @@ const bao = { "symbol": "BAO", "icon": "icons/bao.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "basv2", function() { return basv2; });
-const basv2 = { "symbol": "BASV2", "icon": "icons/basv2.svg" };
+const basv2 = { "symbol": "BASV2", "icon": "basv2.svg" };
 
 
 /***/ }),
@@ -577,7 +607,7 @@ const basv2 = { "symbol": "BASV2", "icon": "icons/basv2.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bat", function() { return bat; });
-const bat = { "symbol": "BAT", "icon": "icons/bat.svg" };
+const bat = { "symbol": "BAT", "icon": "bat.svg" };
 
 
 /***/ }),
@@ -592,7 +622,7 @@ const bat = { "symbol": "BAT", "icon": "icons/bat.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bcm", function() { return bcm; });
-const bcm = { "symbol": "BCM", "icon": "icons/bcm.svg" };
+const bcm = { "symbol": "BCM", "icon": "bcm.svg" };
 
 
 /***/ }),
@@ -607,7 +637,7 @@ const bcm = { "symbol": "BCM", "icon": "icons/bcm.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bepro", function() { return bepro; });
-const bepro = { "symbol": "BEPRO", "icon": "icons/bepro.svg" };
+const bepro = { "symbol": "BEPRO", "icon": "bepro.svg" };
 
 
 /***/ }),
@@ -622,7 +652,7 @@ const bepro = { "symbol": "BEPRO", "icon": "icons/bepro.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bfly", function() { return bfly; });
-const bfly = { "symbol": "BFLY", "icon": "icons/bfly.svg" };
+const bfly = { "symbol": "BFLY", "icon": "bfly.svg" };
 
 
 /***/ }),
@@ -637,7 +667,7 @@ const bfly = { "symbol": "BFLY", "icon": "icons/bfly.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bid", function() { return bid; });
-const bid = { "symbol": "BID", "icon": "icons/bid.svg" };
+const bid = { "symbol": "BID", "icon": "bid.svg" };
 
 
 /***/ }),
@@ -652,7 +682,7 @@ const bid = { "symbol": "BID", "icon": "icons/bid.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bix", function() { return bix; });
-const bix = { "symbol": "BIX", "icon": "icons/bix.svg" };
+const bix = { "symbol": "BIX", "icon": "bix.svg" };
 
 
 /***/ }),
@@ -667,7 +697,7 @@ const bix = { "symbol": "BIX", "icon": "icons/bix.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bles", function() { return bles; });
-const bles = { "symbol": "BLES", "icon": "icons/bles.svg" };
+const bles = { "symbol": "BLES", "icon": "bles.svg" };
 
 
 /***/ }),
@@ -682,7 +712,7 @@ const bles = { "symbol": "BLES", "icon": "icons/bles.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "blue", function() { return blue; });
-const blue = { "symbol": "BLUE", "icon": "icons/blue.svg" };
+const blue = { "symbol": "BLUE", "icon": "blue.svg" };
 
 
 /***/ }),
@@ -697,7 +727,7 @@ const blue = { "symbol": "BLUE", "icon": "icons/blue.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bmi", function() { return bmi; });
-const bmi = { "symbol": "BMI", "icon": "icons/bmi.svg" };
+const bmi = { "symbol": "BMI", "icon": "bmi.svg" };
 
 
 /***/ }),
@@ -712,7 +742,7 @@ const bmi = { "symbol": "BMI", "icon": "icons/bmi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bnb", function() { return bnb; });
-const bnb = { "symbol": "BNB", "icon": "icons/bnb.svg" };
+const bnb = { "symbol": "BNB", "icon": "bnb.svg" };
 
 
 /***/ }),
@@ -727,7 +757,7 @@ const bnb = { "symbol": "BNB", "icon": "icons/bnb.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bnt", function() { return bnt; });
-const bnt = { "symbol": "BNT", "icon": "icons/bnt.svg" };
+const bnt = { "symbol": "BNT", "icon": "bnt.svg" };
 
 
 /***/ }),
@@ -742,7 +772,7 @@ const bnt = { "symbol": "BNT", "icon": "icons/bnt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bnty", function() { return bnty; });
-const bnty = { "symbol": "BNTY", "icon": "icons/bnty.svg" };
+const bnty = { "symbol": "BNTY", "icon": "bnty.svg" };
 
 
 /***/ }),
@@ -757,7 +787,7 @@ const bnty = { "symbol": "BNTY", "icon": "icons/bnty.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bond", function() { return bond; });
-const bond = { "symbol": "BOND", "icon": "icons/bond.svg" };
+const bond = { "symbol": "BOND", "icon": "bond.svg" };
 
 
 /***/ }),
@@ -772,7 +802,7 @@ const bond = { "symbol": "BOND", "icon": "icons/bond.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bond1", function() { return bond1; });
-const bond1 = { "symbol": "BOND-1", "icon": "icons/bond-1.svg" };
+const bond1 = { "symbol": "BOND-1", "icon": "bond-1.svg" };
 
 
 /***/ }),
@@ -787,7 +817,7 @@ const bond1 = { "symbol": "BOND-1", "icon": "icons/bond-1.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bondly", function() { return bondly; });
-const bondly = { "symbol": "BONDLY", "icon": "icons/bondly.svg" };
+const bondly = { "symbol": "BONDLY", "icon": "bondly.svg" };
 
 
 /***/ }),
@@ -802,7 +832,7 @@ const bondly = { "symbol": "BONDLY", "icon": "icons/bondly.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bribe", function() { return bribe; });
-const bribe = { "symbol": "BRIBE", "icon": "icons/bribe.svg" };
+const bribe = { "symbol": "BRIBE", "icon": "bribe.svg" };
 
 
 /***/ }),
@@ -817,7 +847,7 @@ const bribe = { "symbol": "BRIBE", "icon": "icons/bribe.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bs1", function() { return bs1; });
-const bs1 = { "symbol": "BS1", "icon": "icons/bs1.svg" };
+const bs1 = { "symbol": "BS1", "icon": "bs1.svg" };
 
 
 /***/ }),
@@ -832,7 +862,7 @@ const bs1 = { "symbol": "BS1", "icon": "icons/bs1.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "btc2xFli", function() { return btc2xFli; });
-const btc2xFli = { "symbol": "BTC2X-FLI", "icon": "icons/btc2x-fli.svg" };
+const btc2xFli = { "symbol": "BTC2X-FLI", "icon": "btc2x-fli.svg" };
 
 
 /***/ }),
@@ -847,7 +877,7 @@ const btc2xFli = { "symbol": "BTC2X-FLI", "icon": "icons/btc2x-fli.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "btm", function() { return btm; });
-const btm = { "symbol": "BTM", "icon": "icons/btm.svg" };
+const btm = { "symbol": "BTM", "icon": "btm.svg" };
 
 
 /***/ }),
@@ -862,7 +892,7 @@ const btm = { "symbol": "BTM", "icon": "icons/btm.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "btse", function() { return btse; });
-const btse = { "symbol": "BTSE", "icon": "icons/btse.svg" };
+const btse = { "symbol": "BTSE", "icon": "btse.svg" };
 
 
 /***/ }),
@@ -877,7 +907,7 @@ const btse = { "symbol": "BTSE", "icon": "icons/btse.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "btu", function() { return btu; });
-const btu = { "symbol": "BTU", "icon": "icons/btu.svg" };
+const btu = { "symbol": "BTU", "icon": "btu.svg" };
 
 
 /***/ }),
@@ -892,7 +922,7 @@ const btu = { "symbol": "BTU", "icon": "icons/btu.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "btzc", function() { return btzc; });
-const btzc = { "symbol": "BTZC", "icon": "icons/btzc.svg" };
+const btzc = { "symbol": "BTZC", "icon": "btzc.svg" };
 
 
 /***/ }),
@@ -907,7 +937,7 @@ const btzc = { "symbol": "BTZC", "icon": "icons/btzc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "buidl", function() { return buidl; });
-const buidl = { "symbol": "BUIDL", "icon": "icons/buidl.svg" };
+const buidl = { "symbol": "BUIDL", "icon": "buidl.svg" };
 
 
 /***/ }),
@@ -922,7 +952,7 @@ const buidl = { "symbol": "BUIDL", "icon": "icons/buidl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "busd", function() { return busd; });
-const busd = { "symbol": "BUSD", "icon": "icons/busd.svg" };
+const busd = { "symbol": "BUSD", "icon": "busd.svg" };
 
 
 /***/ }),
@@ -937,7 +967,7 @@ const busd = { "symbol": "BUSD", "icon": "icons/busd.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "byn", function() { return byn; });
-const byn = { "symbol": "BYN", "icon": "icons/byn.svg" };
+const byn = { "symbol": "BYN", "icon": "byn.svg" };
 
 
 /***/ }),
@@ -952,7 +982,7 @@ const byn = { "symbol": "BYN", "icon": "icons/byn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bzn", function() { return bzn; });
-const bzn = { "symbol": "BZN", "icon": "icons/bzn.svg" };
+const bzn = { "symbol": "BZN", "icon": "bzn.svg" };
 
 
 /***/ }),
@@ -967,7 +997,7 @@ const bzn = { "symbol": "BZN", "icon": "icons/bzn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "card", function() { return card; });
-const card = { "symbol": "CARD", "icon": "icons/card.svg" };
+const card = { "symbol": "CARD", "icon": "card.svg" };
 
 
 /***/ }),
@@ -982,7 +1012,7 @@ const card = { "symbol": "CARD", "icon": "icons/card.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cards", function() { return cards; });
-const cards = { "symbol": "CARDS", "icon": "icons/cards.svg" };
+const cards = { "symbol": "CARDS", "icon": "cards.svg" };
 
 
 /***/ }),
@@ -997,7 +1027,7 @@ const cards = { "symbol": "CARDS", "icon": "icons/cards.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cc10", function() { return cc10; });
-const cc10 = { "symbol": "CC10", "icon": "icons/cc10.svg" };
+const cc10 = { "symbol": "CC10", "icon": "cc10.svg" };
 
 
 /***/ }),
@@ -1012,7 +1042,7 @@ const cc10 = { "symbol": "CC10", "icon": "icons/cc10.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ccio", function() { return ccio; });
-const ccio = { "symbol": "CCIO", "icon": "icons/ccio.svg" };
+const ccio = { "symbol": "CCIO", "icon": "ccio.svg" };
 
 
 /***/ }),
@@ -1027,7 +1057,7 @@ const ccio = { "symbol": "CCIO", "icon": "icons/ccio.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cel", function() { return cel; });
-const cel = { "symbol": "CEL", "icon": "icons/cel.svg" };
+const cel = { "symbol": "CEL", "icon": "cel.svg" };
 
 
 /***/ }),
@@ -1042,7 +1072,7 @@ const cel = { "symbol": "CEL", "icon": "icons/cel.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cell", function() { return cell; });
-const cell = { "symbol": "CELL", "icon": "icons/cell.svg" };
+const cell = { "symbol": "CELL", "icon": "cell.svg" };
 
 
 /***/ }),
@@ -1057,7 +1087,7 @@ const cell = { "symbol": "CELL", "icon": "icons/cell.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "celo", function() { return celo; });
-const celo = { "symbol": "CELO", "icon": "icons/celo.svg" };
+const celo = { "symbol": "CELO", "icon": "celo.svg" };
 
 
 /***/ }),
@@ -1072,7 +1102,7 @@ const celo = { "symbol": "CELO", "icon": "icons/celo.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cfi", function() { return cfi; });
-const cfi = { "symbol": "CFI", "icon": "icons/cfi.svg" };
+const cfi = { "symbol": "CFI", "icon": "cfi.svg" };
 
 
 /***/ }),
@@ -1087,7 +1117,7 @@ const cfi = { "symbol": "CFI", "icon": "icons/cfi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cgg", function() { return cgg; });
-const cgg = { "symbol": "CGG", "icon": "icons/cgg.svg" };
+const cgg = { "symbol": "CGG", "icon": "cgg.svg" };
 
 
 /***/ }),
@@ -1102,7 +1132,7 @@ const cgg = { "symbol": "CGG", "icon": "icons/cgg.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "chsb", function() { return chsb; });
-const chsb = { "symbol": "CHSB", "icon": "icons/chsb.svg" };
+const chsb = { "symbol": "CHSB", "icon": "chsb.svg" };
 
 
 /***/ }),
@@ -1117,7 +1147,7 @@ const chsb = { "symbol": "CHSB", "icon": "icons/chsb.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "chz", function() { return chz; });
-const chz = { "symbol": "CHZ", "icon": "icons/chz.svg" };
+const chz = { "symbol": "CHZ", "icon": "chz.svg" };
 
 
 /***/ }),
@@ -1132,7 +1162,7 @@ const chz = { "symbol": "CHZ", "icon": "icons/chz.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cls", function() { return cls; });
-const cls = { "symbol": "CLS", "icon": "icons/cls.svg" };
+const cls = { "symbol": "CLS", "icon": "cls.svg" };
 
 
 /***/ }),
@@ -1147,7 +1177,7 @@ const cls = { "symbol": "CLS", "icon": "icons/cls.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cmt", function() { return cmt; });
-const cmt = { "symbol": "CMT", "icon": "icons/cmt.svg" };
+const cmt = { "symbol": "CMT", "icon": "cmt.svg" };
 
 
 /***/ }),
@@ -1162,7 +1192,7 @@ const cmt = { "symbol": "CMT", "icon": "icons/cmt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "coin", function() { return coin; });
-const coin = { "symbol": "COIN", "icon": "icons/coin.svg" };
+const coin = { "symbol": "COIN", "icon": "coin.svg" };
 
 
 /***/ }),
@@ -1177,7 +1207,7 @@ const coin = { "symbol": "COIN", "icon": "icons/coin.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "comp", function() { return comp; });
-const comp = { "symbol": "COMP", "icon": "icons/comp.svg" };
+const comp = { "symbol": "COMP", "icon": "comp.svg" };
 
 
 /***/ }),
@@ -1192,7 +1222,7 @@ const comp = { "symbol": "COMP", "icon": "icons/comp.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "conv", function() { return conv; });
-const conv = { "symbol": "CONV", "icon": "icons/conv.svg" };
+const conv = { "symbol": "CONV", "icon": "conv.svg" };
 
 
 /***/ }),
@@ -1207,7 +1237,7 @@ const conv = { "symbol": "CONV", "icon": "icons/conv.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cor", function() { return cor; });
-const cor = { "symbol": "COR", "icon": "icons/cor.svg" };
+const cor = { "symbol": "COR", "icon": "cor.svg" };
 
 
 /***/ }),
@@ -1222,7 +1252,7 @@ const cor = { "symbol": "COR", "icon": "icons/cor.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "crv", function() { return crv; });
-const crv = { "symbol": "CRV", "icon": "icons/crv.svg" };
+const crv = { "symbol": "CRV", "icon": "crv.svg" };
 
 
 /***/ }),
@@ -1237,7 +1267,7 @@ const crv = { "symbol": "CRV", "icon": "icons/crv.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cti", function() { return cti; });
-const cti = { "symbol": "CTI", "icon": "icons/cti.svg" };
+const cti = { "symbol": "CTI", "icon": "cti.svg" };
 
 
 /***/ }),
@@ -1252,7 +1282,7 @@ const cti = { "symbol": "CTI", "icon": "icons/cti.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ctsi", function() { return ctsi; });
-const ctsi = { "symbol": "CTSI", "icon": "icons/ctsi.svg" };
+const ctsi = { "symbol": "CTSI", "icon": "ctsi.svg" };
 
 
 /***/ }),
@@ -1267,7 +1297,7 @@ const ctsi = { "symbol": "CTSI", "icon": "icons/ctsi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ctxc", function() { return ctxc; });
-const ctxc = { "symbol": "CTXC", "icon": "icons/ctxc.svg" };
+const ctxc = { "symbol": "CTXC", "icon": "ctxc.svg" };
 
 
 /***/ }),
@@ -1282,7 +1312,7 @@ const ctxc = { "symbol": "CTXC", "icon": "icons/ctxc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cum", function() { return cum; });
-const cum = { "symbol": "CUM", "icon": "icons/cum.svg" };
+const cum = { "symbol": "CUM", "icon": "cum.svg" };
 
 
 /***/ }),
@@ -1297,7 +1327,7 @@ const cum = { "symbol": "CUM", "icon": "icons/cum.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cvp", function() { return cvp; });
-const cvp = { "symbol": "CVP", "icon": "icons/cvp.svg" };
+const cvp = { "symbol": "CVP", "icon": "cvp.svg" };
 
 
 /***/ }),
@@ -1312,7 +1342,7 @@ const cvp = { "symbol": "CVP", "icon": "icons/cvp.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cvp1", function() { return cvp1; });
-const cvp1 = { "symbol": "CVP-1", "icon": "icons/cvp-1.svg" };
+const cvp1 = { "symbol": "CVP-1", "icon": "cvp-1.svg" };
 
 
 /***/ }),
@@ -1327,7 +1357,7 @@ const cvp1 = { "symbol": "CVP-1", "icon": "icons/cvp-1.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dafi", function() { return dafi; });
-const dafi = { "symbol": "DAFI", "icon": "icons/dafi.svg" };
+const dafi = { "symbol": "DAFI", "icon": "dafi.svg" };
 
 
 /***/ }),
@@ -1342,7 +1372,7 @@ const dafi = { "symbol": "DAFI", "icon": "icons/dafi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dai", function() { return dai; });
-const dai = { "symbol": "DAI", "icon": "icons/dai.svg" };
+const dai = { "symbol": "DAI", "icon": "dai.svg" };
 
 
 /***/ }),
@@ -1357,7 +1387,7 @@ const dai = { "symbol": "DAI", "icon": "icons/dai.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dam", function() { return dam; });
-const dam = { "symbol": "DAM", "icon": "icons/dam.svg" };
+const dam = { "symbol": "DAM", "icon": "dam.svg" };
 
 
 /***/ }),
@@ -1372,7 +1402,7 @@ const dam = { "symbol": "DAM", "icon": "icons/dam.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dao", function() { return dao; });
-const dao = { "symbol": "DAO", "icon": "icons/dao.svg" };
+const dao = { "symbol": "DAO", "icon": "dao.svg" };
 
 
 /***/ }),
@@ -1387,7 +1417,7 @@ const dao = { "symbol": "DAO", "icon": "icons/dao.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "daofi", function() { return daofi; });
-const daofi = { "symbol": "DAOFI", "icon": "icons/daofi.svg" };
+const daofi = { "symbol": "DAOFI", "icon": "daofi.svg" };
 
 
 /***/ }),
@@ -1402,7 +1432,7 @@ const daofi = { "symbol": "DAOFI", "icon": "icons/daofi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dark", function() { return dark; });
-const dark = { "symbol": "DARK", "icon": "icons/dark.svg" };
+const dark = { "symbol": "DARK", "icon": "dark.svg" };
 
 
 /***/ }),
@@ -1417,7 +1447,7 @@ const dark = { "symbol": "DARK", "icon": "icons/dark.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dcg", function() { return dcg; });
-const dcg = { "symbol": "DCG", "icon": "icons/dcg.svg" };
+const dcg = { "symbol": "DCG", "icon": "dcg.svg" };
 
 
 /***/ }),
@@ -1432,7 +1462,7 @@ const dcg = { "symbol": "DCG", "icon": "icons/dcg.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dcn", function() { return dcn; });
-const dcn = { "symbol": "DCN", "icon": "icons/dcn.svg" };
+const dcn = { "symbol": "DCN", "icon": "dcn.svg" };
 
 
 /***/ }),
@@ -1447,7 +1477,7 @@ const dcn = { "symbol": "DCN", "icon": "icons/dcn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dec", function() { return dec; });
-const dec = { "symbol": "DEC", "icon": "icons/dec.svg" };
+const dec = { "symbol": "DEC", "icon": "dec.svg" };
 
 
 /***/ }),
@@ -1462,7 +1492,7 @@ const dec = { "symbol": "DEC", "icon": "icons/dec.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "defi", function() { return defi; });
-const defi = { "symbol": "DEFI", "icon": "icons/defi.svg" };
+const defi = { "symbol": "DEFI", "icon": "defi.svg" };
 
 
 /***/ }),
@@ -1477,7 +1507,7 @@ const defi = { "symbol": "DEFI", "icon": "icons/defi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "defi5", function() { return defi5; });
-const defi5 = { "symbol": "DEFI5", "icon": "icons/defi5.svg" };
+const defi5 = { "symbol": "DEFI5", "icon": "defi5.svg" };
 
 
 /***/ }),
@@ -1492,7 +1522,7 @@ const defi5 = { "symbol": "DEFI5", "icon": "icons/defi5.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "degen", function() { return degen; });
-const degen = { "symbol": "DEGEN", "icon": "icons/degen.svg" };
+const degen = { "symbol": "DEGEN", "icon": "degen.svg" };
 
 
 /***/ }),
@@ -1507,7 +1537,7 @@ const degen = { "symbol": "DEGEN", "icon": "icons/degen.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dentaCoin", function() { return dentaCoin; });
-const dentaCoin = { "symbol": "٨", "icon": "icons/٨.svg" };
+const dentaCoin = { "symbol": "٨", "icon": "٨.svg" };
 
 
 /***/ }),
@@ -1522,7 +1552,7 @@ const dentaCoin = { "symbol": "٨", "icon": "icons/٨.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dep", function() { return dep; });
-const dep = { "symbol": "DEP", "icon": "icons/dep.svg" };
+const dep = { "symbol": "DEP", "icon": "dep.svg" };
 
 
 /***/ }),
@@ -1537,7 +1567,7 @@ const dep = { "symbol": "DEP", "icon": "icons/dep.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dev", function() { return dev; });
-const dev = { "symbol": "DEV", "icon": "icons/dev.svg" };
+const dev = { "symbol": "DEV", "icon": "dev.svg" };
 
 
 /***/ }),
@@ -1552,7 +1582,7 @@ const dev = { "symbol": "DEV", "icon": "icons/dev.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dex", function() { return dex; });
-const dex = { "symbol": "DEX", "icon": "icons/dex.svg" };
+const dex = { "symbol": "DEX", "icon": "dex.svg" };
 
 
 /***/ }),
@@ -1567,7 +1597,7 @@ const dex = { "symbol": "DEX", "icon": "icons/dex.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dfyn", function() { return dfyn; });
-const dfyn = { "symbol": "DFYN", "icon": "icons/dfyn.svg" };
+const dfyn = { "symbol": "DFYN", "icon": "dfyn.svg" };
 
 
 /***/ }),
@@ -1582,7 +1612,7 @@ const dfyn = { "symbol": "DFYN", "icon": "icons/dfyn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dg", function() { return dg; });
-const dg = { "symbol": "DG", "icon": "icons/dg.svg" };
+const dg = { "symbol": "DG", "icon": "dg.svg" };
 
 
 /***/ }),
@@ -1597,7 +1627,7 @@ const dg = { "symbol": "DG", "icon": "icons/dg.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dht", function() { return dht; });
-const dht = { "symbol": "DHT", "icon": "icons/dht.svg" };
+const dht = { "symbol": "DHT", "icon": "dht.svg" };
 
 
 /***/ }),
@@ -1612,7 +1642,7 @@ const dht = { "symbol": "DHT", "icon": "icons/dht.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "digg", function() { return digg; });
-const digg = { "symbol": "DIGG", "icon": "icons/digg.svg" };
+const digg = { "symbol": "DIGG", "icon": "digg.svg" };
 
 
 /***/ }),
@@ -1627,7 +1657,7 @@ const digg = { "symbol": "DIGG", "icon": "icons/digg.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dmt", function() { return dmt; });
-const dmt = { "symbol": "DMT", "icon": "icons/dmt.svg" };
+const dmt = { "symbol": "DMT", "icon": "dmt.svg" };
 
 
 /***/ }),
@@ -1642,7 +1672,7 @@ const dmt = { "symbol": "DMT", "icon": "icons/dmt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "doki", function() { return doki; });
-const doki = { "symbol": "DOKI", "icon": "icons/doki.svg" };
+const doki = { "symbol": "DOKI", "icon": "doki.svg" };
 
 
 /***/ }),
@@ -1657,7 +1687,7 @@ const doki = { "symbol": "DOKI", "icon": "icons/doki.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "don", function() { return don; });
-const don = { "symbol": "DON", "icon": "icons/don.svg" };
+const don = { "symbol": "DON", "icon": "don.svg" };
 
 
 /***/ }),
@@ -1672,7 +1702,7 @@ const don = { "symbol": "DON", "icon": "icons/don.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dov", function() { return dov; });
-const dov = { "symbol": "DOV", "icon": "icons/dov.svg" };
+const dov = { "symbol": "DOV", "icon": "dov.svg" };
 
 
 /***/ }),
@@ -1687,7 +1717,7 @@ const dov = { "symbol": "DOV", "icon": "icons/dov.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dpi", function() { return dpi; });
-const dpi = { "symbol": "DPI", "icon": "icons/dpi.svg" };
+const dpi = { "symbol": "DPI", "icon": "dpi.svg" };
 
 
 /***/ }),
@@ -1702,7 +1732,7 @@ const dpi = { "symbol": "DPI", "icon": "icons/dpi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dpr", function() { return dpr; });
-const dpr = { "symbol": "DPR", "icon": "icons/dpr.svg" };
+const dpr = { "symbol": "DPR", "icon": "dpr.svg" };
 
 
 /***/ }),
@@ -1717,7 +1747,7 @@ const dpr = { "symbol": "DPR", "icon": "icons/dpr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "drc", function() { return drc; });
-const drc = { "symbol": "DRC", "icon": "icons/drc.svg" };
+const drc = { "symbol": "DRC", "icon": "drc.svg" };
 
 
 /***/ }),
@@ -1732,7 +1762,7 @@ const drc = { "symbol": "DRC", "icon": "icons/drc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "drk", function() { return drk; });
-const drk = { "symbol": "DRK", "icon": "icons/drk.svg" };
+const drk = { "symbol": "DRK", "icon": "drk.svg" };
 
 
 /***/ }),
@@ -1747,7 +1777,7 @@ const drk = { "symbol": "DRK", "icon": "icons/drk.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dsla", function() { return dsla; });
-const dsla = { "symbol": "DSLA", "icon": "icons/dsla.svg" };
+const dsla = { "symbol": "DSLA", "icon": "dsla.svg" };
 
 
 /***/ }),
@@ -1762,7 +1792,7 @@ const dsla = { "symbol": "DSLA", "icon": "icons/dsla.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "dust", function() { return dust; });
-const dust = { "symbol": "DUST", "icon": "icons/dust.svg" };
+const dust = { "symbol": "DUST", "icon": "dust.svg" };
 
 
 /***/ }),
@@ -1777,7 +1807,7 @@ const dust = { "symbol": "DUST", "icon": "icons/dust.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "easy2", function() { return easy2; });
-const easy2 = { "symbol": "EASY2", "icon": "icons/easy2.svg" };
+const easy2 = { "symbol": "EASY2", "icon": "easy2.svg" };
 
 
 /***/ }),
@@ -1792,7 +1822,7 @@ const easy2 = { "symbol": "EASY2", "icon": "icons/easy2.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "eld", function() { return eld; });
-const eld = { "symbol": "ELD", "icon": "icons/eld.svg" };
+const eld = { "symbol": "ELD", "icon": "eld.svg" };
 
 
 /***/ }),
@@ -1807,7 +1837,7 @@ const eld = { "symbol": "ELD", "icon": "icons/eld.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "elf", function() { return elf; });
-const elf = { "symbol": "ELF", "icon": "icons/elf.svg" };
+const elf = { "symbol": "ELF", "icon": "elf.svg" };
 
 
 /***/ }),
@@ -1822,7 +1852,7 @@ const elf = { "symbol": "ELF", "icon": "icons/elf.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "eng", function() { return eng; });
-const eng = { "symbol": "ENG", "icon": "icons/eng.svg" };
+const eng = { "symbol": "ENG", "icon": "eng.svg" };
 
 
 /***/ }),
@@ -1837,7 +1867,7 @@ const eng = { "symbol": "ENG", "icon": "icons/eng.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "enj", function() { return enj; });
-const enj = { "symbol": "ENJ", "icon": "icons/enj.svg" };
+const enj = { "symbol": "ENJ", "icon": "enj.svg" };
 
 
 /***/ }),
@@ -1852,7 +1882,7 @@ const enj = { "symbol": "ENJ", "icon": "icons/enj.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "epan", function() { return epan; });
-const epan = { "symbol": "EPAN", "icon": "icons/epan.svg" };
+const epan = { "symbol": "EPAN", "icon": "epan.svg" };
 
 
 /***/ }),
@@ -1867,7 +1897,7 @@ const epan = { "symbol": "EPAN", "icon": "icons/epan.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "equad", function() { return equad; });
-const equad = { "symbol": "EQUAD", "icon": "icons/equad.svg" };
+const equad = { "symbol": "EQUAD", "icon": "equad.svg" };
 
 
 /***/ }),
@@ -1882,7 +1912,7 @@ const equad = { "symbol": "EQUAD", "icon": "icons/equad.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ern", function() { return ern; });
-const ern = { "symbol": "ERN", "icon": "icons/ern.svg" };
+const ern = { "symbol": "ERN", "icon": "ern.svg" };
 
 
 /***/ }),
@@ -1897,7 +1927,7 @@ const ern = { "symbol": "ERN", "icon": "icons/ern.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ersdl", function() { return ersdl; });
-const ersdl = { "symbol": "ERSDL", "icon": "icons/ersdl.svg" };
+const ersdl = { "symbol": "ERSDL", "icon": "ersdl.svg" };
 
 
 /***/ }),
@@ -1912,7 +1942,7 @@ const ersdl = { "symbol": "ERSDL", "icon": "icons/ersdl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "eth", function() { return eth; });
-const eth = { "symbol": "ETH", "icon": "icons/eth.svg" };
+const eth = { "symbol": "ETH", "icon": "eth.svg" };
 
 
 /***/ }),
@@ -1927,7 +1957,7 @@ const eth = { "symbol": "ETH", "icon": "icons/eth.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "etha", function() { return etha; });
-const etha = { "symbol": "ETHA", "icon": "icons/etha.svg" };
+const etha = { "symbol": "ETHA", "icon": "etha.svg" };
 
 
 /***/ }),
@@ -1942,7 +1972,7 @@ const etha = { "symbol": "ETHA", "icon": "icons/etha.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ethix", function() { return ethix; });
-const ethix = { "symbol": "ETHIX", "icon": "icons/ethix.svg" };
+const ethix = { "symbol": "ETHIX", "icon": "ethix.svg" };
 
 
 /***/ }),
@@ -1957,7 +1987,7 @@ const ethix = { "symbol": "ETHIX", "icon": "icons/ethix.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ethos", function() { return ethos; });
-const ethos = { "symbol": "ETHOS", "icon": "icons/ethos.svg" };
+const ethos = { "symbol": "ETHOS", "icon": "ethos.svg" };
 
 
 /***/ }),
@@ -1972,7 +2002,7 @@ const ethos = { "symbol": "ETHOS", "icon": "icons/ethos.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "eurs", function() { return eurs; });
-const eurs = { "symbol": "EURS", "icon": "icons/eurs.svg" };
+const eurs = { "symbol": "EURS", "icon": "eurs.svg" };
 
 
 /***/ }),
@@ -1987,7 +2017,7 @@ const eurs = { "symbol": "EURS", "icon": "icons/eurs.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ewtb", function() { return ewtb; });
-const ewtb = { "symbol": "EWTB", "icon": "icons/ewtb.svg" };
+const ewtb = { "symbol": "EWTB", "icon": "ewtb.svg" };
 
 
 /***/ }),
@@ -2002,7 +2032,7 @@ const ewtb = { "symbol": "EWTB", "icon": "icons/ewtb.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "exrd", function() { return exrd; });
-const exrd = { "symbol": "EXRD", "icon": "icons/exrd.svg" };
+const exrd = { "symbol": "EXRD", "icon": "exrd.svg" };
 
 
 /***/ }),
@@ -2017,7 +2047,7 @@ const exrd = { "symbol": "EXRD", "icon": "icons/exrd.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ez", function() { return ez; });
-const ez = { "symbol": "EZ", "icon": "icons/ez.svg" };
+const ez = { "symbol": "EZ", "icon": "ez.svg" };
 
 
 /***/ }),
@@ -2032,7 +2062,7 @@ const ez = { "symbol": "EZ", "icon": "icons/ez.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "fcl", function() { return fcl; });
-const fcl = { "symbol": "FCL", "icon": "icons/fcl.svg" };
+const fcl = { "symbol": "FCL", "icon": "fcl.svg" };
 
 
 /***/ }),
@@ -2047,7 +2077,7 @@ const fcl = { "symbol": "FCL", "icon": "icons/fcl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "fgh", function() { return fgh; });
-const fgh = { "symbol": "FGH", "icon": "icons/fgh.svg" };
+const fgh = { "symbol": "FGH", "icon": "fgh.svg" };
 
 
 /***/ }),
@@ -2062,7 +2092,7 @@ const fgh = { "symbol": "FGH", "icon": "icons/fgh.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "flux", function() { return flux; });
-const flux = { "symbol": "FLUX", "icon": "icons/flux.svg" };
+const flux = { "symbol": "FLUX", "icon": "flux.svg" };
 
 
 /***/ }),
@@ -2077,7 +2107,7 @@ const flux = { "symbol": "FLUX", "icon": "icons/flux.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "force", function() { return force; });
-const force = { "symbol": "FORCE", "icon": "icons/force.svg" };
+const force = { "symbol": "FORCE", "icon": "force.svg" };
 
 
 /***/ }),
@@ -2092,7 +2122,7 @@ const force = { "symbol": "FORCE", "icon": "icons/force.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "forth", function() { return forth; });
-const forth = { "symbol": "FORTH", "icon": "icons/forth.svg" };
+const forth = { "symbol": "FORTH", "icon": "forth.svg" };
 
 
 /***/ }),
@@ -2107,7 +2137,7 @@ const forth = { "symbol": "FORTH", "icon": "icons/forth.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "fox", function() { return fox; });
-const fox = { "symbol": "FOX", "icon": "icons/fox.svg" };
+const fox = { "symbol": "FOX", "icon": "fox.svg" };
 
 
 /***/ }),
@@ -2122,7 +2152,7 @@ const fox = { "symbol": "FOX", "icon": "icons/fox.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "frax", function() { return frax; });
-const frax = { "symbol": "FRAX", "icon": "icons/frax.svg" };
+const frax = { "symbol": "FRAX", "icon": "frax.svg" };
 
 
 /***/ }),
@@ -2137,7 +2167,7 @@ const frax = { "symbol": "FRAX", "icon": "icons/frax.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "froge", function() { return froge; });
-const froge = { "symbol": "FROGE", "icon": "icons/froge.svg" };
+const froge = { "symbol": "FROGE", "icon": "froge.svg" };
 
 
 /***/ }),
@@ -2152,7 +2182,7 @@ const froge = { "symbol": "FROGE", "icon": "icons/froge.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "front", function() { return front; });
-const front = { "symbol": "FRONT", "icon": "icons/front.svg" };
+const front = { "symbol": "FRONT", "icon": "front.svg" };
 
 
 /***/ }),
@@ -2167,7 +2197,7 @@ const front = { "symbol": "FRONT", "icon": "icons/front.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ftm", function() { return ftm; });
-const ftm = { "symbol": "FTM", "icon": "icons/ftm.svg" };
+const ftm = { "symbol": "FTM", "icon": "ftm.svg" };
 
 
 /***/ }),
@@ -2182,7 +2212,7 @@ const ftm = { "symbol": "FTM", "icon": "icons/ftm.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ftt", function() { return ftt; });
-const ftt = { "symbol": "FTT", "icon": "icons/ftt.svg" };
+const ftt = { "symbol": "FTT", "icon": "ftt.svg" };
 
 
 /***/ }),
@@ -2197,7 +2227,7 @@ const ftt = { "symbol": "FTT", "icon": "icons/ftt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "fuck", function() { return fuck; });
-const fuck = { "symbol": "FUCK", "icon": "icons/fuck.svg" };
+const fuck = { "symbol": "FUCK", "icon": "fuck.svg" };
 
 
 /***/ }),
@@ -2212,7 +2242,7 @@ const fuck = { "symbol": "FUCK", "icon": "icons/fuck.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "fun", function() { return fun; });
-const fun = { "symbol": "FUN", "icon": "icons/fun.svg" };
+const fun = { "symbol": "FUN", "icon": "fun.svg" };
 
 
 /***/ }),
@@ -2227,7 +2257,7 @@ const fun = { "symbol": "FUN", "icon": "icons/fun.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "fxs", function() { return fxs; });
-const fxs = { "symbol": "FXS", "icon": "icons/fxs.svg" };
+const fxs = { "symbol": "FXS", "icon": "fxs.svg" };
 
 
 /***/ }),
@@ -2242,7 +2272,7 @@ const fxs = { "symbol": "FXS", "icon": "icons/fxs.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gard", function() { return gard; });
-const gard = { "symbol": "GARD", "icon": "icons/gard.svg" };
+const gard = { "symbol": "GARD", "icon": "gard.svg" };
 
 
 /***/ }),
@@ -2257,7 +2287,7 @@ const gard = { "symbol": "GARD", "icon": "icons/gard.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gcr", function() { return gcr; });
-const gcr = { "symbol": "GCR", "icon": "icons/gcr.svg" };
+const gcr = { "symbol": "GCR", "icon": "gcr.svg" };
 
 
 /***/ }),
@@ -2272,7 +2302,7 @@ const gcr = { "symbol": "GCR", "icon": "icons/gcr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gdao", function() { return gdao; });
-const gdao = { "symbol": "GDAO", "icon": "icons/gdao.svg" };
+const gdao = { "symbol": "GDAO", "icon": "gdao.svg" };
 
 
 /***/ }),
@@ -2287,7 +2317,7 @@ const gdao = { "symbol": "GDAO", "icon": "icons/gdao.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "geo", function() { return geo; });
-const geo = { "symbol": "GEO", "icon": "icons/geo.svg" };
+const geo = { "symbol": "GEO", "icon": "geo.svg" };
 
 
 /***/ }),
@@ -2302,7 +2332,7 @@ const geo = { "symbol": "GEO", "icon": "icons/geo.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "get", function() { return get; });
-const get = { "symbol": "GET", "icon": "icons/get.svg" };
+const get = { "symbol": "GET", "icon": "get.svg" };
 
 
 /***/ }),
@@ -2317,7 +2347,7 @@ const get = { "symbol": "GET", "icon": "icons/get.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "glch", function() { return glch; });
-const glch = { "symbol": "GLCH", "icon": "icons/glch.svg" };
+const glch = { "symbol": "GLCH", "icon": "glch.svg" };
 
 
 /***/ }),
@@ -2332,7 +2362,7 @@ const glch = { "symbol": "GLCH", "icon": "icons/glch.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "glq", function() { return glq; });
-const glq = { "symbol": "GLQ", "icon": "icons/glq.svg" };
+const glq = { "symbol": "GLQ", "icon": "glq.svg" };
 
 
 /***/ }),
@@ -2347,7 +2377,7 @@ const glq = { "symbol": "GLQ", "icon": "icons/glq.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gmee", function() { return gmee; });
-const gmee = { "symbol": "GMEE", "icon": "icons/gmee.svg" };
+const gmee = { "symbol": "GMEE", "icon": "gmee.svg" };
 
 
 /***/ }),
@@ -2362,7 +2392,7 @@ const gmee = { "symbol": "GMEE", "icon": "icons/gmee.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gnbu", function() { return gnbu; });
-const gnbu = { "symbol": "GNBU", "icon": "icons/gnbu.svg" };
+const gnbu = { "symbol": "GNBU", "icon": "gnbu.svg" };
 
 
 /***/ }),
@@ -2377,7 +2407,7 @@ const gnbu = { "symbol": "GNBU", "icon": "icons/gnbu.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gno", function() { return gno; });
-const gno = { "symbol": "GNO", "icon": "icons/gno.svg" };
+const gno = { "symbol": "GNO", "icon": "gno.svg" };
 
 
 /***/ }),
@@ -2392,7 +2422,7 @@ const gno = { "symbol": "GNO", "icon": "icons/gno.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gnt", function() { return gnt; });
-const gnt = { "symbol": "GNT", "icon": "icons/gnt.svg" };
+const gnt = { "symbol": "GNT", "icon": "gnt.svg" };
 
 
 /***/ }),
@@ -2407,7 +2437,7 @@ const gnt = { "symbol": "GNT", "icon": "icons/gnt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "govi", function() { return govi; });
-const govi = { "symbol": "GOVI", "icon": "icons/govi.svg" };
+const govi = { "symbol": "GOVI", "icon": "govi.svg" };
 
 
 /***/ }),
@@ -2422,7 +2452,7 @@ const govi = { "symbol": "GOVI", "icon": "icons/govi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "grt", function() { return grt; });
-const grt = { "symbol": "GRT", "icon": "icons/grt.svg" };
+const grt = { "symbol": "GRT", "icon": "grt.svg" };
 
 
 /***/ }),
@@ -2437,7 +2467,7 @@ const grt = { "symbol": "GRT", "icon": "icons/grt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gto", function() { return gto; });
-const gto = { "symbol": "GTO", "icon": "icons/gto.svg" };
+const gto = { "symbol": "GTO", "icon": "gto.svg" };
 
 
 /***/ }),
@@ -2452,7 +2482,7 @@ const gto = { "symbol": "GTO", "icon": "icons/gto.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "gusd", function() { return gusd; });
-const gusd = { "symbol": "GUSD", "icon": "icons/gusd.svg" };
+const gusd = { "symbol": "GUSD", "icon": "gusd.svg" };
 
 
 /***/ }),
@@ -2467,7 +2497,7 @@ const gusd = { "symbol": "GUSD", "icon": "icons/gusd.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hakka", function() { return hakka; });
-const hakka = { "symbol": "HAKKA", "icon": "icons/hakka.svg" };
+const hakka = { "symbol": "HAKKA", "icon": "hakka.svg" };
 
 
 /***/ }),
@@ -2482,7 +2512,7 @@ const hakka = { "symbol": "HAKKA", "icon": "icons/hakka.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hex", function() { return hex; });
-const hex = { "symbol": "HEX", "icon": "icons/hex.svg" };
+const hex = { "symbol": "HEX", "icon": "hex.svg" };
 
 
 /***/ }),
@@ -2497,7 +2527,7 @@ const hex = { "symbol": "HEX", "icon": "icons/hex.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hny", function() { return hny; });
-const hny = { "symbol": "HNY", "icon": "icons/hny.svg" };
+const hny = { "symbol": "HNY", "icon": "hny.svg" };
 
 
 /***/ }),
@@ -2512,7 +2542,7 @@ const hny = { "symbol": "HNY", "icon": "icons/hny.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hoge", function() { return hoge; });
-const hoge = { "symbol": "HOGE", "icon": "icons/hoge.svg" };
+const hoge = { "symbol": "HOGE", "icon": "hoge.svg" };
 
 
 /***/ }),
@@ -2527,7 +2557,7 @@ const hoge = { "symbol": "HOGE", "icon": "icons/hoge.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hopr", function() { return hopr; });
-const hopr = { "symbol": "HOPR", "icon": "icons/hopr.svg" };
+const hopr = { "symbol": "HOPR", "icon": "hopr.svg" };
 
 
 /***/ }),
@@ -2542,7 +2572,7 @@ const hopr = { "symbol": "HOPR", "icon": "icons/hopr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hot", function() { return hot; });
-const hot = { "symbol": "HOT", "icon": "icons/hot.svg" };
+const hot = { "symbol": "HOT", "icon": "hot.svg" };
 
 
 /***/ }),
@@ -2557,7 +2587,7 @@ const hot = { "symbol": "HOT", "icon": "icons/hot.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ht", function() { return ht; });
-const ht = { "symbol": "HT", "icon": "icons/ht.svg" };
+const ht = { "symbol": "HT", "icon": "ht.svg" };
 
 
 /***/ }),
@@ -2572,7 +2602,7 @@ const ht = { "symbol": "HT", "icon": "icons/ht.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hxn", function() { return hxn; });
-const hxn = { "symbol": "HXN", "icon": "icons/hxn.svg" };
+const hxn = { "symbol": "HXN", "icon": "hxn.svg" };
 
 
 /***/ }),
@@ -2587,7 +2617,7 @@ const hxn = { "symbol": "HXN", "icon": "icons/hxn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hydro", function() { return hydro; });
-const hydro = { "symbol": "HYDRO", "icon": "icons/hydro.svg" };
+const hydro = { "symbol": "HYDRO", "icon": "hydro.svg" };
 
 
 /***/ }),
@@ -2602,7 +2632,7 @@ const hydro = { "symbol": "HYDRO", "icon": "icons/hydro.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ibbtc", function() { return ibbtc; });
-const ibbtc = { "symbol": "IBBTC", "icon": "icons/ibbtc.svg" };
+const ibbtc = { "symbol": "IBBTC", "icon": "ibbtc.svg" };
 
 
 /***/ }),
@@ -2617,7 +2647,7 @@ const ibbtc = { "symbol": "IBBTC", "icon": "icons/ibbtc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ice", function() { return ice; });
-const ice = { "symbol": "ICE", "icon": "icons/ice.svg" };
+const ice = { "symbol": "ICE", "icon": "ice.svg" };
 
 
 /***/ }),
@@ -2632,7 +2662,7 @@ const ice = { "symbol": "ICE", "icon": "icons/ice.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "icx", function() { return icx; });
-const icx = { "symbol": "ICX", "icon": "icons/icx.svg" };
+const icx = { "symbol": "ICX", "icon": "icx.svg" };
 
 
 /***/ }),
@@ -2647,7 +2677,7 @@ const icx = { "symbol": "ICX", "icon": "icons/icx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "idle", function() { return idle; });
-const idle = { "symbol": "IDLE", "icon": "icons/idle.svg" };
+const idle = { "symbol": "IDLE", "icon": "idle.svg" };
 
 
 /***/ }),
@@ -2662,7 +2692,7 @@ const idle = { "symbol": "IDLE", "icon": "icons/idle.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ifarm", function() { return ifarm; });
-const ifarm = { "symbol": "IFARM", "icon": "icons/ifarm.svg" };
+const ifarm = { "symbol": "IFARM", "icon": "ifarm.svg" };
 
 
 /***/ }),
@@ -2677,7 +2707,7 @@ const ifarm = { "symbol": "IFARM", "icon": "icons/ifarm.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ifund", function() { return ifund; });
-const ifund = { "symbol": "IFUND", "icon": "icons/ifund.svg" };
+const ifund = { "symbol": "IFUND", "icon": "ifund.svg" };
 
 
 /***/ }),
@@ -2692,7 +2722,7 @@ const ifund = { "symbol": "IFUND", "icon": "icons/ifund.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "igg", function() { return igg; });
-const igg = { "symbol": "IGG", "icon": "icons/igg.svg" };
+const igg = { "symbol": "IGG", "icon": "igg.svg" };
 
 
 /***/ }),
@@ -2701,7 +2731,7 @@ const igg = { "symbol": "IGG", "icon": "icons/igg.svg" };
 /*!************************!*\
   !*** ./build/index.ts ***!
   \************************/
-/*! exports provided: $anrx, zeroxbtc, zeroxmr, one337, three00, aave, ac, acbtc, add, adx, ae, aeth, aga, aion, aioz, akro, akt, alcx, aleph, aloha, amp, ankr, ardu, armor, atri, audio, aws, axi, axs, bab, badger, bal, band, bao, basv2, bat, bcm, bepro, bfly, bid, bix, bles, blue, bmi, bnb, bnt, bnty, bond1, bond, bondly, bribe, bs1, btc2xFli, btm, btse, btu, btzc, buidl, busd, byn, bzn, card, cards, cc10, ccio, cel, cell, celo, cfi, cgg, chsb, chz, cls, cmt, coin, comp, conv, cor, crv, cti, ctsi, ctxc, cum, cvp1, cvp, dafi, dai, dam, dao, daofi, dark, dcg, dcn, dec, defi, defi5, degen, dep, dev, dex, dfyn, dg, dht, digg, dmt, doki, don, dov, dpi, dpr, drc, drk, dsla, dust, easy2, eld, elf, eng, enj, epan, equad, ern, ersdl, eth, etha, ethix, ethos, eurs, ewtb, exrd, ez, fcl, fgh, flux, force, forth, fox, frax, froge, front, ftm, ftt, fuck, fun, fxs, gard, gcr, gdao, geo, get, glch, glq, gmee, gnbu, gno, gnt, govi, grt, gto, gusd, hakka, hex, hny, hoge, hopr, hot, ht, hxn, hydro, ibbtc, ice, icx, idle, ifarm, ifund, igg, inj, inv, inxt, iost, iotx, iq, isla, isp, jpyc, jrt, kai, karma, keep, kin, kit, kiwi, knc, koin1, koin, kp3r, ktn, kyl, ladz, layer, lcx, lend, leo, link, lit, lkr, loom, lpl, lpool, lpt, lrc, lsv, lto, luna, maker, mana, maps, matic, mbc, mbonk, mcb, mco, mee, mega, meme, mlink, mne, moar, mocean, mod, mofi, mona, mph, mpond, mrph, mtsla, mtv, muni, musdc, mvi, myfi, myst, nanj, nas, nbu, ncr, ndx, nex, nftp, nftx, niox, noia, nord1, nord, npx, npxs, nug, nuls, oft, ogn, oltc, om, omg, omniunit, onx, opium, opu, orbs, paint, pan, par, pass, paxg, pay, penky, perp, pickle, pinakion, pkf, play, plot, plu, pmon, pnode, pols, polven, poly, pool, pop, power, powr, ppblz, ppt, pro, prq, pteria, pyr, qash, quick, rage, ramp, rari, razor, rbc, rcc, ren, rendoge, rep, rfox, rfuel, rhoc, rlc, rndr, rocks, room, route, rpl, rtk, safeearth, sake, sale, sand, sanshu, santa, sdt, senpai, sent, seth2, sgt, shib, shibco, sho, shopx, snow, snt, snx, soar, song, spi, spn, srat, stak, stars, storm, str, sub, superFarm, superbid, sushi, swap, swise, sx, sxp, sync, tap, tbtc, tcap, tel, thera, theta, three, tidal, torn, tower, trb, trdl, trnd, truebit, trx, tusd, tvk, txl, ubi, ubt, udoki, ufr, uft, ult, umbr, umx, uncx, uni, unl, unn, usdc, usdk, usdn, usdt, vee, ven, veri, vidya, vifi, vision, visr, vox, waif, wax, wbtc1, wbtc, wcelo, weth, wg0, whale, wise, wnxm, woo, woofy, wpr, wrx, wsta, wtc, wwgr, xed, xhdx, xor, xrge, xtk, yeld, yfDai, yfi, yfii, ygy, yld, yop, zefu, zil, zpr, zrx, zut, dentaCoin, inst, kncl, peri, default */
+/*! exports provided: $anrx, zeroxbtc, zeroxmr, one337, three00, aave, ac, acbtc, add, adx, ae, aeth, aga, aion, aioz, akro, akt, alcx, aleph, aloha, amp, ankr, ardu, armor, atri, audio, aws, axi, axs, bab, badger, bal, band, bao, basv2, bat, bcm, bepro, bfly, bid, bix, bles, blue, bmi, bnb, bnt, bnty, bond1, bond, bondly, bribe, bs1, btc2xFli, btm, btse, btu, btzc, buidl, busd, byn, bzn, card, cards, cc10, ccio, cel, cell, celo, cfi, cgg, chsb, chz, cls, cmt, coin, comp, conv, cor, crv, cti, ctsi, ctxc, cum, cvp1, cvp, dafi, dai, dam, dao, daofi, dark, dcg, dcn, dec, defi, defi5, degen, dep, dev, dex, dfyn, dg, dht, digg, dmt, doki, don, dov, dpi, dpr, drc, drk, dsla, dust, easy2, eld, elf, eng, enj, epan, equad, ern, ersdl, eth, etha, ethix, ethos, eurs, ewtb, exrd, ez, fcl, fgh, flux, force, forth, fox, frax, froge, front, ftm, ftt, fuck, fun, fxs, gard, gcr, gdao, geo, get, glch, glq, gmee, gnbu, gno, gnt, govi, grt, gto, gusd, hakka, hex, hny, hoge, hopr, hot, ht, hxn, hydro, ibbtc, ice, icx, idle, ifarm, ifund, igg, inj, inv, inxt, iost, iotx, iq, isla, isp, jpyc, jrt, kai, karma, keep, kin, kit, kiwi, knc, koin1, koin, kp3r, ktn, kyl, ladz, layer, lcx, lend, leo, link, lit, lkr, loom, lpl, lpool, lpt, lrc, lsv, lto, luna, maker, mana, maps, matic, mbc, mbonk, mcb, mco, mee, mega, meme, mlink, mne, moar, mocean, mod, mofi, mona, mph, mpond, mrph, mtsla, mtv, muni, musdc, mvi, myfi, myst, nanj, nas, nbu, ncr, ndx, nex, nftp, nftx, niox, noia, nord1, nord, npx, npxs, nug, nuls, oft, ogn, oltc, om, omg, omniunit, onx, opium, opu, orbs, paint, pan, par, pass, paxg, pay, penky, perp, pickle, pinakion, pkf, play, plot, plu, pmon, pnode, pols, polven, poly, pool, pop, power, powr, ppblz, ppt, pro, prq, pteria, pyr, qash, quick, rage, ramp, rari, razor, rbc, rcc, ren, rendoge, rep, rfox, rfuel, rhoc, rlc, rndr, rocks, room, route, rpl, rtk, safeearth, sake, sale, sand, sanshu, santa, sdt, senpai, sent, seth2, sgt, shib, shibco, sho, shopx, snow, snt, snx, soar, song, spi, spn, srat, stak, stars, storm, str, sub, superFarm, superbid, sushi, swap, swise, sx, sxp, sync, tap, tbtc, tcap, tel, thera, theta, three, tidal, torn, tower, trb, trdl, trnd, truebit, trx, tusd, tvk, txl, ubi, ubt, udoki, ufr, uft, ult, umbr, umx, uncx, uni, unl, unn, usdc, usdk, usdn, usdt, vee, ven, veri, vidya, vifi, vision, visr, vox, waif, wax, wbtc1, wbtc, wcelo, weth, wg0, whale, wise, wnxm, woo, woofy, wpr, wrx, wsta, wtc, wwgr, xed, xhdx, xor, xrge, xtk, yeld, yfDai, yfi, yfii, ygy, yld, yop, zefu, zil, zpr, zrx, zut, dentaCoin, inst, kncl, peri, kton, mooned, ooe, ring, rvf, sca, arth, arthx, maha, trade, umber, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4008,18 +4038,40 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _peri__WEBPACK_IMPORTED_MODULE_433__ = __webpack_require__(/*! ./peri */ "./build/peri.ts");
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "peri", function() { return _peri__WEBPACK_IMPORTED_MODULE_433__["peri"]; });
 
-/* harmony import */ var _all__WEBPACK_IMPORTED_MODULE_434__ = __webpack_require__(/*! ./all */ "./build/all.ts");
+/* harmony import */ var _kton__WEBPACK_IMPORTED_MODULE_434__ = __webpack_require__(/*! ./kton */ "./build/kton.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "kton", function() { return _kton__WEBPACK_IMPORTED_MODULE_434__["kton"]; });
 
+/* harmony import */ var _mooned__WEBPACK_IMPORTED_MODULE_435__ = __webpack_require__(/*! ./mooned */ "./build/mooned.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "mooned", function() { return _mooned__WEBPACK_IMPORTED_MODULE_435__["mooned"]; });
 
+/* harmony import */ var _ooe__WEBPACK_IMPORTED_MODULE_436__ = __webpack_require__(/*! ./ooe */ "./build/ooe.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "ooe", function() { return _ooe__WEBPACK_IMPORTED_MODULE_436__["ooe"]; });
 
+/* harmony import */ var _ring__WEBPACK_IMPORTED_MODULE_437__ = __webpack_require__(/*! ./ring */ "./build/ring.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "ring", function() { return _ring__WEBPACK_IMPORTED_MODULE_437__["ring"]; });
 
+/* harmony import */ var _rvf__WEBPACK_IMPORTED_MODULE_438__ = __webpack_require__(/*! ./rvf */ "./build/rvf.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "rvf", function() { return _rvf__WEBPACK_IMPORTED_MODULE_438__["rvf"]; });
 
+/* harmony import */ var _sca__WEBPACK_IMPORTED_MODULE_439__ = __webpack_require__(/*! ./sca */ "./build/sca.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "sca", function() { return _sca__WEBPACK_IMPORTED_MODULE_439__["sca"]; });
 
+/* harmony import */ var _arth__WEBPACK_IMPORTED_MODULE_440__ = __webpack_require__(/*! ./arth */ "./build/arth.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "arth", function() { return _arth__WEBPACK_IMPORTED_MODULE_440__["arth"]; });
 
+/* harmony import */ var _arthx__WEBPACK_IMPORTED_MODULE_441__ = __webpack_require__(/*! ./arthx */ "./build/arthx.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "arthx", function() { return _arthx__WEBPACK_IMPORTED_MODULE_441__["arthx"]; });
 
+/* harmony import */ var _maha__WEBPACK_IMPORTED_MODULE_442__ = __webpack_require__(/*! ./maha */ "./build/maha.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "maha", function() { return _maha__WEBPACK_IMPORTED_MODULE_442__["maha"]; });
 
+/* harmony import */ var _trade__WEBPACK_IMPORTED_MODULE_443__ = __webpack_require__(/*! ./trade */ "./build/trade.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "trade", function() { return _trade__WEBPACK_IMPORTED_MODULE_443__["trade"]; });
 
+/* harmony import */ var _umber__WEBPACK_IMPORTED_MODULE_444__ = __webpack_require__(/*! ./umber */ "./build/umber.ts");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "umber", function() { return _umber__WEBPACK_IMPORTED_MODULE_444__["umber"]; });
 
+/* harmony import */ var _all__WEBPACK_IMPORTED_MODULE_445__ = __webpack_require__(/*! ./all */ "./build/all.ts");
 
 
 
@@ -4444,7 +4496,29 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-/* harmony default export */ __webpack_exports__["default"] = (_all__WEBPACK_IMPORTED_MODULE_434__["list"]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* harmony default export */ __webpack_exports__["default"] = (_all__WEBPACK_IMPORTED_MODULE_445__["list"]);
 
 
 /***/ }),
@@ -4459,7 +4533,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "inj", function() { return inj; });
-const inj = { "symbol": "INJ", "icon": "icons/inj.svg" };
+const inj = { "symbol": "INJ", "icon": "inj.svg" };
 
 
 /***/ }),
@@ -4474,7 +4548,7 @@ const inj = { "symbol": "INJ", "icon": "icons/inj.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "inst", function() { return inst; });
-const inst = { "symbol": "INST", "icon": "icons/inst.svg" };
+const inst = { "symbol": "INST", "icon": "inst.svg" };
 
 
 /***/ }),
@@ -4489,7 +4563,7 @@ const inst = { "symbol": "INST", "icon": "icons/inst.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "inv", function() { return inv; });
-const inv = { "symbol": "INV", "icon": "icons/inv.svg" };
+const inv = { "symbol": "INV", "icon": "inv.svg" };
 
 
 /***/ }),
@@ -4504,7 +4578,7 @@ const inv = { "symbol": "INV", "icon": "icons/inv.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "inxt", function() { return inxt; });
-const inxt = { "symbol": "INXT", "icon": "icons/inxt.svg" };
+const inxt = { "symbol": "INXT", "icon": "inxt.svg" };
 
 
 /***/ }),
@@ -4519,7 +4593,7 @@ const inxt = { "symbol": "INXT", "icon": "icons/inxt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "iost", function() { return iost; });
-const iost = { "symbol": "IOST", "icon": "icons/iost.svg" };
+const iost = { "symbol": "IOST", "icon": "iost.svg" };
 
 
 /***/ }),
@@ -4534,7 +4608,7 @@ const iost = { "symbol": "IOST", "icon": "icons/iost.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "iotx", function() { return iotx; });
-const iotx = { "symbol": "IOTX", "icon": "icons/iotx.svg" };
+const iotx = { "symbol": "IOTX", "icon": "iotx.svg" };
 
 
 /***/ }),
@@ -4549,7 +4623,7 @@ const iotx = { "symbol": "IOTX", "icon": "icons/iotx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "iq", function() { return iq; });
-const iq = { "symbol": "IQ", "icon": "icons/iq.svg" };
+const iq = { "symbol": "IQ", "icon": "iq.svg" };
 
 
 /***/ }),
@@ -4564,7 +4638,7 @@ const iq = { "symbol": "IQ", "icon": "icons/iq.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "isla", function() { return isla; });
-const isla = { "symbol": "ISLA", "icon": "icons/isla.svg" };
+const isla = { "symbol": "ISLA", "icon": "isla.svg" };
 
 
 /***/ }),
@@ -4579,7 +4653,7 @@ const isla = { "symbol": "ISLA", "icon": "icons/isla.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "isp", function() { return isp; });
-const isp = { "symbol": "ISP", "icon": "icons/isp.svg" };
+const isp = { "symbol": "ISP", "icon": "isp.svg" };
 
 
 /***/ }),
@@ -4594,7 +4668,7 @@ const isp = { "symbol": "ISP", "icon": "icons/isp.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "jpyc", function() { return jpyc; });
-const jpyc = { "symbol": "JPYC", "icon": "icons/jpyc.svg" };
+const jpyc = { "symbol": "JPYC", "icon": "jpyc.svg" };
 
 
 /***/ }),
@@ -4609,7 +4683,7 @@ const jpyc = { "symbol": "JPYC", "icon": "icons/jpyc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "jrt", function() { return jrt; });
-const jrt = { "symbol": "JRT", "icon": "icons/jrt.svg" };
+const jrt = { "symbol": "JRT", "icon": "jrt.svg" };
 
 
 /***/ }),
@@ -4624,7 +4698,7 @@ const jrt = { "symbol": "JRT", "icon": "icons/jrt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "kai", function() { return kai; });
-const kai = { "symbol": "KAI", "icon": "icons/kai.svg" };
+const kai = { "symbol": "KAI", "icon": "kai.svg" };
 
 
 /***/ }),
@@ -4639,7 +4713,7 @@ const kai = { "symbol": "KAI", "icon": "icons/kai.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "karma", function() { return karma; });
-const karma = { "symbol": "KARMA", "icon": "icons/karma.svg" };
+const karma = { "symbol": "KARMA", "icon": "karma.svg" };
 
 
 /***/ }),
@@ -4654,7 +4728,7 @@ const karma = { "symbol": "KARMA", "icon": "icons/karma.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "keep", function() { return keep; });
-const keep = { "symbol": "KEEP", "icon": "icons/keep.svg" };
+const keep = { "symbol": "KEEP", "icon": "keep.svg" };
 
 
 /***/ }),
@@ -4669,7 +4743,7 @@ const keep = { "symbol": "KEEP", "icon": "icons/keep.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "kin", function() { return kin; });
-const kin = { "symbol": "KIN", "icon": "icons/kin.svg" };
+const kin = { "symbol": "KIN", "icon": "kin.svg" };
 
 
 /***/ }),
@@ -4684,7 +4758,7 @@ const kin = { "symbol": "KIN", "icon": "icons/kin.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "kit", function() { return kit; });
-const kit = { "symbol": "KIT", "icon": "icons/kit.svg" };
+const kit = { "symbol": "KIT", "icon": "kit.svg" };
 
 
 /***/ }),
@@ -4699,7 +4773,7 @@ const kit = { "symbol": "KIT", "icon": "icons/kit.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "kiwi", function() { return kiwi; });
-const kiwi = { "symbol": "KIWI", "icon": "icons/kiwi.svg" };
+const kiwi = { "symbol": "KIWI", "icon": "kiwi.svg" };
 
 
 /***/ }),
@@ -4714,7 +4788,7 @@ const kiwi = { "symbol": "KIWI", "icon": "icons/kiwi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "knc", function() { return knc; });
-const knc = { "symbol": "KNC", "icon": "icons/knc.svg" };
+const knc = { "symbol": "KNC", "icon": "knc.svg" };
 
 
 /***/ }),
@@ -4729,7 +4803,7 @@ const knc = { "symbol": "KNC", "icon": "icons/knc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "kncl", function() { return kncl; });
-const kncl = { "symbol": "KNCL", "icon": "icons/kncl.svg" };
+const kncl = { "symbol": "KNCL", "icon": "kncl.svg" };
 
 
 /***/ }),
@@ -4744,7 +4818,7 @@ const kncl = { "symbol": "KNCL", "icon": "icons/kncl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "koin", function() { return koin; });
-const koin = { "symbol": "KOIN", "icon": "icons/koin.svg" };
+const koin = { "symbol": "KOIN", "icon": "koin.svg" };
 
 
 /***/ }),
@@ -4759,7 +4833,7 @@ const koin = { "symbol": "KOIN", "icon": "icons/koin.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "koin1", function() { return koin1; });
-const koin1 = { "symbol": "KOIN-1", "icon": "icons/koin-1.svg" };
+const koin1 = { "symbol": "KOIN-1", "icon": "koin-1.svg" };
 
 
 /***/ }),
@@ -4774,7 +4848,7 @@ const koin1 = { "symbol": "KOIN-1", "icon": "icons/koin-1.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "kp3r", function() { return kp3r; });
-const kp3r = { "symbol": "KP3R", "icon": "icons/kp3r.svg" };
+const kp3r = { "symbol": "KP3R", "icon": "kp3r.svg" };
 
 
 /***/ }),
@@ -4789,7 +4863,22 @@ const kp3r = { "symbol": "KP3R", "icon": "icons/kp3r.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ktn", function() { return ktn; });
-const ktn = { "symbol": "KTN", "icon": "icons/ktn.svg" };
+const ktn = { "symbol": "KTN", "icon": "ktn.svg" };
+
+
+/***/ }),
+
+/***/ "./build/kton.ts":
+/*!***********************!*\
+  !*** ./build/kton.ts ***!
+  \***********************/
+/*! exports provided: kton */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "kton", function() { return kton; });
+const kton = { "symbol": "KTON", "icon": "kton.svg" };
 
 
 /***/ }),
@@ -4804,7 +4893,7 @@ const ktn = { "symbol": "KTN", "icon": "icons/ktn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "kyl", function() { return kyl; });
-const kyl = { "symbol": "KYL", "icon": "icons/kyl.svg" };
+const kyl = { "symbol": "KYL", "icon": "kyl.svg" };
 
 
 /***/ }),
@@ -4819,7 +4908,7 @@ const kyl = { "symbol": "KYL", "icon": "icons/kyl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ladz", function() { return ladz; });
-const ladz = { "symbol": "LADZ", "icon": "icons/ladz.svg" };
+const ladz = { "symbol": "LADZ", "icon": "ladz.svg" };
 
 
 /***/ }),
@@ -4834,7 +4923,7 @@ const ladz = { "symbol": "LADZ", "icon": "icons/ladz.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "layer", function() { return layer; });
-const layer = { "symbol": "LAYER", "icon": "icons/layer.svg" };
+const layer = { "symbol": "LAYER", "icon": "layer.svg" };
 
 
 /***/ }),
@@ -4849,7 +4938,7 @@ const layer = { "symbol": "LAYER", "icon": "icons/layer.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lcx", function() { return lcx; });
-const lcx = { "symbol": "LCX", "icon": "icons/lcx.svg" };
+const lcx = { "symbol": "LCX", "icon": "lcx.svg" };
 
 
 /***/ }),
@@ -4864,7 +4953,7 @@ const lcx = { "symbol": "LCX", "icon": "icons/lcx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lend", function() { return lend; });
-const lend = { "symbol": "LEND", "icon": "icons/lend.svg" };
+const lend = { "symbol": "LEND", "icon": "lend.svg" };
 
 
 /***/ }),
@@ -4879,7 +4968,7 @@ const lend = { "symbol": "LEND", "icon": "icons/lend.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "leo", function() { return leo; });
-const leo = { "symbol": "LEO", "icon": "icons/leo.svg" };
+const leo = { "symbol": "LEO", "icon": "leo.svg" };
 
 
 /***/ }),
@@ -4894,7 +4983,7 @@ const leo = { "symbol": "LEO", "icon": "icons/leo.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "link", function() { return link; });
-const link = { "symbol": "LINK", "icon": "icons/link.svg" };
+const link = { "symbol": "LINK", "icon": "link.svg" };
 
 
 /***/ }),
@@ -4909,7 +4998,7 @@ const link = { "symbol": "LINK", "icon": "icons/link.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lit", function() { return lit; });
-const lit = { "symbol": "LIT", "icon": "icons/lit.svg" };
+const lit = { "symbol": "LIT", "icon": "lit.svg" };
 
 
 /***/ }),
@@ -4924,7 +5013,7 @@ const lit = { "symbol": "LIT", "icon": "icons/lit.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lkr", function() { return lkr; });
-const lkr = { "symbol": "LKR", "icon": "icons/lkr.svg" };
+const lkr = { "symbol": "LKR", "icon": "lkr.svg" };
 
 
 /***/ }),
@@ -4939,7 +5028,7 @@ const lkr = { "symbol": "LKR", "icon": "icons/lkr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "loom", function() { return loom; });
-const loom = { "symbol": "LOOM", "icon": "icons/loom.svg" };
+const loom = { "symbol": "LOOM", "icon": "loom.svg" };
 
 
 /***/ }),
@@ -4954,7 +5043,7 @@ const loom = { "symbol": "LOOM", "icon": "icons/loom.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lpl", function() { return lpl; });
-const lpl = { "symbol": "LPL", "icon": "icons/lpl.svg" };
+const lpl = { "symbol": "LPL", "icon": "lpl.svg" };
 
 
 /***/ }),
@@ -4969,7 +5058,7 @@ const lpl = { "symbol": "LPL", "icon": "icons/lpl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lpool", function() { return lpool; });
-const lpool = { "symbol": "LPOOL", "icon": "icons/lpool.svg" };
+const lpool = { "symbol": "LPOOL", "icon": "lpool.svg" };
 
 
 /***/ }),
@@ -4984,7 +5073,7 @@ const lpool = { "symbol": "LPOOL", "icon": "icons/lpool.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lpt", function() { return lpt; });
-const lpt = { "symbol": "LPT", "icon": "icons/lpt.svg" };
+const lpt = { "symbol": "LPT", "icon": "lpt.svg" };
 
 
 /***/ }),
@@ -4999,7 +5088,7 @@ const lpt = { "symbol": "LPT", "icon": "icons/lpt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lrc", function() { return lrc; });
-const lrc = { "symbol": "LRC", "icon": "icons/lrc.svg" };
+const lrc = { "symbol": "LRC", "icon": "lrc.svg" };
 
 
 /***/ }),
@@ -5014,7 +5103,7 @@ const lrc = { "symbol": "LRC", "icon": "icons/lrc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lsv", function() { return lsv; });
-const lsv = { "symbol": "LSV", "icon": "icons/lsv.svg" };
+const lsv = { "symbol": "LSV", "icon": "lsv.svg" };
 
 
 /***/ }),
@@ -5029,7 +5118,7 @@ const lsv = { "symbol": "LSV", "icon": "icons/lsv.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "lto", function() { return lto; });
-const lto = { "symbol": "LTO", "icon": "icons/lto.svg" };
+const lto = { "symbol": "LTO", "icon": "lto.svg" };
 
 
 /***/ }),
@@ -5044,7 +5133,22 @@ const lto = { "symbol": "LTO", "icon": "icons/lto.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "luna", function() { return luna; });
-const luna = { "symbol": "LUNA", "icon": "icons/luna.svg" };
+const luna = { "symbol": "LUNA", "icon": "luna.svg" };
+
+
+/***/ }),
+
+/***/ "./build/maha.ts":
+/*!***********************!*\
+  !*** ./build/maha.ts ***!
+  \***********************/
+/*! exports provided: maha */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "maha", function() { return maha; });
+const maha = { "symbol": "MAHA", "icon": "maha.svg" };
 
 
 /***/ }),
@@ -5059,7 +5163,7 @@ const luna = { "symbol": "LUNA", "icon": "icons/luna.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "maker", function() { return maker; });
-const maker = { "symbol": "MAKER", "icon": "icons/maker.svg" };
+const maker = { "symbol": "MAKER", "icon": "maker.svg" };
 
 
 /***/ }),
@@ -5074,7 +5178,7 @@ const maker = { "symbol": "MAKER", "icon": "icons/maker.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mana", function() { return mana; });
-const mana = { "symbol": "MANA", "icon": "icons/mana.svg" };
+const mana = { "symbol": "MANA", "icon": "mana.svg" };
 
 
 /***/ }),
@@ -5089,7 +5193,7 @@ const mana = { "symbol": "MANA", "icon": "icons/mana.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "maps", function() { return maps; });
-const maps = { "symbol": "MAPS", "icon": "icons/maps.svg" };
+const maps = { "symbol": "MAPS", "icon": "maps.svg" };
 
 
 /***/ }),
@@ -5104,7 +5208,7 @@ const maps = { "symbol": "MAPS", "icon": "icons/maps.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "matic", function() { return matic; });
-const matic = { "symbol": "MATIC", "icon": "icons/matic.svg" };
+const matic = { "symbol": "MATIC", "icon": "matic.svg" };
 
 
 /***/ }),
@@ -5119,7 +5223,7 @@ const matic = { "symbol": "MATIC", "icon": "icons/matic.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mbc", function() { return mbc; });
-const mbc = { "symbol": "MBC", "icon": "icons/mbc.svg" };
+const mbc = { "symbol": "MBC", "icon": "mbc.svg" };
 
 
 /***/ }),
@@ -5134,7 +5238,7 @@ const mbc = { "symbol": "MBC", "icon": "icons/mbc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mbonk", function() { return mbonk; });
-const mbonk = { "symbol": "MBONK", "icon": "icons/mbonk.svg" };
+const mbonk = { "symbol": "MBONK", "icon": "mbonk.svg" };
 
 
 /***/ }),
@@ -5149,7 +5253,7 @@ const mbonk = { "symbol": "MBONK", "icon": "icons/mbonk.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mcb", function() { return mcb; });
-const mcb = { "symbol": "MCB", "icon": "icons/mcb.svg" };
+const mcb = { "symbol": "MCB", "icon": "mcb.svg" };
 
 
 /***/ }),
@@ -5164,7 +5268,7 @@ const mcb = { "symbol": "MCB", "icon": "icons/mcb.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mco", function() { return mco; });
-const mco = { "symbol": "MCO", "icon": "icons/mco.svg" };
+const mco = { "symbol": "MCO", "icon": "mco.svg" };
 
 
 /***/ }),
@@ -5179,7 +5283,7 @@ const mco = { "symbol": "MCO", "icon": "icons/mco.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mee", function() { return mee; });
-const mee = { "symbol": "MEE", "icon": "icons/mee.svg" };
+const mee = { "symbol": "MEE", "icon": "mee.svg" };
 
 
 /***/ }),
@@ -5194,7 +5298,7 @@ const mee = { "symbol": "MEE", "icon": "icons/mee.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mega", function() { return mega; });
-const mega = { "symbol": "MEGA", "icon": "icons/mega.svg" };
+const mega = { "symbol": "MEGA", "icon": "mega.svg" };
 
 
 /***/ }),
@@ -5209,7 +5313,7 @@ const mega = { "symbol": "MEGA", "icon": "icons/mega.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "meme", function() { return meme; });
-const meme = { "symbol": "MEME", "icon": "icons/meme.svg" };
+const meme = { "symbol": "MEME", "icon": "meme.svg" };
 
 
 /***/ }),
@@ -5224,7 +5328,7 @@ const meme = { "symbol": "MEME", "icon": "icons/meme.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mlink", function() { return mlink; });
-const mlink = { "symbol": "MLINK", "icon": "icons/mlink.svg" };
+const mlink = { "symbol": "MLINK", "icon": "mlink.svg" };
 
 
 /***/ }),
@@ -5239,7 +5343,7 @@ const mlink = { "symbol": "MLINK", "icon": "icons/mlink.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mne", function() { return mne; });
-const mne = { "symbol": "MNE", "icon": "icons/mne.svg" };
+const mne = { "symbol": "MNE", "icon": "mne.svg" };
 
 
 /***/ }),
@@ -5254,7 +5358,7 @@ const mne = { "symbol": "MNE", "icon": "icons/mne.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "moar", function() { return moar; });
-const moar = { "symbol": "MOAR", "icon": "icons/moar.svg" };
+const moar = { "symbol": "MOAR", "icon": "moar.svg" };
 
 
 /***/ }),
@@ -5269,7 +5373,7 @@ const moar = { "symbol": "MOAR", "icon": "icons/moar.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mocean", function() { return mocean; });
-const mocean = { "symbol": "MOCEAN", "icon": "icons/mocean.svg" };
+const mocean = { "symbol": "MOCEAN", "icon": "mocean.svg" };
 
 
 /***/ }),
@@ -5284,7 +5388,7 @@ const mocean = { "symbol": "MOCEAN", "icon": "icons/mocean.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mod", function() { return mod; });
-const mod = { "symbol": "MOD", "icon": "icons/mod.svg" };
+const mod = { "symbol": "MOD", "icon": "mod.svg" };
 
 
 /***/ }),
@@ -5299,7 +5403,7 @@ const mod = { "symbol": "MOD", "icon": "icons/mod.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mofi", function() { return mofi; });
-const mofi = { "symbol": "MOFI", "icon": "icons/mofi.svg" };
+const mofi = { "symbol": "MOFI", "icon": "mofi.svg" };
 
 
 /***/ }),
@@ -5314,7 +5418,22 @@ const mofi = { "symbol": "MOFI", "icon": "icons/mofi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mona", function() { return mona; });
-const mona = { "symbol": "MONA", "icon": "icons/mona.svg" };
+const mona = { "symbol": "MONA", "icon": "mona.svg" };
+
+
+/***/ }),
+
+/***/ "./build/mooned.ts":
+/*!*************************!*\
+  !*** ./build/mooned.ts ***!
+  \*************************/
+/*! exports provided: mooned */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mooned", function() { return mooned; });
+const mooned = { "symbol": "MOONED", "icon": "mooned.svg" };
 
 
 /***/ }),
@@ -5329,7 +5448,7 @@ const mona = { "symbol": "MONA", "icon": "icons/mona.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mph", function() { return mph; });
-const mph = { "symbol": "MPH", "icon": "icons/mph.svg" };
+const mph = { "symbol": "MPH", "icon": "mph.svg" };
 
 
 /***/ }),
@@ -5344,7 +5463,7 @@ const mph = { "symbol": "MPH", "icon": "icons/mph.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mpond", function() { return mpond; });
-const mpond = { "symbol": "MPOND", "icon": "icons/mpond.svg" };
+const mpond = { "symbol": "MPOND", "icon": "mpond.svg" };
 
 
 /***/ }),
@@ -5359,7 +5478,7 @@ const mpond = { "symbol": "MPOND", "icon": "icons/mpond.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mrph", function() { return mrph; });
-const mrph = { "symbol": "MRPH", "icon": "icons/mrph.svg" };
+const mrph = { "symbol": "MRPH", "icon": "mrph.svg" };
 
 
 /***/ }),
@@ -5374,7 +5493,7 @@ const mrph = { "symbol": "MRPH", "icon": "icons/mrph.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mtsla", function() { return mtsla; });
-const mtsla = { "symbol": "MTSLA", "icon": "icons/mtsla.svg" };
+const mtsla = { "symbol": "MTSLA", "icon": "mtsla.svg" };
 
 
 /***/ }),
@@ -5389,7 +5508,7 @@ const mtsla = { "symbol": "MTSLA", "icon": "icons/mtsla.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mtv", function() { return mtv; });
-const mtv = { "symbol": "MTV", "icon": "icons/mtv.svg" };
+const mtv = { "symbol": "MTV", "icon": "mtv.svg" };
 
 
 /***/ }),
@@ -5404,7 +5523,7 @@ const mtv = { "symbol": "MTV", "icon": "icons/mtv.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "muni", function() { return muni; });
-const muni = { "symbol": "MUNI", "icon": "icons/muni.svg" };
+const muni = { "symbol": "MUNI", "icon": "muni.svg" };
 
 
 /***/ }),
@@ -5419,7 +5538,7 @@ const muni = { "symbol": "MUNI", "icon": "icons/muni.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "musdc", function() { return musdc; });
-const musdc = { "symbol": "MUSDC", "icon": "icons/musdc.svg" };
+const musdc = { "symbol": "MUSDC", "icon": "musdc.svg" };
 
 
 /***/ }),
@@ -5434,7 +5553,7 @@ const musdc = { "symbol": "MUSDC", "icon": "icons/musdc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mvi", function() { return mvi; });
-const mvi = { "symbol": "MVI", "icon": "icons/mvi.svg" };
+const mvi = { "symbol": "MVI", "icon": "mvi.svg" };
 
 
 /***/ }),
@@ -5449,7 +5568,7 @@ const mvi = { "symbol": "MVI", "icon": "icons/mvi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "myfi", function() { return myfi; });
-const myfi = { "symbol": "MYFI", "icon": "icons/myfi.svg" };
+const myfi = { "symbol": "MYFI", "icon": "myfi.svg" };
 
 
 /***/ }),
@@ -5464,7 +5583,7 @@ const myfi = { "symbol": "MYFI", "icon": "icons/myfi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "myst", function() { return myst; });
-const myst = { "symbol": "MYST", "icon": "icons/myst.svg" };
+const myst = { "symbol": "MYST", "icon": "myst.svg" };
 
 
 /***/ }),
@@ -5479,7 +5598,7 @@ const myst = { "symbol": "MYST", "icon": "icons/myst.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nanj", function() { return nanj; });
-const nanj = { "symbol": "NANJ", "icon": "icons/nanj.svg" };
+const nanj = { "symbol": "NANJ", "icon": "nanj.svg" };
 
 
 /***/ }),
@@ -5494,7 +5613,7 @@ const nanj = { "symbol": "NANJ", "icon": "icons/nanj.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nas", function() { return nas; });
-const nas = { "symbol": "NAS", "icon": "icons/nas.svg" };
+const nas = { "symbol": "NAS", "icon": "nas.svg" };
 
 
 /***/ }),
@@ -5509,7 +5628,7 @@ const nas = { "symbol": "NAS", "icon": "icons/nas.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nbu", function() { return nbu; });
-const nbu = { "symbol": "NBU", "icon": "icons/nbu.svg" };
+const nbu = { "symbol": "NBU", "icon": "nbu.svg" };
 
 
 /***/ }),
@@ -5524,7 +5643,7 @@ const nbu = { "symbol": "NBU", "icon": "icons/nbu.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ncr", function() { return ncr; });
-const ncr = { "symbol": "NCR", "icon": "icons/ncr.svg" };
+const ncr = { "symbol": "NCR", "icon": "ncr.svg" };
 
 
 /***/ }),
@@ -5539,7 +5658,7 @@ const ncr = { "symbol": "NCR", "icon": "icons/ncr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ndx", function() { return ndx; });
-const ndx = { "symbol": "NDX", "icon": "icons/ndx.svg" };
+const ndx = { "symbol": "NDX", "icon": "ndx.svg" };
 
 
 /***/ }),
@@ -5554,7 +5673,7 @@ const ndx = { "symbol": "NDX", "icon": "icons/ndx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nex", function() { return nex; });
-const nex = { "symbol": "NEX", "icon": "icons/nex.svg" };
+const nex = { "symbol": "NEX", "icon": "nex.svg" };
 
 
 /***/ }),
@@ -5569,7 +5688,7 @@ const nex = { "symbol": "NEX", "icon": "icons/nex.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nftp", function() { return nftp; });
-const nftp = { "symbol": "NFTP", "icon": "icons/nftp.svg" };
+const nftp = { "symbol": "NFTP", "icon": "nftp.svg" };
 
 
 /***/ }),
@@ -5584,7 +5703,7 @@ const nftp = { "symbol": "NFTP", "icon": "icons/nftp.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nftx", function() { return nftx; });
-const nftx = { "symbol": "NFTX", "icon": "icons/nftx.svg" };
+const nftx = { "symbol": "NFTX", "icon": "nftx.svg" };
 
 
 /***/ }),
@@ -5599,7 +5718,7 @@ const nftx = { "symbol": "NFTX", "icon": "icons/nftx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "niox", function() { return niox; });
-const niox = { "symbol": "NIOX", "icon": "icons/niox.svg" };
+const niox = { "symbol": "NIOX", "icon": "niox.svg" };
 
 
 /***/ }),
@@ -5614,7 +5733,7 @@ const niox = { "symbol": "NIOX", "icon": "icons/niox.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "noia", function() { return noia; });
-const noia = { "symbol": "NOIA", "icon": "icons/noia.svg" };
+const noia = { "symbol": "NOIA", "icon": "noia.svg" };
 
 
 /***/ }),
@@ -5629,7 +5748,7 @@ const noia = { "symbol": "NOIA", "icon": "icons/noia.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nord", function() { return nord; });
-const nord = { "symbol": "NORD", "icon": "icons/nord.svg" };
+const nord = { "symbol": "NORD", "icon": "nord.svg" };
 
 
 /***/ }),
@@ -5644,7 +5763,7 @@ const nord = { "symbol": "NORD", "icon": "icons/nord.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nord1", function() { return nord1; });
-const nord1 = { "symbol": "NORD-1", "icon": "icons/nord-1.svg" };
+const nord1 = { "symbol": "NORD-1", "icon": "nord-1.svg" };
 
 
 /***/ }),
@@ -5659,7 +5778,7 @@ const nord1 = { "symbol": "NORD-1", "icon": "icons/nord-1.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "npx", function() { return npx; });
-const npx = { "symbol": "NPX", "icon": "icons/npx.svg" };
+const npx = { "symbol": "NPX", "icon": "npx.svg" };
 
 
 /***/ }),
@@ -5674,7 +5793,7 @@ const npx = { "symbol": "NPX", "icon": "icons/npx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "npxs", function() { return npxs; });
-const npxs = { "symbol": "NPXS", "icon": "icons/npxs.svg" };
+const npxs = { "symbol": "NPXS", "icon": "npxs.svg" };
 
 
 /***/ }),
@@ -5689,7 +5808,7 @@ const npxs = { "symbol": "NPXS", "icon": "icons/npxs.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nug", function() { return nug; });
-const nug = { "symbol": "NUG", "icon": "icons/nug.svg" };
+const nug = { "symbol": "NUG", "icon": "nug.svg" };
 
 
 /***/ }),
@@ -5704,7 +5823,7 @@ const nug = { "symbol": "NUG", "icon": "icons/nug.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "nuls", function() { return nuls; });
-const nuls = { "symbol": "NULS", "icon": "icons/nuls.svg" };
+const nuls = { "symbol": "NULS", "icon": "nuls.svg" };
 
 
 /***/ }),
@@ -5719,7 +5838,7 @@ const nuls = { "symbol": "NULS", "icon": "icons/nuls.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "oft", function() { return oft; });
-const oft = { "symbol": "OFT", "icon": "icons/oft.svg" };
+const oft = { "symbol": "OFT", "icon": "oft.svg" };
 
 
 /***/ }),
@@ -5734,7 +5853,7 @@ const oft = { "symbol": "OFT", "icon": "icons/oft.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ogn", function() { return ogn; });
-const ogn = { "symbol": "OGN", "icon": "icons/ogn.svg" };
+const ogn = { "symbol": "OGN", "icon": "ogn.svg" };
 
 
 /***/ }),
@@ -5749,7 +5868,7 @@ const ogn = { "symbol": "OGN", "icon": "icons/ogn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "oltc", function() { return oltc; });
-const oltc = { "symbol": "OLTC", "icon": "icons/oltc.svg" };
+const oltc = { "symbol": "OLTC", "icon": "oltc.svg" };
 
 
 /***/ }),
@@ -5764,7 +5883,7 @@ const oltc = { "symbol": "OLTC", "icon": "icons/oltc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "om", function() { return om; });
-const om = { "symbol": "OM", "icon": "icons/om.svg" };
+const om = { "symbol": "OM", "icon": "om.svg" };
 
 
 /***/ }),
@@ -5779,7 +5898,7 @@ const om = { "symbol": "OM", "icon": "icons/om.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "omg", function() { return omg; });
-const omg = { "symbol": "OMG", "icon": "icons/omg.svg" };
+const omg = { "symbol": "OMG", "icon": "omg.svg" };
 
 
 /***/ }),
@@ -5794,7 +5913,7 @@ const omg = { "symbol": "OMG", "icon": "icons/omg.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "omniunit", function() { return omniunit; });
-const omniunit = { "symbol": "OMNIUNIT", "icon": "icons/omniunit.svg" };
+const omniunit = { "symbol": "OMNIUNIT", "icon": "omniunit.svg" };
 
 
 /***/ }),
@@ -5809,7 +5928,7 @@ const omniunit = { "symbol": "OMNIUNIT", "icon": "icons/omniunit.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "one337", function() { return one337; });
-const one337 = { "symbol": "1337", "icon": "icons/1337.svg" };
+const one337 = { "symbol": "1337", "icon": "1337.svg" };
 
 
 /***/ }),
@@ -5824,7 +5943,22 @@ const one337 = { "symbol": "1337", "icon": "icons/1337.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "onx", function() { return onx; });
-const onx = { "symbol": "ONX", "icon": "icons/onx.svg" };
+const onx = { "symbol": "ONX", "icon": "onx.svg" };
+
+
+/***/ }),
+
+/***/ "./build/ooe.ts":
+/*!**********************!*\
+  !*** ./build/ooe.ts ***!
+  \**********************/
+/*! exports provided: ooe */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ooe", function() { return ooe; });
+const ooe = { "symbol": "OOE", "icon": "ooe.svg" };
 
 
 /***/ }),
@@ -5839,7 +5973,7 @@ const onx = { "symbol": "ONX", "icon": "icons/onx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "opium", function() { return opium; });
-const opium = { "symbol": "OPIUM", "icon": "icons/opium.svg" };
+const opium = { "symbol": "OPIUM", "icon": "opium.svg" };
 
 
 /***/ }),
@@ -5854,7 +5988,7 @@ const opium = { "symbol": "OPIUM", "icon": "icons/opium.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "opu", function() { return opu; });
-const opu = { "symbol": "OPU", "icon": "icons/opu.svg" };
+const opu = { "symbol": "OPU", "icon": "opu.svg" };
 
 
 /***/ }),
@@ -5869,7 +6003,7 @@ const opu = { "symbol": "OPU", "icon": "icons/opu.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "orbs", function() { return orbs; });
-const orbs = { "symbol": "ORBS", "icon": "icons/orbs.svg" };
+const orbs = { "symbol": "ORBS", "icon": "orbs.svg" };
 
 
 /***/ }),
@@ -5884,7 +6018,7 @@ const orbs = { "symbol": "ORBS", "icon": "icons/orbs.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "paint", function() { return paint; });
-const paint = { "symbol": "PAINT", "icon": "icons/paint.svg" };
+const paint = { "symbol": "PAINT", "icon": "paint.svg" };
 
 
 /***/ }),
@@ -5899,7 +6033,7 @@ const paint = { "symbol": "PAINT", "icon": "icons/paint.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pan", function() { return pan; });
-const pan = { "symbol": "PAN", "icon": "icons/pan.svg" };
+const pan = { "symbol": "PAN", "icon": "pan.svg" };
 
 
 /***/ }),
@@ -5914,7 +6048,7 @@ const pan = { "symbol": "PAN", "icon": "icons/pan.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "par", function() { return par; });
-const par = { "symbol": "PAR", "icon": "icons/par.svg" };
+const par = { "symbol": "PAR", "icon": "par.svg" };
 
 
 /***/ }),
@@ -5929,7 +6063,7 @@ const par = { "symbol": "PAR", "icon": "icons/par.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pass", function() { return pass; });
-const pass = { "symbol": "PASS", "icon": "icons/pass.svg" };
+const pass = { "symbol": "PASS", "icon": "pass.svg" };
 
 
 /***/ }),
@@ -5944,7 +6078,7 @@ const pass = { "symbol": "PASS", "icon": "icons/pass.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "paxg", function() { return paxg; });
-const paxg = { "symbol": "PAXG", "icon": "icons/paxg.svg" };
+const paxg = { "symbol": "PAXG", "icon": "paxg.svg" };
 
 
 /***/ }),
@@ -5959,7 +6093,7 @@ const paxg = { "symbol": "PAXG", "icon": "icons/paxg.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pay", function() { return pay; });
-const pay = { "symbol": "PAY", "icon": "icons/pay.svg" };
+const pay = { "symbol": "PAY", "icon": "pay.svg" };
 
 
 /***/ }),
@@ -5974,7 +6108,7 @@ const pay = { "symbol": "PAY", "icon": "icons/pay.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "penky", function() { return penky; });
-const penky = { "symbol": "PENKY", "icon": "icons/penky.svg" };
+const penky = { "symbol": "PENKY", "icon": "penky.svg" };
 
 
 /***/ }),
@@ -5989,7 +6123,7 @@ const penky = { "symbol": "PENKY", "icon": "icons/penky.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "peri", function() { return peri; });
-const peri = { "symbol": "PERI", "icon": "icons/peri.svg" };
+const peri = { "symbol": "PERI", "icon": "peri.svg" };
 
 
 /***/ }),
@@ -6004,7 +6138,7 @@ const peri = { "symbol": "PERI", "icon": "icons/peri.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "perp", function() { return perp; });
-const perp = { "symbol": "PERP", "icon": "icons/perp.svg" };
+const perp = { "symbol": "PERP", "icon": "perp.svg" };
 
 
 /***/ }),
@@ -6019,7 +6153,7 @@ const perp = { "symbol": "PERP", "icon": "icons/perp.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pickle", function() { return pickle; });
-const pickle = { "symbol": "PICKLE", "icon": "icons/pickle.svg" };
+const pickle = { "symbol": "PICKLE", "icon": "pickle.svg" };
 
 
 /***/ }),
@@ -6034,7 +6168,7 @@ const pickle = { "symbol": "PICKLE", "icon": "icons/pickle.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pinakion", function() { return pinakion; });
-const pinakion = { "symbol": "PINAKION", "icon": "icons/pinakion.svg" };
+const pinakion = { "symbol": "PINAKION", "icon": "pinakion.svg" };
 
 
 /***/ }),
@@ -6049,7 +6183,7 @@ const pinakion = { "symbol": "PINAKION", "icon": "icons/pinakion.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pkf", function() { return pkf; });
-const pkf = { "symbol": "PKF", "icon": "icons/pkf.svg" };
+const pkf = { "symbol": "PKF", "icon": "pkf.svg" };
 
 
 /***/ }),
@@ -6064,7 +6198,7 @@ const pkf = { "symbol": "PKF", "icon": "icons/pkf.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "play", function() { return play; });
-const play = { "symbol": "PLAY", "icon": "icons/play.svg" };
+const play = { "symbol": "PLAY", "icon": "play.svg" };
 
 
 /***/ }),
@@ -6079,7 +6213,7 @@ const play = { "symbol": "PLAY", "icon": "icons/play.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "plot", function() { return plot; });
-const plot = { "symbol": "PLOT", "icon": "icons/plot.svg" };
+const plot = { "symbol": "PLOT", "icon": "plot.svg" };
 
 
 /***/ }),
@@ -6094,7 +6228,7 @@ const plot = { "symbol": "PLOT", "icon": "icons/plot.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "plu", function() { return plu; });
-const plu = { "symbol": "PLU", "icon": "icons/plu.svg" };
+const plu = { "symbol": "PLU", "icon": "plu.svg" };
 
 
 /***/ }),
@@ -6109,7 +6243,7 @@ const plu = { "symbol": "PLU", "icon": "icons/plu.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pmon", function() { return pmon; });
-const pmon = { "symbol": "PMON", "icon": "icons/pmon.svg" };
+const pmon = { "symbol": "PMON", "icon": "pmon.svg" };
 
 
 /***/ }),
@@ -6124,7 +6258,7 @@ const pmon = { "symbol": "PMON", "icon": "icons/pmon.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pnode", function() { return pnode; });
-const pnode = { "symbol": "PNODE", "icon": "icons/pnode.svg" };
+const pnode = { "symbol": "PNODE", "icon": "pnode.svg" };
 
 
 /***/ }),
@@ -6139,7 +6273,7 @@ const pnode = { "symbol": "PNODE", "icon": "icons/pnode.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pols", function() { return pols; });
-const pols = { "symbol": "POLS", "icon": "icons/pols.svg" };
+const pols = { "symbol": "POLS", "icon": "pols.svg" };
 
 
 /***/ }),
@@ -6154,7 +6288,7 @@ const pols = { "symbol": "POLS", "icon": "icons/pols.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "polven", function() { return polven; });
-const polven = { "symbol": "POLVEN", "icon": "icons/polven.svg" };
+const polven = { "symbol": "POLVEN", "icon": "polven.svg" };
 
 
 /***/ }),
@@ -6169,7 +6303,7 @@ const polven = { "symbol": "POLVEN", "icon": "icons/polven.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "poly", function() { return poly; });
-const poly = { "symbol": "POLY", "icon": "icons/poly.svg" };
+const poly = { "symbol": "POLY", "icon": "poly.svg" };
 
 
 /***/ }),
@@ -6184,7 +6318,7 @@ const poly = { "symbol": "POLY", "icon": "icons/poly.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pool", function() { return pool; });
-const pool = { "symbol": "POOL", "icon": "icons/pool.svg" };
+const pool = { "symbol": "POOL", "icon": "pool.svg" };
 
 
 /***/ }),
@@ -6199,7 +6333,7 @@ const pool = { "symbol": "POOL", "icon": "icons/pool.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pop", function() { return pop; });
-const pop = { "symbol": "POP", "icon": "icons/pop.svg" };
+const pop = { "symbol": "POP", "icon": "pop.svg" };
 
 
 /***/ }),
@@ -6214,7 +6348,7 @@ const pop = { "symbol": "POP", "icon": "icons/pop.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "power", function() { return power; });
-const power = { "symbol": "POWER", "icon": "icons/power.svg" };
+const power = { "symbol": "POWER", "icon": "power.svg" };
 
 
 /***/ }),
@@ -6229,7 +6363,7 @@ const power = { "symbol": "POWER", "icon": "icons/power.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "powr", function() { return powr; });
-const powr = { "symbol": "POWR", "icon": "icons/powr.svg" };
+const powr = { "symbol": "POWR", "icon": "powr.svg" };
 
 
 /***/ }),
@@ -6244,7 +6378,7 @@ const powr = { "symbol": "POWR", "icon": "icons/powr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ppblz", function() { return ppblz; });
-const ppblz = { "symbol": "PPBLZ", "icon": "icons/ppblz.svg" };
+const ppblz = { "symbol": "PPBLZ", "icon": "ppblz.svg" };
 
 
 /***/ }),
@@ -6259,7 +6393,7 @@ const ppblz = { "symbol": "PPBLZ", "icon": "icons/ppblz.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ppt", function() { return ppt; });
-const ppt = { "symbol": "PPT", "icon": "icons/ppt.svg" };
+const ppt = { "symbol": "PPT", "icon": "ppt.svg" };
 
 
 /***/ }),
@@ -6274,7 +6408,7 @@ const ppt = { "symbol": "PPT", "icon": "icons/ppt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pro", function() { return pro; });
-const pro = { "symbol": "PRO", "icon": "icons/pro.svg" };
+const pro = { "symbol": "PRO", "icon": "pro.svg" };
 
 
 /***/ }),
@@ -6289,7 +6423,7 @@ const pro = { "symbol": "PRO", "icon": "icons/pro.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "prq", function() { return prq; });
-const prq = { "symbol": "PRQ", "icon": "icons/prq.svg" };
+const prq = { "symbol": "PRQ", "icon": "prq.svg" };
 
 
 /***/ }),
@@ -6304,7 +6438,7 @@ const prq = { "symbol": "PRQ", "icon": "icons/prq.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pteria", function() { return pteria; });
-const pteria = { "symbol": "PTERIA", "icon": "icons/pteria.svg" };
+const pteria = { "symbol": "PTERIA", "icon": "pteria.svg" };
 
 
 /***/ }),
@@ -6319,7 +6453,7 @@ const pteria = { "symbol": "PTERIA", "icon": "icons/pteria.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pyr", function() { return pyr; });
-const pyr = { "symbol": "PYR", "icon": "icons/pyr.svg" };
+const pyr = { "symbol": "PYR", "icon": "pyr.svg" };
 
 
 /***/ }),
@@ -6334,7 +6468,7 @@ const pyr = { "symbol": "PYR", "icon": "icons/pyr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "qash", function() { return qash; });
-const qash = { "symbol": "QASH", "icon": "icons/qash.svg" };
+const qash = { "symbol": "QASH", "icon": "qash.svg" };
 
 
 /***/ }),
@@ -6349,7 +6483,7 @@ const qash = { "symbol": "QASH", "icon": "icons/qash.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "quick", function() { return quick; });
-const quick = { "symbol": "QUICK", "icon": "icons/quick.svg" };
+const quick = { "symbol": "QUICK", "icon": "quick.svg" };
 
 
 /***/ }),
@@ -6364,7 +6498,7 @@ const quick = { "symbol": "QUICK", "icon": "icons/quick.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rage", function() { return rage; });
-const rage = { "symbol": "RAGE", "icon": "icons/rage.svg" };
+const rage = { "symbol": "RAGE", "icon": "rage.svg" };
 
 
 /***/ }),
@@ -6379,7 +6513,7 @@ const rage = { "symbol": "RAGE", "icon": "icons/rage.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ramp", function() { return ramp; });
-const ramp = { "symbol": "RAMP", "icon": "icons/ramp.svg" };
+const ramp = { "symbol": "RAMP", "icon": "ramp.svg" };
 
 
 /***/ }),
@@ -6394,7 +6528,7 @@ const ramp = { "symbol": "RAMP", "icon": "icons/ramp.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rari", function() { return rari; });
-const rari = { "symbol": "RARI", "icon": "icons/rari.svg" };
+const rari = { "symbol": "RARI", "icon": "rari.svg" };
 
 
 /***/ }),
@@ -6409,7 +6543,7 @@ const rari = { "symbol": "RARI", "icon": "icons/rari.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "razor", function() { return razor; });
-const razor = { "symbol": "RAZOR", "icon": "icons/razor.svg" };
+const razor = { "symbol": "RAZOR", "icon": "razor.svg" };
 
 
 /***/ }),
@@ -6424,7 +6558,7 @@ const razor = { "symbol": "RAZOR", "icon": "icons/razor.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rbc", function() { return rbc; });
-const rbc = { "symbol": "RBC", "icon": "icons/rbc.svg" };
+const rbc = { "symbol": "RBC", "icon": "rbc.svg" };
 
 
 /***/ }),
@@ -6439,7 +6573,7 @@ const rbc = { "symbol": "RBC", "icon": "icons/rbc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rcc", function() { return rcc; });
-const rcc = { "symbol": "RCC", "icon": "icons/rcc.svg" };
+const rcc = { "symbol": "RCC", "icon": "rcc.svg" };
 
 
 /***/ }),
@@ -6454,7 +6588,7 @@ const rcc = { "symbol": "RCC", "icon": "icons/rcc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ren", function() { return ren; });
-const ren = { "symbol": "REN", "icon": "icons/ren.svg" };
+const ren = { "symbol": "REN", "icon": "ren.svg" };
 
 
 /***/ }),
@@ -6469,7 +6603,7 @@ const ren = { "symbol": "REN", "icon": "icons/ren.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rendoge", function() { return rendoge; });
-const rendoge = { "symbol": "RENDOGE", "icon": "icons/rendoge.svg" };
+const rendoge = { "symbol": "RENDOGE", "icon": "rendoge.svg" };
 
 
 /***/ }),
@@ -6484,7 +6618,7 @@ const rendoge = { "symbol": "RENDOGE", "icon": "icons/rendoge.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rep", function() { return rep; });
-const rep = { "symbol": "REP", "icon": "icons/rep.svg" };
+const rep = { "symbol": "REP", "icon": "rep.svg" };
 
 
 /***/ }),
@@ -6499,7 +6633,7 @@ const rep = { "symbol": "REP", "icon": "icons/rep.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rfox", function() { return rfox; });
-const rfox = { "symbol": "RFOX", "icon": "icons/rfox.svg" };
+const rfox = { "symbol": "RFOX", "icon": "rfox.svg" };
 
 
 /***/ }),
@@ -6514,7 +6648,7 @@ const rfox = { "symbol": "RFOX", "icon": "icons/rfox.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rfuel", function() { return rfuel; });
-const rfuel = { "symbol": "RFUEL", "icon": "icons/rfuel.svg" };
+const rfuel = { "symbol": "RFUEL", "icon": "rfuel.svg" };
 
 
 /***/ }),
@@ -6529,7 +6663,22 @@ const rfuel = { "symbol": "RFUEL", "icon": "icons/rfuel.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rhoc", function() { return rhoc; });
-const rhoc = { "symbol": "RHOC", "icon": "icons/rhoc.svg" };
+const rhoc = { "symbol": "RHOC", "icon": "rhoc.svg" };
+
+
+/***/ }),
+
+/***/ "./build/ring.ts":
+/*!***********************!*\
+  !*** ./build/ring.ts ***!
+  \***********************/
+/*! exports provided: ring */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ring", function() { return ring; });
+const ring = { "symbol": "RING", "icon": "ring.svg" };
 
 
 /***/ }),
@@ -6544,7 +6693,7 @@ const rhoc = { "symbol": "RHOC", "icon": "icons/rhoc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rlc", function() { return rlc; });
-const rlc = { "symbol": "RLC", "icon": "icons/rlc.svg" };
+const rlc = { "symbol": "RLC", "icon": "rlc.svg" };
 
 
 /***/ }),
@@ -6559,7 +6708,7 @@ const rlc = { "symbol": "RLC", "icon": "icons/rlc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rndr", function() { return rndr; });
-const rndr = { "symbol": "RNDR", "icon": "icons/rndr.svg" };
+const rndr = { "symbol": "RNDR", "icon": "rndr.svg" };
 
 
 /***/ }),
@@ -6574,7 +6723,7 @@ const rndr = { "symbol": "RNDR", "icon": "icons/rndr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rocks", function() { return rocks; });
-const rocks = { "symbol": "ROCKS", "icon": "icons/rocks.svg" };
+const rocks = { "symbol": "ROCKS", "icon": "rocks.svg" };
 
 
 /***/ }),
@@ -6589,7 +6738,7 @@ const rocks = { "symbol": "ROCKS", "icon": "icons/rocks.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "room", function() { return room; });
-const room = { "symbol": "ROOM", "icon": "icons/room.svg" };
+const room = { "symbol": "ROOM", "icon": "room.svg" };
 
 
 /***/ }),
@@ -6604,7 +6753,7 @@ const room = { "symbol": "ROOM", "icon": "icons/room.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "route", function() { return route; });
-const route = { "symbol": "ROUTE", "icon": "icons/route.svg" };
+const route = { "symbol": "ROUTE", "icon": "route.svg" };
 
 
 /***/ }),
@@ -6619,7 +6768,7 @@ const route = { "symbol": "ROUTE", "icon": "icons/route.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rpl", function() { return rpl; });
-const rpl = { "symbol": "RPL", "icon": "icons/rpl.svg" };
+const rpl = { "symbol": "RPL", "icon": "rpl.svg" };
 
 
 /***/ }),
@@ -6634,7 +6783,22 @@ const rpl = { "symbol": "RPL", "icon": "icons/rpl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rtk", function() { return rtk; });
-const rtk = { "symbol": "RTK", "icon": "icons/rtk.svg" };
+const rtk = { "symbol": "RTK", "icon": "rtk.svg" };
+
+
+/***/ }),
+
+/***/ "./build/rvf.ts":
+/*!**********************!*\
+  !*** ./build/rvf.ts ***!
+  \**********************/
+/*! exports provided: rvf */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rvf", function() { return rvf; });
+const rvf = { "symbol": "RVF", "icon": "rvf.svg" };
 
 
 /***/ }),
@@ -6649,7 +6813,7 @@ const rtk = { "symbol": "RTK", "icon": "icons/rtk.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "safeearth", function() { return safeearth; });
-const safeearth = { "symbol": "SAFEEARTH", "icon": "icons/safeearth.svg" };
+const safeearth = { "symbol": "SAFEEARTH", "icon": "safeearth.svg" };
 
 
 /***/ }),
@@ -6664,7 +6828,7 @@ const safeearth = { "symbol": "SAFEEARTH", "icon": "icons/safeearth.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sake", function() { return sake; });
-const sake = { "symbol": "SAKE", "icon": "icons/sake.svg" };
+const sake = { "symbol": "SAKE", "icon": "sake.svg" };
 
 
 /***/ }),
@@ -6679,7 +6843,7 @@ const sake = { "symbol": "SAKE", "icon": "icons/sake.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sale", function() { return sale; });
-const sale = { "symbol": "SALE", "icon": "icons/sale.svg" };
+const sale = { "symbol": "SALE", "icon": "sale.svg" };
 
 
 /***/ }),
@@ -6694,7 +6858,7 @@ const sale = { "symbol": "SALE", "icon": "icons/sale.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sand", function() { return sand; });
-const sand = { "symbol": "SAND", "icon": "icons/sand.svg" };
+const sand = { "symbol": "SAND", "icon": "sand.svg" };
 
 
 /***/ }),
@@ -6709,7 +6873,7 @@ const sand = { "symbol": "SAND", "icon": "icons/sand.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sanshu", function() { return sanshu; });
-const sanshu = { "symbol": "SANSHU", "icon": "icons/sanshu.svg" };
+const sanshu = { "symbol": "SANSHU", "icon": "sanshu.svg" };
 
 
 /***/ }),
@@ -6724,7 +6888,22 @@ const sanshu = { "symbol": "SANSHU", "icon": "icons/sanshu.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "santa", function() { return santa; });
-const santa = { "symbol": "SANTA", "icon": "icons/santa.svg" };
+const santa = { "symbol": "SANTA", "icon": "santa.svg" };
+
+
+/***/ }),
+
+/***/ "./build/sca.ts":
+/*!**********************!*\
+  !*** ./build/sca.ts ***!
+  \**********************/
+/*! exports provided: sca */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sca", function() { return sca; });
+const sca = { "symbol": "SCA", "icon": "sca.svg" };
 
 
 /***/ }),
@@ -6739,7 +6918,7 @@ const santa = { "symbol": "SANTA", "icon": "icons/santa.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sdt", function() { return sdt; });
-const sdt = { "symbol": "SDT", "icon": "icons/sdt.svg" };
+const sdt = { "symbol": "SDT", "icon": "sdt.svg" };
 
 
 /***/ }),
@@ -6754,7 +6933,7 @@ const sdt = { "symbol": "SDT", "icon": "icons/sdt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "senpai", function() { return senpai; });
-const senpai = { "symbol": "SENPAI", "icon": "icons/senpai.svg" };
+const senpai = { "symbol": "SENPAI", "icon": "senpai.svg" };
 
 
 /***/ }),
@@ -6769,7 +6948,7 @@ const senpai = { "symbol": "SENPAI", "icon": "icons/senpai.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sent", function() { return sent; });
-const sent = { "symbol": "SENT", "icon": "icons/sent.svg" };
+const sent = { "symbol": "SENT", "icon": "sent.svg" };
 
 
 /***/ }),
@@ -6784,7 +6963,7 @@ const sent = { "symbol": "SENT", "icon": "icons/sent.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "seth2", function() { return seth2; });
-const seth2 = { "symbol": "SETH2", "icon": "icons/seth2.svg" };
+const seth2 = { "symbol": "SETH2", "icon": "seth2.svg" };
 
 
 /***/ }),
@@ -6799,7 +6978,7 @@ const seth2 = { "symbol": "SETH2", "icon": "icons/seth2.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sgt", function() { return sgt; });
-const sgt = { "symbol": "SGT", "icon": "icons/sgt.svg" };
+const sgt = { "symbol": "SGT", "icon": "sgt.svg" };
 
 
 /***/ }),
@@ -6814,7 +6993,7 @@ const sgt = { "symbol": "SGT", "icon": "icons/sgt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "shib", function() { return shib; });
-const shib = { "symbol": "SHIB", "icon": "icons/shib.svg" };
+const shib = { "symbol": "SHIB", "icon": "shib.svg" };
 
 
 /***/ }),
@@ -6829,7 +7008,7 @@ const shib = { "symbol": "SHIB", "icon": "icons/shib.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "shibco", function() { return shibco; });
-const shibco = { "symbol": "SHIBCO", "icon": "icons/shibco.svg" };
+const shibco = { "symbol": "SHIBCO", "icon": "shibco.svg" };
 
 
 /***/ }),
@@ -6844,7 +7023,7 @@ const shibco = { "symbol": "SHIBCO", "icon": "icons/shibco.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sho", function() { return sho; });
-const sho = { "symbol": "SHO", "icon": "icons/sho.svg" };
+const sho = { "symbol": "SHO", "icon": "sho.svg" };
 
 
 /***/ }),
@@ -6859,7 +7038,7 @@ const sho = { "symbol": "SHO", "icon": "icons/sho.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "shopx", function() { return shopx; });
-const shopx = { "symbol": "SHOPX", "icon": "icons/shopx.svg" };
+const shopx = { "symbol": "SHOPX", "icon": "shopx.svg" };
 
 
 /***/ }),
@@ -6874,7 +7053,7 @@ const shopx = { "symbol": "SHOPX", "icon": "icons/shopx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "snow", function() { return snow; });
-const snow = { "symbol": "SNOW", "icon": "icons/snow.svg" };
+const snow = { "symbol": "SNOW", "icon": "snow.svg" };
 
 
 /***/ }),
@@ -6889,7 +7068,7 @@ const snow = { "symbol": "SNOW", "icon": "icons/snow.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "snt", function() { return snt; });
-const snt = { "symbol": "SNT", "icon": "icons/snt.svg" };
+const snt = { "symbol": "SNT", "icon": "snt.svg" };
 
 
 /***/ }),
@@ -6904,7 +7083,7 @@ const snt = { "symbol": "SNT", "icon": "icons/snt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "snx", function() { return snx; });
-const snx = { "symbol": "SNX", "icon": "icons/snx.svg" };
+const snx = { "symbol": "SNX", "icon": "snx.svg" };
 
 
 /***/ }),
@@ -6919,7 +7098,7 @@ const snx = { "symbol": "SNX", "icon": "icons/snx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "soar", function() { return soar; });
-const soar = { "symbol": "SOAR", "icon": "icons/soar.svg" };
+const soar = { "symbol": "SOAR", "icon": "soar.svg" };
 
 
 /***/ }),
@@ -6934,7 +7113,7 @@ const soar = { "symbol": "SOAR", "icon": "icons/soar.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "song", function() { return song; });
-const song = { "symbol": "SONG", "icon": "icons/song.svg" };
+const song = { "symbol": "SONG", "icon": "song.svg" };
 
 
 /***/ }),
@@ -6949,7 +7128,7 @@ const song = { "symbol": "SONG", "icon": "icons/song.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "spi", function() { return spi; });
-const spi = { "symbol": "SPI", "icon": "icons/spi.svg" };
+const spi = { "symbol": "SPI", "icon": "spi.svg" };
 
 
 /***/ }),
@@ -6964,7 +7143,7 @@ const spi = { "symbol": "SPI", "icon": "icons/spi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "spn", function() { return spn; });
-const spn = { "symbol": "SPN", "icon": "icons/spn.svg" };
+const spn = { "symbol": "SPN", "icon": "spn.svg" };
 
 
 /***/ }),
@@ -6979,7 +7158,7 @@ const spn = { "symbol": "SPN", "icon": "icons/spn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "srat", function() { return srat; });
-const srat = { "symbol": "SRAT", "icon": "icons/srat.svg" };
+const srat = { "symbol": "SRAT", "icon": "srat.svg" };
 
 
 /***/ }),
@@ -6994,7 +7173,7 @@ const srat = { "symbol": "SRAT", "icon": "icons/srat.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "stak", function() { return stak; });
-const stak = { "symbol": "STAK", "icon": "icons/stak.svg" };
+const stak = { "symbol": "STAK", "icon": "stak.svg" };
 
 
 /***/ }),
@@ -7009,7 +7188,7 @@ const stak = { "symbol": "STAK", "icon": "icons/stak.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "stars", function() { return stars; });
-const stars = { "symbol": "STARS", "icon": "icons/stars.svg" };
+const stars = { "symbol": "STARS", "icon": "stars.svg" };
 
 
 /***/ }),
@@ -7024,7 +7203,7 @@ const stars = { "symbol": "STARS", "icon": "icons/stars.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "storm", function() { return storm; });
-const storm = { "symbol": "STORM", "icon": "icons/storm.svg" };
+const storm = { "symbol": "STORM", "icon": "storm.svg" };
 
 
 /***/ }),
@@ -7039,7 +7218,7 @@ const storm = { "symbol": "STORM", "icon": "icons/storm.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "str", function() { return str; });
-const str = { "symbol": "STR", "icon": "icons/str.svg" };
+const str = { "symbol": "STR", "icon": "str.svg" };
 
 
 /***/ }),
@@ -7054,7 +7233,7 @@ const str = { "symbol": "STR", "icon": "icons/str.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sub", function() { return sub; });
-const sub = { "symbol": "SUB", "icon": "icons/sub.svg" };
+const sub = { "symbol": "SUB", "icon": "sub.svg" };
 
 
 /***/ }),
@@ -7069,7 +7248,7 @@ const sub = { "symbol": "SUB", "icon": "icons/sub.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "superFarm", function() { return superFarm; });
-const superFarm = { "symbol": "SUPER", "icon": "icons/super.svg" };
+const superFarm = { "symbol": "SUPER", "icon": "super.svg" };
 
 
 /***/ }),
@@ -7084,7 +7263,7 @@ const superFarm = { "symbol": "SUPER", "icon": "icons/super.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "superbid", function() { return superbid; });
-const superbid = { "symbol": "SUPERBID", "icon": "icons/superbid.svg" };
+const superbid = { "symbol": "SUPERBID", "icon": "superbid.svg" };
 
 
 /***/ }),
@@ -7099,7 +7278,7 @@ const superbid = { "symbol": "SUPERBID", "icon": "icons/superbid.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sushi", function() { return sushi; });
-const sushi = { "symbol": "SUSHI", "icon": "icons/sushi.svg" };
+const sushi = { "symbol": "SUSHI", "icon": "sushi.svg" };
 
 
 /***/ }),
@@ -7114,7 +7293,7 @@ const sushi = { "symbol": "SUSHI", "icon": "icons/sushi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "swap", function() { return swap; });
-const swap = { "symbol": "SWAP", "icon": "icons/swap.svg" };
+const swap = { "symbol": "SWAP", "icon": "swap.svg" };
 
 
 /***/ }),
@@ -7129,7 +7308,7 @@ const swap = { "symbol": "SWAP", "icon": "icons/swap.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "swise", function() { return swise; });
-const swise = { "symbol": "SWISE", "icon": "icons/swise.svg" };
+const swise = { "symbol": "SWISE", "icon": "swise.svg" };
 
 
 /***/ }),
@@ -7144,7 +7323,7 @@ const swise = { "symbol": "SWISE", "icon": "icons/swise.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sx", function() { return sx; });
-const sx = { "symbol": "SX", "icon": "icons/sx.svg" };
+const sx = { "symbol": "SX", "icon": "sx.svg" };
 
 
 /***/ }),
@@ -7159,7 +7338,7 @@ const sx = { "symbol": "SX", "icon": "icons/sx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sxp", function() { return sxp; });
-const sxp = { "symbol": "SXP", "icon": "icons/sxp.svg" };
+const sxp = { "symbol": "SXP", "icon": "sxp.svg" };
 
 
 /***/ }),
@@ -7174,7 +7353,7 @@ const sxp = { "symbol": "SXP", "icon": "icons/sxp.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "sync", function() { return sync; });
-const sync = { "symbol": "SYNC", "icon": "icons/sync.svg" };
+const sync = { "symbol": "SYNC", "icon": "sync.svg" };
 
 
 /***/ }),
@@ -7189,7 +7368,7 @@ const sync = { "symbol": "SYNC", "icon": "icons/sync.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tap", function() { return tap; });
-const tap = { "symbol": "TAP", "icon": "icons/tap.svg" };
+const tap = { "symbol": "TAP", "icon": "tap.svg" };
 
 
 /***/ }),
@@ -7204,7 +7383,7 @@ const tap = { "symbol": "TAP", "icon": "icons/tap.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tbtc", function() { return tbtc; });
-const tbtc = { "symbol": "TBTC", "icon": "icons/tbtc.svg" };
+const tbtc = { "symbol": "TBTC", "icon": "tbtc.svg" };
 
 
 /***/ }),
@@ -7219,7 +7398,7 @@ const tbtc = { "symbol": "TBTC", "icon": "icons/tbtc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tcap", function() { return tcap; });
-const tcap = { "symbol": "TCAP", "icon": "icons/tcap.svg" };
+const tcap = { "symbol": "TCAP", "icon": "tcap.svg" };
 
 
 /***/ }),
@@ -7234,7 +7413,7 @@ const tcap = { "symbol": "TCAP", "icon": "icons/tcap.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tel", function() { return tel; });
-const tel = { "symbol": "TEL", "icon": "icons/tel.svg" };
+const tel = { "symbol": "TEL", "icon": "tel.svg" };
 
 
 /***/ }),
@@ -7249,7 +7428,7 @@ const tel = { "symbol": "TEL", "icon": "icons/tel.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "thera", function() { return thera; });
-const thera = { "symbol": "THERA", "icon": "icons/thera.svg" };
+const thera = { "symbol": "THERA", "icon": "thera.svg" };
 
 
 /***/ }),
@@ -7264,7 +7443,7 @@ const thera = { "symbol": "THERA", "icon": "icons/thera.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "theta", function() { return theta; });
-const theta = { "symbol": "THETA", "icon": "icons/theta.svg" };
+const theta = { "symbol": "THETA", "icon": "theta.svg" };
 
 
 /***/ }),
@@ -7279,7 +7458,7 @@ const theta = { "symbol": "THETA", "icon": "icons/theta.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "three", function() { return three; });
-const three = { "symbol": "THREE", "icon": "icons/three.svg" };
+const three = { "symbol": "THREE", "icon": "three.svg" };
 
 
 /***/ }),
@@ -7294,7 +7473,7 @@ const three = { "symbol": "THREE", "icon": "icons/three.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "three00", function() { return three00; });
-const three00 = { "symbol": "300", "icon": "icons/300.svg" };
+const three00 = { "symbol": "300", "icon": "300.svg" };
 
 
 /***/ }),
@@ -7309,7 +7488,7 @@ const three00 = { "symbol": "300", "icon": "icons/300.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tidal", function() { return tidal; });
-const tidal = { "symbol": "TIDAL", "icon": "icons/tidal.svg" };
+const tidal = { "symbol": "TIDAL", "icon": "tidal.svg" };
 
 
 /***/ }),
@@ -7324,7 +7503,7 @@ const tidal = { "symbol": "TIDAL", "icon": "icons/tidal.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "torn", function() { return torn; });
-const torn = { "symbol": "TORN", "icon": "icons/torn.svg" };
+const torn = { "symbol": "TORN", "icon": "torn.svg" };
 
 
 /***/ }),
@@ -7339,7 +7518,22 @@ const torn = { "symbol": "TORN", "icon": "icons/torn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tower", function() { return tower; });
-const tower = { "symbol": "TOWER", "icon": "icons/tower.svg" };
+const tower = { "symbol": "TOWER", "icon": "tower.svg" };
+
+
+/***/ }),
+
+/***/ "./build/trade.ts":
+/*!************************!*\
+  !*** ./build/trade.ts ***!
+  \************************/
+/*! exports provided: trade */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "trade", function() { return trade; });
+const trade = { "symbol": "TRADE", "icon": "trade.svg" };
 
 
 /***/ }),
@@ -7354,7 +7548,7 @@ const tower = { "symbol": "TOWER", "icon": "icons/tower.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "trb", function() { return trb; });
-const trb = { "symbol": "TRB", "icon": "icons/trb.svg" };
+const trb = { "symbol": "TRB", "icon": "trb.svg" };
 
 
 /***/ }),
@@ -7369,7 +7563,7 @@ const trb = { "symbol": "TRB", "icon": "icons/trb.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "trdl", function() { return trdl; });
-const trdl = { "symbol": "TRDL", "icon": "icons/trdl.svg" };
+const trdl = { "symbol": "TRDL", "icon": "trdl.svg" };
 
 
 /***/ }),
@@ -7384,7 +7578,7 @@ const trdl = { "symbol": "TRDL", "icon": "icons/trdl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "trnd", function() { return trnd; });
-const trnd = { "symbol": "TRND", "icon": "icons/trnd.svg" };
+const trnd = { "symbol": "TRND", "icon": "trnd.svg" };
 
 
 /***/ }),
@@ -7399,7 +7593,7 @@ const trnd = { "symbol": "TRND", "icon": "icons/trnd.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "truebit", function() { return truebit; });
-const truebit = { "symbol": "TRUEBIT", "icon": "icons/truebit.svg" };
+const truebit = { "symbol": "TRUEBIT", "icon": "truebit.svg" };
 
 
 /***/ }),
@@ -7414,7 +7608,7 @@ const truebit = { "symbol": "TRUEBIT", "icon": "icons/truebit.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "trx", function() { return trx; });
-const trx = { "symbol": "TRX", "icon": "icons/trx.svg" };
+const trx = { "symbol": "TRX", "icon": "trx.svg" };
 
 
 /***/ }),
@@ -7429,7 +7623,7 @@ const trx = { "symbol": "TRX", "icon": "icons/trx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tusd", function() { return tusd; });
-const tusd = { "symbol": "TUSD", "icon": "icons/tusd.svg" };
+const tusd = { "symbol": "TUSD", "icon": "tusd.svg" };
 
 
 /***/ }),
@@ -7444,7 +7638,7 @@ const tusd = { "symbol": "TUSD", "icon": "icons/tusd.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tvk", function() { return tvk; });
-const tvk = { "symbol": "TVK", "icon": "icons/tvk.svg" };
+const tvk = { "symbol": "TVK", "icon": "tvk.svg" };
 
 
 /***/ }),
@@ -7459,7 +7653,7 @@ const tvk = { "symbol": "TVK", "icon": "icons/tvk.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "txl", function() { return txl; });
-const txl = { "symbol": "TXL", "icon": "icons/txl.svg" };
+const txl = { "symbol": "TXL", "icon": "txl.svg" };
 
 
 /***/ }),
@@ -7474,7 +7668,7 @@ const txl = { "symbol": "TXL", "icon": "icons/txl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ubi", function() { return ubi; });
-const ubi = { "symbol": "UBI", "icon": "icons/ubi.svg" };
+const ubi = { "symbol": "UBI", "icon": "ubi.svg" };
 
 
 /***/ }),
@@ -7489,7 +7683,7 @@ const ubi = { "symbol": "UBI", "icon": "icons/ubi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ubt", function() { return ubt; });
-const ubt = { "symbol": "UBT", "icon": "icons/ubt.svg" };
+const ubt = { "symbol": "UBT", "icon": "ubt.svg" };
 
 
 /***/ }),
@@ -7504,7 +7698,7 @@ const ubt = { "symbol": "UBT", "icon": "icons/ubt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "udoki", function() { return udoki; });
-const udoki = { "symbol": "UDOKI", "icon": "icons/udoki.svg" };
+const udoki = { "symbol": "UDOKI", "icon": "udoki.svg" };
 
 
 /***/ }),
@@ -7519,7 +7713,7 @@ const udoki = { "symbol": "UDOKI", "icon": "icons/udoki.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ufr", function() { return ufr; });
-const ufr = { "symbol": "UFR", "icon": "icons/ufr.svg" };
+const ufr = { "symbol": "UFR", "icon": "ufr.svg" };
 
 
 /***/ }),
@@ -7534,7 +7728,7 @@ const ufr = { "symbol": "UFR", "icon": "icons/ufr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "uft", function() { return uft; });
-const uft = { "symbol": "UFT", "icon": "icons/uft.svg" };
+const uft = { "symbol": "UFT", "icon": "uft.svg" };
 
 
 /***/ }),
@@ -7549,7 +7743,22 @@ const uft = { "symbol": "UFT", "icon": "icons/uft.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ult", function() { return ult; });
-const ult = { "symbol": "ULT", "icon": "icons/ult.svg" };
+const ult = { "symbol": "ULT", "icon": "ult.svg" };
+
+
+/***/ }),
+
+/***/ "./build/umber.ts":
+/*!************************!*\
+  !*** ./build/umber.ts ***!
+  \************************/
+/*! exports provided: umber */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "umber", function() { return umber; });
+const umber = { "symbol": "UMBER", "icon": "umber.svg" };
 
 
 /***/ }),
@@ -7564,7 +7773,7 @@ const ult = { "symbol": "ULT", "icon": "icons/ult.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "umbr", function() { return umbr; });
-const umbr = { "symbol": "UMBR", "icon": "icons/umbr.svg" };
+const umbr = { "symbol": "UMBR", "icon": "umbr.svg" };
 
 
 /***/ }),
@@ -7579,7 +7788,7 @@ const umbr = { "symbol": "UMBR", "icon": "icons/umbr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "umx", function() { return umx; });
-const umx = { "symbol": "UMX", "icon": "icons/umx.svg" };
+const umx = { "symbol": "UMX", "icon": "umx.svg" };
 
 
 /***/ }),
@@ -7594,7 +7803,7 @@ const umx = { "symbol": "UMX", "icon": "icons/umx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "uncx", function() { return uncx; });
-const uncx = { "symbol": "UNCX", "icon": "icons/uncx.svg" };
+const uncx = { "symbol": "UNCX", "icon": "uncx.svg" };
 
 
 /***/ }),
@@ -7609,7 +7818,7 @@ const uncx = { "symbol": "UNCX", "icon": "icons/uncx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "uni", function() { return uni; });
-const uni = { "symbol": "UNI", "icon": "icons/uni.svg" };
+const uni = { "symbol": "UNI", "icon": "uni.svg" };
 
 
 /***/ }),
@@ -7624,7 +7833,7 @@ const uni = { "symbol": "UNI", "icon": "icons/uni.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unl", function() { return unl; });
-const unl = { "symbol": "UNL", "icon": "icons/unl.svg" };
+const unl = { "symbol": "UNL", "icon": "unl.svg" };
 
 
 /***/ }),
@@ -7639,7 +7848,7 @@ const unl = { "symbol": "UNL", "icon": "icons/unl.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unn", function() { return unn; });
-const unn = { "symbol": "UNN", "icon": "icons/unn.svg" };
+const unn = { "symbol": "UNN", "icon": "unn.svg" };
 
 
 /***/ }),
@@ -7654,7 +7863,7 @@ const unn = { "symbol": "UNN", "icon": "icons/unn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "usdc", function() { return usdc; });
-const usdc = { "symbol": "USDC", "icon": "icons/usdc.svg" };
+const usdc = { "symbol": "USDC", "icon": "usdc.svg" };
 
 
 /***/ }),
@@ -7669,7 +7878,7 @@ const usdc = { "symbol": "USDC", "icon": "icons/usdc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "usdk", function() { return usdk; });
-const usdk = { "symbol": "USDK", "icon": "icons/usdk.svg" };
+const usdk = { "symbol": "USDK", "icon": "usdk.svg" };
 
 
 /***/ }),
@@ -7684,7 +7893,7 @@ const usdk = { "symbol": "USDK", "icon": "icons/usdk.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "usdn", function() { return usdn; });
-const usdn = { "symbol": "USDN", "icon": "icons/usdn.svg" };
+const usdn = { "symbol": "USDN", "icon": "usdn.svg" };
 
 
 /***/ }),
@@ -7699,7 +7908,7 @@ const usdn = { "symbol": "USDN", "icon": "icons/usdn.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "usdt", function() { return usdt; });
-const usdt = { "symbol": "USDT", "icon": "icons/usdt.svg" };
+const usdt = { "symbol": "USDT", "icon": "usdt.svg" };
 
 
 /***/ }),
@@ -7714,7 +7923,7 @@ const usdt = { "symbol": "USDT", "icon": "icons/usdt.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "vee", function() { return vee; });
-const vee = { "symbol": "VEE", "icon": "icons/vee.svg" };
+const vee = { "symbol": "VEE", "icon": "vee.svg" };
 
 
 /***/ }),
@@ -7729,7 +7938,7 @@ const vee = { "symbol": "VEE", "icon": "icons/vee.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ven", function() { return ven; });
-const ven = { "symbol": "VEN", "icon": "icons/ven.svg" };
+const ven = { "symbol": "VEN", "icon": "ven.svg" };
 
 
 /***/ }),
@@ -7744,7 +7953,7 @@ const ven = { "symbol": "VEN", "icon": "icons/ven.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "veri", function() { return veri; });
-const veri = { "symbol": "VERI", "icon": "icons/veri.svg" };
+const veri = { "symbol": "VERI", "icon": "veri.svg" };
 
 
 /***/ }),
@@ -7759,7 +7968,7 @@ const veri = { "symbol": "VERI", "icon": "icons/veri.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "vidya", function() { return vidya; });
-const vidya = { "symbol": "VIDYA", "icon": "icons/vidya.svg" };
+const vidya = { "symbol": "VIDYA", "icon": "vidya.svg" };
 
 
 /***/ }),
@@ -7774,7 +7983,7 @@ const vidya = { "symbol": "VIDYA", "icon": "icons/vidya.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "vifi", function() { return vifi; });
-const vifi = { "symbol": "VIFI", "icon": "icons/vifi.svg" };
+const vifi = { "symbol": "VIFI", "icon": "vifi.svg" };
 
 
 /***/ }),
@@ -7789,7 +7998,7 @@ const vifi = { "symbol": "VIFI", "icon": "icons/vifi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "vision", function() { return vision; });
-const vision = { "symbol": "VISION", "icon": "icons/vision.svg" };
+const vision = { "symbol": "VISION", "icon": "vision.svg" };
 
 
 /***/ }),
@@ -7804,7 +8013,7 @@ const vision = { "symbol": "VISION", "icon": "icons/vision.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "visr", function() { return visr; });
-const visr = { "symbol": "VISR", "icon": "icons/visr.svg" };
+const visr = { "symbol": "VISR", "icon": "visr.svg" };
 
 
 /***/ }),
@@ -7819,7 +8028,7 @@ const visr = { "symbol": "VISR", "icon": "icons/visr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "vox", function() { return vox; });
-const vox = { "symbol": "VOX", "icon": "icons/vox.svg" };
+const vox = { "symbol": "VOX", "icon": "vox.svg" };
 
 
 /***/ }),
@@ -7834,7 +8043,7 @@ const vox = { "symbol": "VOX", "icon": "icons/vox.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "waif", function() { return waif; });
-const waif = { "symbol": "WAIF", "icon": "icons/waif.svg" };
+const waif = { "symbol": "WAIF", "icon": "waif.svg" };
 
 
 /***/ }),
@@ -7849,7 +8058,7 @@ const waif = { "symbol": "WAIF", "icon": "icons/waif.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wax", function() { return wax; });
-const wax = { "symbol": "WAX", "icon": "icons/wax.svg" };
+const wax = { "symbol": "WAX", "icon": "wax.svg" };
 
 
 /***/ }),
@@ -7864,7 +8073,7 @@ const wax = { "symbol": "WAX", "icon": "icons/wax.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wbtc", function() { return wbtc; });
-const wbtc = { "symbol": "WBTC", "icon": "icons/wbtc.svg" };
+const wbtc = { "symbol": "WBTC", "icon": "wbtc.svg" };
 
 
 /***/ }),
@@ -7879,7 +8088,7 @@ const wbtc = { "symbol": "WBTC", "icon": "icons/wbtc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wbtc1", function() { return wbtc1; });
-const wbtc1 = { "symbol": "WBTC-1", "icon": "icons/wbtc-1.svg" };
+const wbtc1 = { "symbol": "WBTC-1", "icon": "wbtc-1.svg" };
 
 
 /***/ }),
@@ -7894,7 +8103,7 @@ const wbtc1 = { "symbol": "WBTC-1", "icon": "icons/wbtc-1.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wcelo", function() { return wcelo; });
-const wcelo = { "symbol": "WCELO", "icon": "icons/wcelo.svg" };
+const wcelo = { "symbol": "WCELO", "icon": "wcelo.svg" };
 
 
 /***/ }),
@@ -7909,7 +8118,7 @@ const wcelo = { "symbol": "WCELO", "icon": "icons/wcelo.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "weth", function() { return weth; });
-const weth = { "symbol": "WETH", "icon": "icons/weth.svg" };
+const weth = { "symbol": "WETH", "icon": "weth.svg" };
 
 
 /***/ }),
@@ -7924,7 +8133,7 @@ const weth = { "symbol": "WETH", "icon": "icons/weth.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wg0", function() { return wg0; });
-const wg0 = { "symbol": "WG0", "icon": "icons/wg0.svg" };
+const wg0 = { "symbol": "WG0", "icon": "wg0.svg" };
 
 
 /***/ }),
@@ -7939,7 +8148,7 @@ const wg0 = { "symbol": "WG0", "icon": "icons/wg0.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "whale", function() { return whale; });
-const whale = { "symbol": "WHALE", "icon": "icons/whale.svg" };
+const whale = { "symbol": "WHALE", "icon": "whale.svg" };
 
 
 /***/ }),
@@ -7954,7 +8163,7 @@ const whale = { "symbol": "WHALE", "icon": "icons/whale.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wise", function() { return wise; });
-const wise = { "symbol": "WISE", "icon": "icons/wise.svg" };
+const wise = { "symbol": "WISE", "icon": "wise.svg" };
 
 
 /***/ }),
@@ -7969,7 +8178,7 @@ const wise = { "symbol": "WISE", "icon": "icons/wise.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wnxm", function() { return wnxm; });
-const wnxm = { "symbol": "WNXM", "icon": "icons/wnxm.svg" };
+const wnxm = { "symbol": "WNXM", "icon": "wnxm.svg" };
 
 
 /***/ }),
@@ -7984,7 +8193,7 @@ const wnxm = { "symbol": "WNXM", "icon": "icons/wnxm.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "woo", function() { return woo; });
-const woo = { "symbol": "WOO", "icon": "icons/woo.svg" };
+const woo = { "symbol": "WOO", "icon": "woo.svg" };
 
 
 /***/ }),
@@ -7999,7 +8208,7 @@ const woo = { "symbol": "WOO", "icon": "icons/woo.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "woofy", function() { return woofy; });
-const woofy = { "symbol": "WOOFY", "icon": "icons/woofy.svg" };
+const woofy = { "symbol": "WOOFY", "icon": "woofy.svg" };
 
 
 /***/ }),
@@ -8014,7 +8223,7 @@ const woofy = { "symbol": "WOOFY", "icon": "icons/woofy.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wpr", function() { return wpr; });
-const wpr = { "symbol": "WPR", "icon": "icons/wpr.svg" };
+const wpr = { "symbol": "WPR", "icon": "wpr.svg" };
 
 
 /***/ }),
@@ -8029,7 +8238,7 @@ const wpr = { "symbol": "WPR", "icon": "icons/wpr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wrx", function() { return wrx; });
-const wrx = { "symbol": "WRX", "icon": "icons/wrx.svg" };
+const wrx = { "symbol": "WRX", "icon": "wrx.svg" };
 
 
 /***/ }),
@@ -8044,7 +8253,7 @@ const wrx = { "symbol": "WRX", "icon": "icons/wrx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wsta", function() { return wsta; });
-const wsta = { "symbol": "WSTA", "icon": "icons/wsta.svg" };
+const wsta = { "symbol": "WSTA", "icon": "wsta.svg" };
 
 
 /***/ }),
@@ -8059,7 +8268,7 @@ const wsta = { "symbol": "WSTA", "icon": "icons/wsta.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wtc", function() { return wtc; });
-const wtc = { "symbol": "WTC", "icon": "icons/wtc.svg" };
+const wtc = { "symbol": "WTC", "icon": "wtc.svg" };
 
 
 /***/ }),
@@ -8074,7 +8283,7 @@ const wtc = { "symbol": "WTC", "icon": "icons/wtc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wwgr", function() { return wwgr; });
-const wwgr = { "symbol": "WWGR", "icon": "icons/wwgr.svg" };
+const wwgr = { "symbol": "WWGR", "icon": "wwgr.svg" };
 
 
 /***/ }),
@@ -8089,7 +8298,7 @@ const wwgr = { "symbol": "WWGR", "icon": "icons/wwgr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "xed", function() { return xed; });
-const xed = { "symbol": "XED", "icon": "icons/xed.svg" };
+const xed = { "symbol": "XED", "icon": "xed.svg" };
 
 
 /***/ }),
@@ -8104,7 +8313,7 @@ const xed = { "symbol": "XED", "icon": "icons/xed.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "xhdx", function() { return xhdx; });
-const xhdx = { "symbol": "XHDX", "icon": "icons/xhdx.svg" };
+const xhdx = { "symbol": "XHDX", "icon": "xhdx.svg" };
 
 
 /***/ }),
@@ -8119,7 +8328,7 @@ const xhdx = { "symbol": "XHDX", "icon": "icons/xhdx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "xor", function() { return xor; });
-const xor = { "symbol": "XOR", "icon": "icons/xor.svg" };
+const xor = { "symbol": "XOR", "icon": "xor.svg" };
 
 
 /***/ }),
@@ -8134,7 +8343,7 @@ const xor = { "symbol": "XOR", "icon": "icons/xor.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "xrge", function() { return xrge; });
-const xrge = { "symbol": "XRGE", "icon": "icons/xrge.svg" };
+const xrge = { "symbol": "XRGE", "icon": "xrge.svg" };
 
 
 /***/ }),
@@ -8149,7 +8358,7 @@ const xrge = { "symbol": "XRGE", "icon": "icons/xrge.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "xtk", function() { return xtk; });
-const xtk = { "symbol": "XTK", "icon": "icons/xtk.svg" };
+const xtk = { "symbol": "XTK", "icon": "xtk.svg" };
 
 
 /***/ }),
@@ -8164,7 +8373,7 @@ const xtk = { "symbol": "XTK", "icon": "icons/xtk.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yeld", function() { return yeld; });
-const yeld = { "symbol": "YELD", "icon": "icons/yeld.svg" };
+const yeld = { "symbol": "YELD", "icon": "yeld.svg" };
 
 
 /***/ }),
@@ -8179,7 +8388,7 @@ const yeld = { "symbol": "YELD", "icon": "icons/yeld.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yfDai", function() { return yfDai; });
-const yfDai = { "symbol": "YF-DAI", "icon": "icons/yf-dai.svg" };
+const yfDai = { "symbol": "YF-DAI", "icon": "yf-dai.svg" };
 
 
 /***/ }),
@@ -8194,7 +8403,7 @@ const yfDai = { "symbol": "YF-DAI", "icon": "icons/yf-dai.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yfi", function() { return yfi; });
-const yfi = { "symbol": "YFI", "icon": "icons/yfi.svg" };
+const yfi = { "symbol": "YFI", "icon": "yfi.svg" };
 
 
 /***/ }),
@@ -8209,7 +8418,7 @@ const yfi = { "symbol": "YFI", "icon": "icons/yfi.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yfii", function() { return yfii; });
-const yfii = { "symbol": "YFII", "icon": "icons/yfii.svg" };
+const yfii = { "symbol": "YFII", "icon": "yfii.svg" };
 
 
 /***/ }),
@@ -8224,7 +8433,7 @@ const yfii = { "symbol": "YFII", "icon": "icons/yfii.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ygy", function() { return ygy; });
-const ygy = { "symbol": "YGY", "icon": "icons/ygy.svg" };
+const ygy = { "symbol": "YGY", "icon": "ygy.svg" };
 
 
 /***/ }),
@@ -8239,7 +8448,7 @@ const ygy = { "symbol": "YGY", "icon": "icons/ygy.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yld", function() { return yld; });
-const yld = { "symbol": "YLD", "icon": "icons/yld.svg" };
+const yld = { "symbol": "YLD", "icon": "yld.svg" };
 
 
 /***/ }),
@@ -8254,7 +8463,7 @@ const yld = { "symbol": "YLD", "icon": "icons/yld.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yop", function() { return yop; });
-const yop = { "symbol": "YOP", "icon": "icons/yop.svg" };
+const yop = { "symbol": "YOP", "icon": "yop.svg" };
 
 
 /***/ }),
@@ -8269,7 +8478,7 @@ const yop = { "symbol": "YOP", "icon": "icons/yop.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "zefu", function() { return zefu; });
-const zefu = { "symbol": "ZEFU", "icon": "icons/zefu.svg" };
+const zefu = { "symbol": "ZEFU", "icon": "zefu.svg" };
 
 
 /***/ }),
@@ -8284,7 +8493,7 @@ const zefu = { "symbol": "ZEFU", "icon": "icons/zefu.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "zeroxbtc", function() { return zeroxbtc; });
-const zeroxbtc = { "symbol": "0XBTC", "icon": "icons/0xbtc.svg" };
+const zeroxbtc = { "symbol": "0XBTC", "icon": "0xbtc.svg" };
 
 
 /***/ }),
@@ -8299,7 +8508,7 @@ const zeroxbtc = { "symbol": "0XBTC", "icon": "icons/0xbtc.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "zeroxmr", function() { return zeroxmr; });
-const zeroxmr = { "symbol": "0XMR", "icon": "icons/0xmr.svg" };
+const zeroxmr = { "symbol": "0XMR", "icon": "0xmr.svg" };
 
 
 /***/ }),
@@ -8314,7 +8523,7 @@ const zeroxmr = { "symbol": "0XMR", "icon": "icons/0xmr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "zil", function() { return zil; });
-const zil = { "symbol": "ZIL", "icon": "icons/zil.svg" };
+const zil = { "symbol": "ZIL", "icon": "zil.svg" };
 
 
 /***/ }),
@@ -8329,7 +8538,7 @@ const zil = { "symbol": "ZIL", "icon": "icons/zil.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "zpr", function() { return zpr; });
-const zpr = { "symbol": "ZPR", "icon": "icons/zpr.svg" };
+const zpr = { "symbol": "ZPR", "icon": "zpr.svg" };
 
 
 /***/ }),
@@ -8344,7 +8553,7 @@ const zpr = { "symbol": "ZPR", "icon": "icons/zpr.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "zrx", function() { return zrx; });
-const zrx = { "symbol": "ZRX", "icon": "icons/zrx.svg" };
+const zrx = { "symbol": "ZRX", "icon": "zrx.svg" };
 
 
 /***/ }),
@@ -8359,7 +8568,7 @@ const zrx = { "symbol": "ZRX", "icon": "icons/zrx.svg" };
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "zut", function() { return zut; });
-const zut = { "symbol": "ZUT", "icon": "icons/zut.svg" };
+const zut = { "symbol": "ZUT", "icon": "zut.svg" };
 
 
 /***/ })

@@ -1,1 +1,0 @@
-export const power = {"symbol":"POWER","icon":"icons/power.svg"}

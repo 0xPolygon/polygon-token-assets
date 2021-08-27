@@ -1,1 +1,0 @@
-export const dcn = {"symbol":"DCN","icon":"icons/dcn.svg"}

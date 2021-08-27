@@ -1,1 +1,0 @@
-export const hoge = {"symbol":"HOGE","icon":"icons/hoge.svg"}

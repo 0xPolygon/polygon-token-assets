@@ -1,1 +1,0 @@
-export const ethix = {"symbol":"ETHIX","icon":"icons/ethix.svg"}

@@ -1,1 +1,0 @@
-export const hopr = {"symbol":"HOPR","icon":"icons/hopr.svg"}

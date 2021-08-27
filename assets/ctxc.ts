@@ -1,1 +1,0 @@
-export const ctxc = {"symbol":"CTXC","icon":"icons/ctxc.svg"}

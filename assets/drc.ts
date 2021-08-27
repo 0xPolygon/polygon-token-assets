@@ -1,1 +1,0 @@
-export const drc = {"symbol":"DRC","icon":"icons/drc.svg"}

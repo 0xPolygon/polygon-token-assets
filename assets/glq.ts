@@ -1,1 +1,0 @@
-export const glq = {"symbol":"GLQ","icon":"icons/glq.svg"}

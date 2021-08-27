@@ -1,1 +1,0 @@
-export const ardu = {"symbol":"ARDU","icon":"icons/ardu.svg"}

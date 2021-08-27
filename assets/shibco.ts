@@ -1,1 +1,0 @@
-export const shibco = {"symbol":"SHIBCO","icon":"icons/shibco.svg"}

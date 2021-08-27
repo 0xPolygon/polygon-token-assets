@@ -1,1 +1,0 @@
-export const bmi = {"symbol":"BMI","icon":"icons/bmi.svg"}

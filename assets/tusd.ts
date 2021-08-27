@@ -1,1 +1,0 @@
-export const tusd = {"symbol":"TUSD","icon":"icons/tusd.svg"}

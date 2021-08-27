@@ -1,1 +1,0 @@
-export const bid = {"symbol":"BID","icon":"icons/bid.svg"}

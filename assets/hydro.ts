@@ -1,1 +1,0 @@
-export const hydro = {"symbol":"HYDRO","icon":"icons/hydro.svg"}

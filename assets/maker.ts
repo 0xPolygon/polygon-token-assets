@@ -1,1 +1,0 @@
-export const maker = {"symbol":"MAKER","icon":"icons/maker.svg"}

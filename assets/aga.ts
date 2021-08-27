@@ -1,1 +1,0 @@
-export const aga = {"symbol":"AGA","icon":"icons/aga.svg"}

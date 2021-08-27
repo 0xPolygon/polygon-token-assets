@@ -1,1 +1,0 @@
-export const trnd = {"symbol":"TRND","icon":"icons/trnd.svg"}

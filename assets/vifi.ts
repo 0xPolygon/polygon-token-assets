@@ -1,1 +1,0 @@
-export const vifi = {"symbol":"VIFI","icon":"icons/vifi.svg"}

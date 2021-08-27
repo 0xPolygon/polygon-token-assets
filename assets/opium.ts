@@ -1,1 +1,0 @@
-export const opium = {"symbol":"OPIUM","icon":"icons/opium.svg"}

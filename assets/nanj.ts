@@ -1,1 +1,0 @@
-export const nanj = {"symbol":"NANJ","icon":"icons/nanj.svg"}

@@ -1,1 +1,0 @@
-export const bepro = {"symbol":"BEPRO","icon":"icons/bepro.svg"}

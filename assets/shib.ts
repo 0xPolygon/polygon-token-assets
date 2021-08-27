@@ -1,1 +1,0 @@
-export const shib = {"symbol":"SHIB","icon":"icons/shib.svg"}

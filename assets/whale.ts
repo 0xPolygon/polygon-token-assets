@@ -1,1 +1,0 @@
-export const whale = {"symbol":"WHALE","icon":"icons/whale.svg"}

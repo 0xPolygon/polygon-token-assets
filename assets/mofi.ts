@@ -1,1 +1,0 @@
-export const mofi = {"symbol":"MOFI","icon":"icons/mofi.svg"}

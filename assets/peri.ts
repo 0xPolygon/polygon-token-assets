@@ -1,1 +1,0 @@
-export const peri = {"symbol":"PERI","icon":"icons/peri.svg"}

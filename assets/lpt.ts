@@ -1,1 +1,0 @@
-export const lpt = {"symbol":"LPT","icon":"icons/lpt.svg"}

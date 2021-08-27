@@ -1,1 +1,0 @@
-export const weth = {"symbol":"WETH","icon":"icons/weth.svg"}

@@ -1,1 +1,0 @@
-export const kncl = {"symbol":"KNCL","icon":"icons/kncl.svg"}

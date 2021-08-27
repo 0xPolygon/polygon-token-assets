@@ -1,1 +1,0 @@
-export const inj = {"symbol":"INJ","icon":"icons/inj.svg"}

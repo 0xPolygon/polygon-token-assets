@@ -1,1 +1,0 @@
-export const ftt = {"symbol":"FTT","icon":"icons/ftt.svg"}

@@ -1,1 +1,0 @@
-export const mvi = {"symbol":"MVI","icon":"icons/mvi.svg"}

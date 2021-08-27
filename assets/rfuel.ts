@@ -1,1 +1,0 @@
-export const rfuel = {"symbol":"RFUEL","icon":"icons/rfuel.svg"}

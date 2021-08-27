@@ -1,1 +1,0 @@
-export const ccio = {"symbol":"CCIO","icon":"icons/ccio.svg"}

@@ -1,1 +1,0 @@
-export const penky = {"symbol":"PENKY","icon":"icons/penky.svg"}

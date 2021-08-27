@@ -1,1 +1,0 @@
-export const dsla = {"symbol":"DSLA","icon":"icons/dsla.svg"}

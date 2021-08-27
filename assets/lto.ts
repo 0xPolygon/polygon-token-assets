@@ -1,1 +1,0 @@
-export const lto = {"symbol":"LTO","icon":"icons/lto.svg"}

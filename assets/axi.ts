@@ -1,1 +1,0 @@
-export const axi = {"symbol":"AXI","icon":"icons/axi.svg"}

@@ -1,1 +1,0 @@
-export const cls = {"symbol":"CLS","icon":"icons/cls.svg"}

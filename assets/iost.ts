@@ -1,1 +1,0 @@
-export const iost = {"symbol":"IOST","icon":"icons/iost.svg"}

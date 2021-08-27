@@ -1,1 +1,0 @@
-export const band = {"symbol":"BAND","icon":"icons/band.svg"}

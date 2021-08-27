@@ -1,1 +1,0 @@
-export const opu = {"symbol":"OPU","icon":"icons/opu.svg"}

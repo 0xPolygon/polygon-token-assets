@@ -1,1 +1,0 @@
-export const degen = {"symbol":"DEGEN","icon":"icons/degen.svg"}

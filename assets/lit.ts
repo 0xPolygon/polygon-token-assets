@@ -1,1 +1,0 @@
-export const lit = {"symbol":"LIT","icon":"icons/lit.svg"}

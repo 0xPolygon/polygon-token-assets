@@ -1,1 +1,0 @@
-export const npxs = {"symbol":"NPXS","icon":"icons/npxs.svg"}

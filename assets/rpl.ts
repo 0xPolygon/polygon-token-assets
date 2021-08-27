@@ -1,1 +1,0 @@
-export const rpl = {"symbol":"RPL","icon":"icons/rpl.svg"}

@@ -1,1 +1,0 @@
-export const ppblz = {"symbol":"PPBLZ","icon":"icons/ppblz.svg"}

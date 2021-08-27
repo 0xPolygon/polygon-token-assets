@@ -1,1 +1,0 @@
-export const karma = {"symbol":"KARMA","icon":"icons/karma.svg"}

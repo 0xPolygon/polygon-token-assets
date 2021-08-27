@@ -1,1 +1,0 @@
-export const mph = {"symbol":"MPH","icon":"icons/mph.svg"}

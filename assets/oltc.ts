@@ -1,1 +1,0 @@
-export const oltc = {"symbol":"OLTC","icon":"icons/oltc.svg"}

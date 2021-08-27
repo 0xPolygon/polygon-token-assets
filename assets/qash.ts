@@ -1,1 +1,0 @@
-export const qash = {"symbol":"QASH","icon":"icons/qash.svg"}

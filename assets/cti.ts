@@ -1,1 +1,0 @@
-export const cti = {"symbol":"CTI","icon":"icons/cti.svg"}

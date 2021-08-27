@@ -1,1 +1,0 @@
-export const bondly = {"symbol":"BONDLY","icon":"icons/bondly.svg"}

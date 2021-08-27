@@ -1,1 +1,0 @@
-export const mtsla = {"symbol":"MTSLA","icon":"icons/mtsla.svg"}

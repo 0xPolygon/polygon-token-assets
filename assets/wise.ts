@@ -1,1 +1,0 @@
-export const wise = {"symbol":"WISE","icon":"icons/wise.svg"}

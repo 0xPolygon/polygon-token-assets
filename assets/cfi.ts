@@ -1,1 +1,0 @@
-export const cfi = {"symbol":"CFI","icon":"icons/cfi.svg"}

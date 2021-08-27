@@ -1,1 +1,0 @@
-export const sushi = {"symbol":"SUSHI","icon":"icons/sushi.svg"}

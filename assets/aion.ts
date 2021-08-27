@@ -1,1 +1,0 @@
-export const aion = {"symbol":"AION","icon":"icons/aion.svg"}

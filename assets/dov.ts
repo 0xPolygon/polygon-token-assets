@@ -1,1 +1,0 @@
-export const dov = {"symbol":"DOV","icon":"icons/dov.svg"}

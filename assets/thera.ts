@@ -1,1 +1,0 @@
-export const thera = {"symbol":"THERA","icon":"icons/thera.svg"}

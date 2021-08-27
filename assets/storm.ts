@@ -1,1 +1,0 @@
-export const storm = {"symbol":"STORM","icon":"icons/storm.svg"}

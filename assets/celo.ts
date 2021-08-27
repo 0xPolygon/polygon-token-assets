@@ -1,1 +1,0 @@
-export const celo = {"symbol":"CELO","icon":"icons/celo.svg"}

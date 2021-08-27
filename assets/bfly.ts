@@ -1,1 +1,0 @@
-export const bfly = {"symbol":"BFLY","icon":"icons/bfly.svg"}

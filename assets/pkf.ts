@@ -1,1 +1,0 @@
-export const pkf = {"symbol":"PKF","icon":"icons/pkf.svg"}

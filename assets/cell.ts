@@ -1,1 +1,0 @@
-export const cell = {"symbol":"CELL","icon":"icons/cell.svg"}

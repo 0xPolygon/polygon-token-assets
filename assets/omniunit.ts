@@ -1,1 +1,0 @@
-export const omniunit = {"symbol":"OMNIUNIT","icon":"icons/omniunit.svg"}

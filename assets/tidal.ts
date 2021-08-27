@@ -1,1 +1,0 @@
-export const tidal = {"symbol":"TIDAL","icon":"icons/tidal.svg"}

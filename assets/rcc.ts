@@ -1,1 +1,0 @@
-export const rcc = {"symbol":"RCC","icon":"icons/rcc.svg"}

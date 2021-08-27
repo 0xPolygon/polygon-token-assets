@@ -1,1 +1,0 @@
-export const acbtc = {"symbol":"ACBTC","icon":"icons/acbtc.svg"}

@@ -1,1 +1,0 @@
-export const uni = {"symbol":"UNI","icon":"icons/uni.svg"}

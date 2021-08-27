@@ -1,1 +1,0 @@
-export const meme = {"symbol":"MEME","icon":"icons/meme.svg"}

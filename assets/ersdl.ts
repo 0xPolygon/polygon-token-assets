@@ -1,1 +1,0 @@
-export const ersdl = {"symbol":"ERSDL","icon":"icons/ersdl.svg"}

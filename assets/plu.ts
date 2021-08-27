@@ -1,1 +1,0 @@
-export const plu = {"symbol":"PLU","icon":"icons/plu.svg"}

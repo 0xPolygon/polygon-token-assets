@@ -1,1 +1,0 @@
-export const koin1 = {"symbol":"KOIN-1","icon":"icons/koin-1.svg"}

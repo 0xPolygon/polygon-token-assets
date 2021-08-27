@@ -1,1 +1,0 @@
-export const buidl = {"symbol":"BUIDL","icon":"icons/buidl.svg"}

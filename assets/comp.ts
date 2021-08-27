@@ -1,1 +1,0 @@
-export const comp = {"symbol":"COMP","icon":"icons/comp.svg"}

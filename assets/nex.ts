@@ -1,1 +1,0 @@
-export const nex = {"symbol":"NEX","icon":"icons/nex.svg"}

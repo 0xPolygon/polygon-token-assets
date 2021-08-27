@@ -1,1 +1,0 @@
-export const dust = {"symbol":"DUST","icon":"icons/dust.svg"}

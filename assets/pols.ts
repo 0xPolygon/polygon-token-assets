@@ -1,1 +1,0 @@
-export const pols = {"symbol":"POLS","icon":"icons/pols.svg"}

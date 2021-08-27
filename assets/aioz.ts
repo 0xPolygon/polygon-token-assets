@@ -1,1 +1,0 @@
-export const aioz = {"symbol":"AIOZ","icon":"icons/aioz.svg"}

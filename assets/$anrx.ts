@@ -1,1 +1,0 @@
-export const $anrx = {"symbol":"$ANRX","icon":"icons/$anrx.svg"}

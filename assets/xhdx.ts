@@ -1,1 +1,0 @@
-export const xhdx = {"symbol":"XHDX","icon":"icons/xhdx.svg"}

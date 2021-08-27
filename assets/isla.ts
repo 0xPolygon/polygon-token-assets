@@ -1,1 +1,0 @@
-export const isla = {"symbol":"ISLA","icon":"icons/isla.svg"}

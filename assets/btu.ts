@@ -1,1 +1,0 @@
-export const btu = {"symbol":"BTU","icon":"icons/btu.svg"}

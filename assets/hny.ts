@@ -1,1 +1,0 @@
-export const hny = {"symbol":"HNY","icon":"icons/hny.svg"}

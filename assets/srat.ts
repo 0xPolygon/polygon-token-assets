@@ -1,1 +1,0 @@
-export const srat = {"symbol":"SRAT","icon":"icons/srat.svg"}

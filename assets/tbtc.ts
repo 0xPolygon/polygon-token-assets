@@ -1,1 +1,0 @@
-export const tbtc = {"symbol":"TBTC","icon":"icons/tbtc.svg"}

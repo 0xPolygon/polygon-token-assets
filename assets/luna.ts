@@ -1,1 +1,0 @@
-export const luna = {"symbol":"LUNA","icon":"icons/luna.svg"}

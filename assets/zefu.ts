@@ -1,1 +1,0 @@
-export const zefu = {"symbol":"ZEFU","icon":"icons/zefu.svg"}

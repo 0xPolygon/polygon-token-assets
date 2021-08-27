@@ -1,1 +1,0 @@
-export const rari = {"symbol":"RARI","icon":"icons/rari.svg"}

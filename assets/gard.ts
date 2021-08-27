@@ -1,1 +1,0 @@
-export const gard = {"symbol":"GARD","icon":"icons/gard.svg"}

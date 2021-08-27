@@ -1,1 +1,0 @@
-export const yfi = {"symbol":"YFI","icon":"icons/yfi.svg"}

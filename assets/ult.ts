@@ -1,1 +1,0 @@
-export const ult = {"symbol":"ULT","icon":"icons/ult.svg"}

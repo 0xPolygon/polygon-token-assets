@@ -1,1 +1,0 @@
-export const niox = {"symbol":"NIOX","icon":"icons/niox.svg"}

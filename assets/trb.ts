@@ -1,1 +1,0 @@
-export const trb = {"symbol":"TRB","icon":"icons/trb.svg"}

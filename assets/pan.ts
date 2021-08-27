@@ -1,1 +1,0 @@
-export const pan = {"symbol":"PAN","icon":"icons/pan.svg"}

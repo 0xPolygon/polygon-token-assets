@@ -1,1 +1,0 @@
-export const truebit = {"symbol":"TRUEBIT","icon":"icons/truebit.svg"}

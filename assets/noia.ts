@@ -1,1 +1,0 @@
-export const noia = {"symbol":"NOIA","icon":"icons/noia.svg"}

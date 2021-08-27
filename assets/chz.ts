@@ -1,1 +1,0 @@
-export const chz = {"symbol":"CHZ","icon":"icons/chz.svg"}

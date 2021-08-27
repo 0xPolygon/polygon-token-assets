@@ -1,1 +1,0 @@
-export const govi = {"symbol":"GOVI","icon":"icons/govi.svg"}

@@ -1,1 +1,0 @@
-export const gto = {"symbol":"GTO","icon":"icons/gto.svg"}

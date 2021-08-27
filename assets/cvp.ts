@@ -1,1 +1,0 @@
-export const cvp = {"symbol":"CVP","icon":"icons/cvp.svg"}

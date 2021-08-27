@@ -1,1 +1,0 @@
-export const cor = {"symbol":"COR","icon":"icons/cor.svg"}

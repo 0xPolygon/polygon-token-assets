@@ -1,1 +1,0 @@
-export const wbtc = {"symbol":"WBTC","icon":"icons/wbtc.svg"}

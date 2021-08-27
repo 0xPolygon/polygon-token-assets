@@ -1,1 +1,0 @@
-export const superbid = {"symbol":"SUPERBID","icon":"icons/superbid.svg"}

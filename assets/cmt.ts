@@ -1,1 +1,0 @@
-export const cmt = {"symbol":"CMT","icon":"icons/cmt.svg"}

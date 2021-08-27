@@ -1,1 +1,0 @@
-export const polven = {"symbol":"POLVEN","icon":"icons/polven.svg"}

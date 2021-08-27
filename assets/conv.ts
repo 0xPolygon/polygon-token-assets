@@ -1,1 +1,0 @@
-export const conv = {"symbol":"CONV","icon":"icons/conv.svg"}

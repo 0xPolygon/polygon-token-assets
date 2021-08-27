@@ -1,1 +1,0 @@
-export const lpl = {"symbol":"LPL","icon":"icons/lpl.svg"}

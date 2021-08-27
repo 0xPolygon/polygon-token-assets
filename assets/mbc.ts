@@ -1,1 +1,0 @@
-export const mbc = {"symbol":"MBC","icon":"icons/mbc.svg"}

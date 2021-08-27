@@ -1,1 +1,0 @@
-export const gusd = {"symbol":"GUSD","icon":"icons/gusd.svg"}

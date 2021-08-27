@@ -1,1 +1,0 @@
-export const btc2xFli = {"symbol":"BTC2X-FLI","icon":"icons/btc2x-fli.svg"}

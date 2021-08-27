@@ -1,1 +1,0 @@
-export const trx = {"symbol":"TRX","icon":"icons/trx.svg"}

@@ -1,1 +1,0 @@
-export const kiwi = {"symbol":"KIWI","icon":"icons/kiwi.svg"}

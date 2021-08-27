@@ -1,1 +1,0 @@
-export const unn = {"symbol":"UNN","icon":"icons/unn.svg"}

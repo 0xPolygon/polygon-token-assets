@@ -1,1 +1,0 @@
-export const umx = {"symbol":"UMX","icon":"icons/umx.svg"}

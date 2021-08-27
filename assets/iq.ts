@@ -1,1 +1,0 @@
-export const iq = {"symbol":"IQ","icon":"icons/iq.svg"}

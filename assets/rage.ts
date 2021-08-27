@@ -1,1 +1,0 @@
-export const rage = {"symbol":"RAGE","icon":"icons/rage.svg"}

@@ -1,1 +1,0 @@
-export const zrx = {"symbol":"ZRX","icon":"icons/zrx.svg"}

@@ -1,1 +1,0 @@
-export const dex = {"symbol":"DEX","icon":"icons/dex.svg"}

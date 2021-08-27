@@ -1,1 +1,0 @@
-export const fxs = {"symbol":"FXS","icon":"icons/fxs.svg"}

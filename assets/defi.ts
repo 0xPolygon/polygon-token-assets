@@ -1,1 +1,0 @@
-export const defi = {"symbol":"DEFI","icon":"icons/defi.svg"}

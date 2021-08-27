@@ -1735,4 +1735,48 @@ export declare const list: {
         symbol: string;
         icon: string;
     };
+    kton: {
+        symbol: string;
+        icon: string;
+    };
+    mooned: {
+        symbol: string;
+        icon: string;
+    };
+    ooe: {
+        symbol: string;
+        icon: string;
+    };
+    ring: {
+        symbol: string;
+        icon: string;
+    };
+    rvf: {
+        symbol: string;
+        icon: string;
+    };
+    sca: {
+        symbol: string;
+        icon: string;
+    };
+    arth: {
+        symbol: string;
+        icon: string;
+    };
+    arthx: {
+        symbol: string;
+        icon: string;
+    };
+    maha: {
+        symbol: string;
+        icon: string;
+    };
+    trade: {
+        symbol: string;
+        icon: string;
+    };
+    umber: {
+        symbol: string;
+        icon: string;
+    };
 };

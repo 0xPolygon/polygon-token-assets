@@ -1,1 +1,0 @@
-export const bnty = {"symbol":"BNTY","icon":"icons/bnty.svg"}

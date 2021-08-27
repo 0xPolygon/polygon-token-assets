@@ -1,1 +1,0 @@
-export const oft = {"symbol":"OFT","icon":"icons/oft.svg"}

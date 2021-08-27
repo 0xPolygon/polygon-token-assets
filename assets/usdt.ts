@@ -1,1 +1,0 @@
-export const usdt = {"symbol":"USDT","icon":"icons/usdt.svg"}

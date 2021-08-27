@@ -1,1 +1,0 @@
-export const quick = {"symbol":"QUICK","icon":"icons/quick.svg"}

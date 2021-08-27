@@ -1,1 +1,0 @@
-export const sub = {"symbol":"SUB","icon":"icons/sub.svg"}

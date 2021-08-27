@@ -1,1 +1,0 @@
-export const btm = {"symbol":"BTM","icon":"icons/btm.svg"}

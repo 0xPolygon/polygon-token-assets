@@ -1,1 +1,0 @@
-export const dpi = {"symbol":"DPI","icon":"icons/dpi.svg"}

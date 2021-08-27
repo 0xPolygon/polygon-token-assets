@@ -1,1 +1,0 @@
-export const pteria = {"symbol":"PTERIA","icon":"icons/pteria.svg"}

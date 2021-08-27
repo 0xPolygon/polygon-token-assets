@@ -1,1 +1,0 @@
-export const rtk = {"symbol":"RTK","icon":"icons/rtk.svg"}

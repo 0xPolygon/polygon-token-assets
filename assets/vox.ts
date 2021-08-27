@@ -1,1 +1,0 @@
-export const vox = {"symbol":"VOX","icon":"icons/vox.svg"}

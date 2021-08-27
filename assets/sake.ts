@@ -1,1 +1,0 @@
-export const sake = {"symbol":"SAKE","icon":"icons/sake.svg"}

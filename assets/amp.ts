@@ -1,1 +1,0 @@
-export const amp = {"symbol":"AMP","icon":"icons/amp.svg"}

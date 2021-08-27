@@ -1,1 +1,0 @@
-export const dam = {"symbol":"DAM","icon":"icons/dam.svg"}

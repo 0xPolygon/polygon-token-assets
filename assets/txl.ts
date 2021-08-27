@@ -1,1 +1,0 @@
-export const txl = {"symbol":"TXL","icon":"icons/txl.svg"}

@@ -1,1 +1,0 @@
-export const wnxm = {"symbol":"WNXM","icon":"icons/wnxm.svg"}

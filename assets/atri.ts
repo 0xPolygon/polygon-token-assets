@@ -1,1 +1,0 @@
-export const atri = {"symbol":"ATRI","icon":"icons/atri.svg"}

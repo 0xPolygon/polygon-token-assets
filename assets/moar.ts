@@ -1,1 +1,0 @@
-export const moar = {"symbol":"MOAR","icon":"icons/moar.svg"}

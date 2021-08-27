@@ -1,1 +1,0 @@
-export const yop = {"symbol":"YOP","icon":"icons/yop.svg"}

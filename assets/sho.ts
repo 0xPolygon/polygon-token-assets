@@ -1,1 +1,0 @@
-export const sho = {"symbol":"SHO","icon":"icons/sho.svg"}

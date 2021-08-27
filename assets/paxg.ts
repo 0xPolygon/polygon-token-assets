@@ -1,1 +1,0 @@
-export const paxg = {"symbol":"PAXG","icon":"icons/paxg.svg"}

@@ -1,1 +1,0 @@
-export const inxt = {"symbol":"INXT","icon":"icons/inxt.svg"}

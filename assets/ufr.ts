@@ -1,1 +1,0 @@
-export const ufr = {"symbol":"UFR","icon":"icons/ufr.svg"}

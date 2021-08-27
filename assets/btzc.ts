@@ -1,1 +1,0 @@
-export const btzc = {"symbol":"BTZC","icon":"icons/btzc.svg"}

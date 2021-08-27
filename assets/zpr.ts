@@ -1,1 +1,0 @@
-export const zpr = {"symbol":"ZPR","icon":"icons/zpr.svg"}

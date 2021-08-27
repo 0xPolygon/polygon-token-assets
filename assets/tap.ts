@@ -1,1 +1,0 @@
-export const tap = {"symbol":"TAP","icon":"icons/tap.svg"}

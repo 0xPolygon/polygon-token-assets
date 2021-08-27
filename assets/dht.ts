@@ -1,1 +1,0 @@
-export const dht = {"symbol":"DHT","icon":"icons/dht.svg"}

@@ -1,1 +1,0 @@
-export const dark = {"symbol":"DARK","icon":"icons/dark.svg"}

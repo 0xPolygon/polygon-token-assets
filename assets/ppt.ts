@@ -1,1 +1,0 @@
-export const ppt = {"symbol":"PPT","icon":"icons/ppt.svg"}

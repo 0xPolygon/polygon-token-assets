@@ -1,1 +1,0 @@
-export const bond = {"symbol":"BOND","icon":"icons/bond.svg"}

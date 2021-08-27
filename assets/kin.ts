@@ -1,1 +1,0 @@
-export const kin = {"symbol":"KIN","icon":"icons/kin.svg"}

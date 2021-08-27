@@ -1,1 +1,0 @@
-export const dai = {"symbol":"DAI","icon":"icons/dai.svg"}

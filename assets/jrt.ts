@@ -1,1 +1,0 @@
-export const jrt = {"symbol":"JRT","icon":"icons/jrt.svg"}

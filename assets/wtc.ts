@@ -1,1 +1,0 @@
-export const wtc = {"symbol":"WTC","icon":"icons/wtc.svg"}

@@ -1,1 +1,0 @@
-export const mtv = {"symbol":"MTV","icon":"icons/mtv.svg"}

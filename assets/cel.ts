@@ -1,1 +1,0 @@
-export const cel = {"symbol":"CEL","icon":"icons/cel.svg"}

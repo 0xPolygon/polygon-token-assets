@@ -1,1 +1,0 @@
-export const three = {"symbol":"THREE","icon":"icons/three.svg"}

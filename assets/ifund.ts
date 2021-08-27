@@ -1,1 +1,0 @@
-export const ifund = {"symbol":"IFUND","icon":"icons/ifund.svg"}

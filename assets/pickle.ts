@@ -1,1 +1,0 @@
-export const pickle = {"symbol":"PICKLE","icon":"icons/pickle.svg"}

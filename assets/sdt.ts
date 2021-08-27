@@ -1,1 +1,0 @@
-export const sdt = {"symbol":"SDT","icon":"icons/sdt.svg"}

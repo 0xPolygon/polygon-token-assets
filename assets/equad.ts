@@ -1,1 +1,0 @@
-export const equad = {"symbol":"EQUAD","icon":"icons/equad.svg"}

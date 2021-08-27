@@ -1,1 +1,0 @@
-export const onx = {"symbol":"ONX","icon":"icons/onx.svg"}

@@ -1,1 +1,0 @@
-export const ankr = {"symbol":"ANKR","icon":"icons/ankr.svg"}

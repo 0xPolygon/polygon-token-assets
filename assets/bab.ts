@@ -1,1 +1,0 @@
-export const bab = {"symbol":"BAB","icon":"icons/bab.svg"}

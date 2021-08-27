@@ -1,1 +1,0 @@
-export const bnb = {"symbol":"BNB","icon":"icons/bnb.svg"}

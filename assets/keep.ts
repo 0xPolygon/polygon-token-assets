@@ -1,1 +1,0 @@
-export const keep = {"symbol":"KEEP","icon":"icons/keep.svg"}

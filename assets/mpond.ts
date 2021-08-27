@@ -1,1 +1,0 @@
-export const mpond = {"symbol":"MPOND","icon":"icons/mpond.svg"}

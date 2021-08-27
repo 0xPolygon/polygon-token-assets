@@ -1,1 +1,0 @@
-export const force = {"symbol":"FORCE","icon":"icons/force.svg"}

@@ -1,1 +1,0 @@
-export const jpyc = {"symbol":"JPYC","icon":"icons/jpyc.svg"}

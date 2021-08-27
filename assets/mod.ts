@@ -1,1 +1,0 @@
-export const mod = {"symbol":"MOD","icon":"icons/mod.svg"}

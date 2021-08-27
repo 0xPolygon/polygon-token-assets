@@ -1,1 +1,0 @@
-export const mocean = {"symbol":"MOCEAN","icon":"icons/mocean.svg"}

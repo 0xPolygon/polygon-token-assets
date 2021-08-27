@@ -1,1 +1,0 @@
-export const stak = {"symbol":"STAK","icon":"icons/stak.svg"}

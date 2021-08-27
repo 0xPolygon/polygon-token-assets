@@ -1,1 +1,0 @@
-export const rhoc = {"symbol":"RHOC","icon":"icons/rhoc.svg"}

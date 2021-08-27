@@ -1,1 +1,0 @@
-export const hakka = {"symbol":"HAKKA","icon":"icons/hakka.svg"}

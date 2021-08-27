@@ -1,1 +1,0 @@
-export const ctsi = {"symbol":"CTSI","icon":"icons/ctsi.svg"}

@@ -1,1 +1,0 @@
-export const geo = {"symbol":"GEO","icon":"icons/geo.svg"}

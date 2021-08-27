@@ -1,1 +1,0 @@
-export const paint = {"symbol":"PAINT","icon":"icons/paint.svg"}

@@ -1,1 +1,0 @@
-export const nuls = {"symbol":"NULS","icon":"icons/nuls.svg"}

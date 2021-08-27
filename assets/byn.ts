@@ -1,1 +1,0 @@
-export const byn = {"symbol":"BYN","icon":"icons/byn.svg"}

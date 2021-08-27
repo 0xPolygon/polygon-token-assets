@@ -1,1 +1,0 @@
-export const nbu = {"symbol":"NBU","icon":"icons/nbu.svg"}

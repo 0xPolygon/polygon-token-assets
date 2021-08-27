@@ -1,1 +1,0 @@
-export const matic = {"symbol":"MATIC","icon":"icons/matic.svg"}

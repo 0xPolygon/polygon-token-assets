@@ -1,1 +1,0 @@
-export const rbc = {"symbol":"RBC","icon":"icons/rbc.svg"}

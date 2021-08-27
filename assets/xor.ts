@@ -1,1 +1,0 @@
-export const xor = {"symbol":"XOR","icon":"icons/xor.svg"}

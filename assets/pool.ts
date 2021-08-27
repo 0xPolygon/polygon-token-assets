@@ -1,1 +1,0 @@
-export const pool = {"symbol":"POOL","icon":"icons/pool.svg"}

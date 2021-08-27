@@ -1,1 +1,0 @@
-export const eng = {"symbol":"ENG","icon":"icons/eng.svg"}

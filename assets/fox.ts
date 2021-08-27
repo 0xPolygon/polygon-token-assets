@@ -1,1 +1,0 @@
-export const fox = {"symbol":"FOX","icon":"icons/fox.svg"}

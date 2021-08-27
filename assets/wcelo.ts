@@ -1,1 +1,0 @@
-export const wcelo = {"symbol":"WCELO","icon":"icons/wcelo.svg"}

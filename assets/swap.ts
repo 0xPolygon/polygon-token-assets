@@ -1,1 +1,0 @@
-export const swap = {"symbol":"SWAP","icon":"icons/swap.svg"}

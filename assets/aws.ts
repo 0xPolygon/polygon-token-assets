@@ -1,1 +1,0 @@
-export const aws = {"symbol":"AWS","icon":"icons/aws.svg"}

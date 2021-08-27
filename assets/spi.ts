@@ -1,1 +1,0 @@
-export const spi = {"symbol":"SPI","icon":"icons/spi.svg"}

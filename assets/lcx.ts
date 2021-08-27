@@ -1,1 +1,0 @@
-export const lcx = {"symbol":"LCX","icon":"icons/lcx.svg"}

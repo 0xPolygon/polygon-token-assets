@@ -1,1 +1,0 @@
-export const lkr = {"symbol":"LKR","icon":"icons/lkr.svg"}
