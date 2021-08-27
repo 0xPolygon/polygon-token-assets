@@ -1591,7 +1591,7 @@ const list = {
                 symbol: "WAX",
                 icon: 'wax.svg'
         },
-        wbtc1: {
+        'wbtc1': {
                 symbol: "WBTC-1",
                 icon: 'wbtc-1.svg'
         },
@@ -1675,7 +1675,7 @@ const list = {
                 symbol: "YELD",
                 icon: 'yeld.svg'
         },
-        yfDai: {
+        'yfDai': {
                 symbol: "YF-DAI",
                 icon: 'yf-dai.svg'
         },
@@ -1735,6 +1735,50 @@ const list = {
         'peri': {
                 symbol: "PERI",
                 icon: 'peri.svg'
+        },
+        'kton': {
+                symbol: "KTON",
+                icon: 'kton.svg'
+        },
+        'mooned': {
+                symbol: "MOONED",
+                icon: 'mooned.svg'
+        },
+        'ooe': {
+                symbol: "OOE",
+                icon: 'ooe.svg'
+        },
+        'ring': {
+                symbol: "RING",
+                icon: 'ring.svg'
+        },
+        'rvf': {
+                symbol: "RVF",
+                icon: 'rvf.svg'
+        },
+        'sca': {
+                symbol: "SCA",
+                icon: 'sca.svg'
+        },
+        'arth': {
+                symbol: "ARTH",
+                icon: 'arth.svg'
+        },
+        'arthx': {
+                symbol: "ARTHX",
+                icon: 'arthx.svg'
+        },
+        'maha': {
+                symbol: "MAHA",
+                icon: 'maha.svg'
+        },
+        'trade': {
+                symbol: "TRADE",
+                icon: 'trade.svg'
+        },
+        'umber': {
+                symbol: "UMBER",
+                icon: 'umber.svg'
         },
 }
 

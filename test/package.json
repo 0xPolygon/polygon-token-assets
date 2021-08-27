@@ -5,11 +5,11 @@
     "build": "webpack",
     "dev": "webpack-dev-server --config webpack.config.js",
     "start": "npm run dev",
-    "install:lib": "npm i ../maticnetwork-token-assets-1.0.0.tgz",
+    "install:lib": "npm i ../maticnetwork-token-assets-1.0.2.tgz",
     "un:lib": "npm un @maticnetwork/token-assets"
   },
   "dependencies": {
-    "@maticnetwork/token-assets": "file:../maticnetwork-token-assets-1.0.0.tgz",
+    "@maticnetwork/token-assets": "file:../maticnetwork-token-assets-1.0.2.tgz",
     "jquery": "^3.4.0",
     "jsstore": "^4.0.0"
   },

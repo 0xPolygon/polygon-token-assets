@@ -5,3 +5,5 @@ test
 webpack
 tsconfig.json
 *.config.js
+build
+*.tgz
