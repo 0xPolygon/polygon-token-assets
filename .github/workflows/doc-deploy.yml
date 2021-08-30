@@ -35,13 +35,16 @@ jobs:
         run: npm run build:pack
 
       - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        branch: ${{ github.ref }}
+        uses: ad-m/github-push-action@master
+        with:
+         branch: ${{ github.ref }}
 
   build_doc:  
     if: github.ref == 'refs/heads/doc'
-
+    
+     # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    steps:
       - uses: actions/checkout@v2
         with:
          ref: docs
@@ -59,3 +62,4 @@ jobs:
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: docs/dist
+    
