@@ -14,7 +14,8 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  publish:
+    if: github.ref == 'refs/heads/main'
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -26,10 +27,21 @@ jobs:
 
       - name: INSTALL
         run: npm ci
+
+      - name: version patch
+        run: npm version patch
       
       - name: build & pack
         run: npm run build:pack
-        
+
+      - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: ${{ github.ref }}
+
+  build_doc:  
+    if: github.ref == 'refs/heads/doc'
+
       - uses: actions/checkout@v2
         with:
          ref: docs
@@ -38,7 +50,7 @@ jobs:
         run: |
           cd docs
           npm ci
-          npm run install:lib
+          npm i @maticnetwork/token-assets@latest
           npm run build:prod
 
       # Runs a set of commands using the runners shell
