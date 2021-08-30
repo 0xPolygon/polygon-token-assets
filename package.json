@@ -1,7 +1,7 @@
 {
   "name": "@maticnetwork/token-assets",
-  "packageName":"maticnetwork-token-assets",
-  "version": "1.0.2",
+  "packageName": "maticnetwork-token-assets",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/lib.commonjs2.js",
   "types": "dist/ts/index.d.ts",
@@ -19,7 +19,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node src/build.js && npm run webpack:dev",
-    "build:pack":"npm run build && npm pack",
+    "build:pack": "npm run build && npm pack",
     "webpack": "webpack --config webpack.config.js",
     "webpack:dev": "cross-env NODE_ENV=development npm run webpack",
     "webpack:prod": "cross-env NODE_ENV=production npm run webpack"
