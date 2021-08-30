@@ -24,13 +24,8 @@ jobs:
       
       - uses: actions/checkout@main
       
-      - name: Merge master -> docs
-        uses: devmasx/merge-branch@v1.3.1
-        with:
-          type: now
-          from_branch: main
-          target_branch: docs
-          github_token: ${{ github.token }}
+      - name: build & pack
+        run: npm run build:pack
         
       - uses: actions/checkout@v2
         with:
