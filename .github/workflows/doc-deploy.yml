@@ -44,7 +44,8 @@ jobs:
         with:
          branch: ${{ github.ref }}
 
-  build_doc:  
+  build_doc: 
+    needs: [publish] 
     # if: github.ref == 'refs/heads/doc'
     
      # The type of runner that the job will run on
