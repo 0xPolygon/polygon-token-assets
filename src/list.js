@@ -903,6 +903,10 @@ const list = {
                 symbol: "MLINK",
                 icon: 'mlink.svg'
         },
+        'mm': {
+                symbol: "MM",
+                icon: 'mm.svg'
+        },
         'mne': {
                 symbol: "MNE",
                 icon: 'mne.svg'
