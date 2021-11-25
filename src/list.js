@@ -1780,6 +1780,34 @@ const list = {
                 symbol: "UMBER",
                 icon: 'umber.svg'
         },
+        'ice': {
+                symbol: "ICE",
+                icon: 'ice.svg'
+        },
+        'klima': {
+                symbol: "KLIMA",
+                icon: 'klima.svg'
+        },
+        'acy': {
+                symbol: "ACY",
+                icon: 'acy.svg'
+        },
+        'masq': {
+                symbol: "MASQ",
+                icon: 'masq.svg'
+        },
+        'mchc': {
+                symbol: "MCHC",
+                icon: 'mchc.svg'
+        },
+        'pot': {
+                symbol: "POT",
+                icon: 'pot.svg'
+        },
+        'rai': {
+                symbol: "RAI",
+                icon: 'rai.svg'
+        },
 }
 
 exports.list = list;
