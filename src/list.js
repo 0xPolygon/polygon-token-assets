@@ -1812,6 +1812,7 @@ const list = {
                 symbol: "XDG",
                 icon: 'xdg.svg'
         },
+        
 }
 
 exports.list = list;
