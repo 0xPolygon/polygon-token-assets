@@ -1808,6 +1808,10 @@ const list = {
                 symbol: "RAI",
                 icon: 'rai.svg'
         },
+        'xdg': {
+                symbol: "XDG",
+                icon: 'xdg.svg'
+        },
 }
 
 exports.list = list;
