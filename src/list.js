@@ -243,6 +243,11 @@ const list = {
                 symbol: "BZN",
                 icon: 'bzn.svg'
         },
+        
+        'candle': {
+                symbol: "CNDL",
+                icon: 'CNDL.svg'
+        },
         'card': {
                 symbol: "CARD",
                 icon: 'card.svg'
