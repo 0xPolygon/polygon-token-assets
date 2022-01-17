@@ -1812,6 +1812,14 @@ const list = {
                 symbol: "XDG",
                 icon: 'xdg.svg'
         },
+        'Mv': {
+                symbol: "MV",
+                icon: 'mv.svg'
+        },
+        'Leap': {
+                symbol: "LEPA",
+                icon: 'lepa.svg'
+        },
         
 }
 
