@@ -1,9 +1,0 @@
-node_modules
-.github
-src
-test
-webpack
-tsconfig.json
-*.config.js
-build
-*.tgz
