@@ -2,7 +2,7 @@ name: Wallet Asset Production Deployment
 on:
   push:
     branches:
-    - main
+    - DEVOPS-1384-update-secrets-based-auth
   workflow_dispatch:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
       uses: aws-actions/configure-aws-credentials@v1-node16
       with:
         aws-region: eu-west-1
-        role-to-assume: ${{ secrets.ACTION_ROLE }}
+        role-to-assume: arn:aws:iam::042947190491:role/wallet-asset-GithubActionsRole
         role-session-name: GitHubActionsSession
 
     - name: Deploy to S3 bucket
