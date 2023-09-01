@@ -2,7 +2,7 @@ name: Wallet Asset Production Deployment
 on:
   push:
     branches:
-    - DEVOPS-1384-update-secrets-based-auth
+    - main
   workflow_dispatch:
 
 jobs:
