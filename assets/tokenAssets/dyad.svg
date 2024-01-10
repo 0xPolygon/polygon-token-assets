@@ -1,0 +1,25 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_240_3)">
+<g style="mix-blend-mode:luminosity">
+<g style="mix-blend-mode:hard-light">
+<circle cx="128" cy="128" r="122.269" fill="url(#paint0_linear_240_3)" style=""/>
+<circle cx="128" cy="128" r="122.269" stroke="url(#paint1_linear_240_3)" style="" stroke-width="11.4627"/>
+</g>
+</g>
+<circle cx="126.945" cy="127.097" r="51.5305" stroke="black" style="stroke:black;stroke-opacity:1;" stroke-width="7.64179"/>
+<path d="M124.485 192.938L115.366 212.042L137.426 212.042L128.306 192.938L124.485 192.938ZM126.396 56.725C132.023 56.725 136.585 52.1632 136.585 46.536C136.585 40.9087 132.023 36.3469 126.396 36.3469C120.769 36.3469 116.207 40.9087 116.207 46.5359C116.207 52.1632 120.769 56.725 126.396 56.725ZM128.306 194.848L128.306 46.5359L124.485 46.5359L124.485 194.848L128.306 194.848Z" fill="black" style="fill:black;fill-opacity:1;"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_240_3" x1="128" y1="0" x2="128" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C5C4C4" style="stop-color:#C5C4C4;stop-color:color(display-p3 0.7709 0.7677 0.7677);stop-opacity:1;"/>
+<stop offset="1" stop-color="white" style="stop-color:white;stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="paint1_linear_240_3" x1="128" y1="0" x2="128" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" style="stop-color:white;stop-opacity:1;"/>
+<stop offset="1" stop-opacity="0" style="stop-color:none;stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip0_240_3">
+<rect width="256" height="256" fill="white" style="fill:white;fill-opacity:1;"/>
+</clipPath>
+</defs>
+</svg>
