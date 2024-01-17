@@ -1,0 +1,22 @@
+name: Assets Deployment
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      environment:
+        required: false
+        type: choice
+        description: "Select the environment to deploy to (optional for pushes)"
+        options:
+          - staging
+          - prod
+
+jobs:
+  deploy:
+    uses: ./.github/workflows/build_and_deploy.yml
+    with:
+      environment: ${{ inputs.environment || 'dev' }}
+      core_app_name: assets
+    secrets: inherit
