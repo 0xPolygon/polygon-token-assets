@@ -1,4 +1,4 @@
-name: Wallet Asset Deployment
+name: Assets Deployment
 on:
   push:
     branches:
@@ -28,7 +28,7 @@ jobs:
             echo "ACCOUNT_NUMBER=042947190491" >> $GITHUB_OUTPUT
           fi
   deploy_workflow:
-    name: Deploy wallet-asset-${{ needs.set-env-variable.outputs.ENVIRONMENT }}
+    name: Deploy assets-${{ needs.set-env-variable.outputs.ENVIRONMENT }}
     needs: set-env-variable
     permissions:
       id-token: write
@@ -54,7 +54,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v3
         with:
           aws-region: eu-west-1
-          role-to-assume: arn:aws:iam::${{ needs.set-env-variable.outputs.ACCOUNT_NUMBER }}:role/wallet-asset-${{ needs.set-env-variable.outputs.ENVIRONMENT }}-GithubActionsRole
+          role-to-assume: arn:aws:iam::${{ needs.set-env-variable.outputs.ACCOUNT_NUMBER }}:role/assets-${{ needs.set-env-variable.outputs.ENVIRONMENT }}-GithubActionsRole
           role-session-name: GithubActionsSession
 
       - name: Login to Amazon ECR
@@ -66,7 +66,7 @@ jobs:
         env:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
           IMAGE_TAG: ${{ github.sha }}
-          ECR_REPOSITORY: "wallet-asset-${{ needs.set-env-variable.outputs.ENVIRONMENT }}-ecr"
+          ECR_REPOSITORY: "assets-${{ needs.set-env-variable.outputs.ENVIRONMENT }}-ecr"
         run: |
           docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
@@ -74,20 +74,20 @@ jobs:
 
       - name: Extract directory path
         run: |
-          echo "TASKDEF_FILE=.github/taskdefinition_template/wallet-asset-${{ needs.set-env-variable.outputs.ENVIRONMENT }}.json" >> $GITHUB_ENV
+          echo "TASKDEF_FILE=.github/taskdefinition_template/assets-${{ needs.set-env-variable.outputs.ENVIRONMENT }}.json" >> $GITHUB_ENV
 
       - name: Fill in the new image ID in the Amazon ECS task definition
         id: task-def
         uses: aws-actions/amazon-ecs-render-task-definition@v1
         with:
           task-definition: "${{ env.TASKDEF_FILE }}"
-          container-name: "wallet-asset-${{ needs.set-env-variable.outputs.ENVIRONMENT }}"
+          container-name: "assets-${{ needs.set-env-variable.outputs.ENVIRONMENT }}"
           image: ${{ steps.build-image.outputs.image }}
 
       - name: Deploy Amazon ECS task definition
         uses: aws-actions/amazon-ecs-deploy-task-definition@v1
         with:
           task-definition: ${{ steps.task-def.outputs.task-definition }}
-          service: "wallet-asset-${{ needs.set-env-variable.outputs.ENVIRONMENT }}-ecs-service"
+          service: "assets-${{ needs.set-env-variable.outputs.ENVIRONMENT }}-ecs-service"
           cluster: "frontend-${{ needs.set-env-variable.outputs.ENVIRONMENT }}-ecs-cluster"
           wait-for-service-stability: true
