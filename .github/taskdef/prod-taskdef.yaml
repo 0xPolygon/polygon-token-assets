@@ -2,10 +2,10 @@ region: eu-west-1
 account_number: "042947190491"
 hostport: 3000
 containerport: 3000
-app_name: wallet-asset-staging
+app_name: assets-staging
 role: frontend-apps
 environment: staging
-iac: terraform-workspace-aws-test-applications-eu-west-1-apps-wallet-asset-staging-polygon-technology
+iac: terraform-workspace-aws-test-applications-eu-west-1-apps-assets-staging-polygon-technology
 team_name: product-apps
 memory: 1024
 cpu: 512
