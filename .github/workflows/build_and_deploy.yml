@@ -48,6 +48,7 @@ jobs:
           else
             echo "APP_NAME=${{ inputs.core_app_name }}-${{ inputs.environment }}" >> $GITHUB_ENV
           fi
+
       - name: Create taskdef file dynamically using parameters passed
         run: |
           export PIPENV_PIPFILE=.github/taskdefinition_template/Pipfile
@@ -83,11 +84,7 @@ jobs:
 
       - name: Extract taskdef file path
         run: |
-          if [[ "${{ inputs.environment }}" == "prod" ]]; then
-            echo "TASKDEF_FILE=.github/taskdefinition_template/${{ env.APP_NAME }}-${{ inputs.environment }}.json" >> $GITHUB_ENV
-          else
-            echo "TASKDEF_FILE=.github/taskdefinition_template/${{ env.APP_NAME }}.json" >> $GITHUB_ENV
-          fi
+          echo "TASKDEF_FILE=.github/taskdefinition_template/${{ env.APP_NAME }}.json" >> $GITHUB_ENV
 
       - name: Fill in the new image ID in the Amazon ECS task definition
         id: task-def
