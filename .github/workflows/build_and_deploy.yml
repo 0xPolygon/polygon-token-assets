@@ -43,8 +43,11 @@ jobs:
       - name: Determine APP name
         id: get_app_name
         run: |
-          echo "APP_NAME=${{ inputs.environment == 'prod' ? inputs.core_app_name : inputs.core_app_name-${{ inputs.environment }} }}" >> $GITHUB_ENV
-
+          if [[ "${{ inputs.environment }}" == "prod" ]]; then
+            echo "APP_NAME=${{ inputs.core_app_name }}" >> $GITHUB_ENV
+          else
+            echo "APP_NAME=${{ inputs.core_app_name }}-${{ inputs.environment }}" >> $GITHUB_ENV
+          fi
       - name: Create taskdef file dynamically using parameters passed
         run: |
           export PIPENV_PIPFILE=.github/taskdefinition_template/Pipfile
