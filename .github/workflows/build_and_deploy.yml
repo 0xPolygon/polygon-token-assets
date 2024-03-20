@@ -17,8 +17,6 @@ jobs:
       contents: write
     environment: ${{ inputs.environment }}
     runs-on: ubuntu-latest
-    env:
-      APP_NAME: ${{ inputs.core_app_name }}-${{ inputs.environment }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -41,6 +39,11 @@ jobs:
               exit 1
               ;;
           esac
+
+      - name: Determine APP name
+        id: get_app_name
+        run: |
+          echo "APP_NAME=${{ inputs.environment == 'prod' ? inputs.core_app_name : inputs.core_app_name-${{ inputs.environment }} }}" >> $GITHUB_ENV
 
       - name: Create taskdef file dynamically using parameters passed
         run: |
