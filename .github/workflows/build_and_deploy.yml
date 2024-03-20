@@ -81,9 +81,13 @@ jobs:
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
           echo "image=$ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG" >> $GITHUB_OUTPUT
 
-      - name: Extract directory path
+      - name: Extract taskdef file path
         run: |
-          echo "TASKDEF_FILE=.github/taskdefinition_template/${{ env.APP_NAME }}.json" >> $GITHUB_ENV
+          if [[ "${{ inputs.environment }}" == "prod" ]]; then
+            echo "TASKDEF_FILE=.github/taskdefinition_template/${{ env.APP_NAME }}-${{ inputs.environment }}.json" >> $GITHUB_ENV
+          else
+            echo "TASKDEF_FILE=.github/taskdefinition_template/${{ env.APP_NAME }}.json" >> $GITHUB_ENV
+          fi
 
       - name: Fill in the new image ID in the Amazon ECS task definition
         id: task-def
