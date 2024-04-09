@@ -6,8 +6,8 @@ on:
         type: string
         default: "dev"
       core_app_name:
-        required: true
         type: string
+        default: "assets"
 
 jobs:
   deploy_workflow:
@@ -31,7 +31,7 @@ jobs:
             "staging")
               echo "ACCOUNT_NUMBER=${{ secrets.STAGING_ACCOUNT_NUMBER }}" >> $GITHUB_OUTPUT
               ;;
-            "prod")
+              "prod")
               echo "ACCOUNT_NUMBER=${{ secrets.PROD_ACCOUNT_NUMBER }}" >> $GITHUB_OUTPUT
               ;;
             *)
@@ -44,7 +44,7 @@ jobs:
         id: get_app_name
         run: |
           if [[ "${{ inputs.environment }}" == "prod" ]]; then
-            echo "APP_NAME=${{ inputs.core_app_name }}" >> $GITHUB_ENV
+            echo "APP_NAME=${{ inputs.core_app_name }}-${{ inputs.environment }}" >> $GITHUB_ENV
           else
             echo "APP_NAME=${{ inputs.core_app_name }}-${{ inputs.environment }}" >> $GITHUB_ENV
           fi
