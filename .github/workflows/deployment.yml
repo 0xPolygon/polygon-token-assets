@@ -18,5 +18,4 @@ jobs:
     uses: ./.github/workflows/build_and_deploy.yml
     with:
       environment: ${{ inputs.environment || 'dev' }}
-      core_app_name: assets
     secrets: inherit
