@@ -10,7 +10,6 @@ on:
         type: choice
         description: "Select the environment to deploy to (optional for pushes)"
         options:
-          - staging
           - prod
 
 jobs:

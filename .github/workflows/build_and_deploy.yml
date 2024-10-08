@@ -4,7 +4,7 @@ on:
       environment:
         required: false
         type: string
-        default: "dev"
+        default: "staging"
       core_app:
         required: false
         type: string
@@ -21,10 +21,7 @@ jobs:
         - name: Set Environment Variable
           id: set-env-var
           run: |
-              if [ "${{ inputs.environment }}" == "dev" ]; then
-                  echo "ACCOUNT_NUMBER=058264511034" >> $GITHUB_OUTPUT
-                  echo "APP_NAME=${{ inputs.core_app }}-dev" >> $GITHUB_OUTPUT
-              elif [ "${{ inputs.environment }}" == "staging" ]; then
+              if [ "${{ inputs.environment }}" == "staging" ]; then
                   echo "ACCOUNT_NUMBER=070528468658" >> $GITHUB_OUTPUT
                   echo "APP_NAME=${{ inputs.core_app }}-staging" >> $GITHUB_OUTPUT
               elif [ "${{ inputs.environment }}" == "prod" ]; then
