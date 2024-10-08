@@ -16,5 +16,5 @@ jobs:
   deploy:
     uses: ./.github/workflows/build_and_deploy.yml
     with:
-      environment: ${{ inputs.environment || 'dev' }}
+      environment: ${{ inputs.environment || 'staging' }}
     secrets: inherit
