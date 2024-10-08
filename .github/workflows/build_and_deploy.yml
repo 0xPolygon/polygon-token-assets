@@ -24,7 +24,7 @@ jobs:
               if [ "${{ inputs.environment }}" == "staging" ]; then
                   echo "ACCOUNT_NUMBER=070528468658" >> $GITHUB_OUTPUT
                   echo "APP_NAME=${{ inputs.core_app }}-staging" >> $GITHUB_OUTPUT
-              elif [ "${{ inputs.environment }}" == "prod" ]; then
+              else [ "${{ inputs.environment }}" == "prod" ]; then
                   echo "ACCOUNT_NUMBER=042947190491" >> $GITHUB_OUTPUT
                   echo "APP_NAME=${{ inputs.core_app }}" >> $GITHUB_OUTPUT
               fi
