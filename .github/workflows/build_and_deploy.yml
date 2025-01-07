@@ -17,6 +17,7 @@ jobs:
       outputs:
           ACCOUNT_NUMBER: ${{ steps.set-env-var.outputs.ACCOUNT_NUMBER }}
           APP_NAME: ${{ steps.set-env-var.outputs.APP_NAME }}
+          PURGE_HOST: ${{ steps.set-env-var.outputs.PURGE_HOST }}
       steps:
         - name: Set Environment Variable
           id: set-env-var
@@ -24,9 +25,11 @@ jobs:
               if [ "${{ inputs.environment }}" == "staging" ]; then
                   echo "ACCOUNT_NUMBER=070528468658" >> $GITHUB_OUTPUT
                   echo "APP_NAME=${{ inputs.core_app }}-staging" >> $GITHUB_OUTPUT
+                  echo "PURGE_HOST=assets-staging.polygon.technology" >> $GITHUB_OUTPUT
               elif [ "${{ inputs.environment }}" == "prod" ]; then
                   echo "ACCOUNT_NUMBER=042947190491" >> $GITHUB_OUTPUT
                   echo "APP_NAME=${{ inputs.core_app }}" >> $GITHUB_OUTPUT
+                  echo "PURGE_HOST=assets.polygon.technology" >> $GITHUB_OUTPUT
               fi
           
   deploy:
@@ -40,3 +43,16 @@ jobs:
           cluster_name: frontend-${{ inputs.environment }}-ecs-cluster
           account_number: "${{ needs.set-env-variable.outputs.ACCOUNT_NUMBER }}"
       secrets: inherit
+
+  cloudflare-purge:
+    runs-on: ubuntu-latest
+    needs:
+      - set-env-variable  # Ensures it waits for set-env-variable to complete
+      - deploy            # Ensures it waits for deploy to complete
+    steps:
+      - name: Cloudflare Cache Purge
+        uses: nathanvaughn/actions-cloudflare-purge@master
+        with:
+          cf_zone: ${{ secrets.CLOUDFLARE_ZONE }}
+          cf_auth: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
+          hosts: ${{ needs.set-env-variable.outputs.PURGE_HOST }}
