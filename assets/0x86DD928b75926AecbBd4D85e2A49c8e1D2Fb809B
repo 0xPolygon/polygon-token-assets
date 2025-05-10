@@ -1,0 +1,9 @@
+{ 
+"name": "VIDE",
+"symbol": "VIDE",
+"decimals": 18,
+"address": "0x86DD928b75926AecbBd4D85e2A49c8e1D2Fb809B",
+"chainId": 137, 
+"logoURI": "https://raw.githubusercontent.com/Token-VIDE/VIDE-token/main/VIDE.png", 
+"tags": ["token", "community"],
+"description": "Token conceptuel sans objectif. VIDE est un jeton né du néant." }
