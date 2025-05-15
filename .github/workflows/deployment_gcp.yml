@@ -1,26 +1,28 @@
 name: Assets Deployment GCP
 on:
   push:
-    branches:
+    branches: 
       - main
   workflow_dispatch:
     inputs:
-      environment:
+      tag:
+        description: 'Tag to build and push'
         required: true
-        type: choice
-        description: "Select the environment to deploy to"
-        options:
-          - staging
-          - prod
-          - dev
+        type: string
 
 permissions:
   contents: read
   id-token: write
 
 jobs:
+  generate-version:
+    uses: 0xPolygon/pipelines/.github/workflows/generate_version.yaml@main
+
   docker-release:
-    uses: 0xPolygon/pipelines/.github/workflows/gcp_pipeline_release_image.yaml@main
+    needs:
+        - generate-version  
+    uses: 0xPolygon/pipelines/.github/workflows/gcp_pipeline_release_image.yaml@main    
     with:
-      image_name: assets
-      environment: ${{ github.event_name == 'push' && 'dev' || inputs.environment }}
+        image_name: "polygon-token-assets"
+        image_tag: ${{ inputs.tag || needs.generate-version.outputs.version }}
+        checkout_ref: ${{ github.ref_name }}
