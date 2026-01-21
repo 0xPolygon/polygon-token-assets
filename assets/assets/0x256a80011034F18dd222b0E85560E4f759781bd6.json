@@ -1,0 +1,8 @@
+{
+  "name": "Hash Coin",
+  "symbol": "HASH",
+  "address": "0x256a80011034F18dd222b0E85560E4f759781bd6",
+  "decimals": 18,
+  "chainId": 137,
+  "logoURI": "https://raw.githubusercontent.com/hashsoos/assets/master/blockchains/polygon/assets/0x256a80011034F18dd222b0E85560E4f759781bd6/logo.png"
+}
