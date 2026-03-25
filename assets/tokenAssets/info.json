@@ -1,0 +1,25 @@
+{
+  "name": "Millionaire Of Crypto",
+  "symbol": "MOC",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Millionaire of Crypto (MOC) is an independent memecoin built on Polygon. Designed for NFT, community engagement, and decentralized trading.",
+  "website": "",
+  "explorer": "https://polygonscan.com/token/0x1d35028793Dd84E229C921C2FcF288a113647e1e",
+  "status": "active",
+  "id": "0x1d35028793Dd84E229C921C2FcF288a113647e1e",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/ISI_TWITTER_KAMU"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ISI_TELEGRAM_KAMU"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/ISI_DISCORD_KAMU"
+    }
+  ]
+}
